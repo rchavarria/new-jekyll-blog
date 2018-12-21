@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: default
 title: "El comunicador t&iacute;mido"
 date: 2009-12-16 12:16
 author: Rubén Chavarría
@@ -18,7 +18,7 @@ Eres tímido? No te preocupes, Sacha Chua te da unos consejos, no para superar t
 
 <!-- more -->
 
-<iframe src='http://www.slideshare.net/slideshow/embed_code/1879213' width='479' height='393'></iframe>
+<iframe src="//www.slideshare.net/slideshow/embed_code/key/gfRJfCiGH7Mwd3" width="595" height="485" frameborder="0" marginwidth="0" marginheight="0" scrolling="no" style="border:1px solid #CCC; border-width:1px; margin-bottom:5px; max-width: 100%;" allowfullscreen> </iframe> <div style="margin-bottom:5px"> <strong> <a href="//www.slideshare.net/sachac/the-shy-connector" title="The Shy Connector" target="_blank">The Shy Connector</a> </strong> from <strong><a href="//www.slideshare.net/sachac" target="_blank">Sacha Chua</a></strong> </div>
 
 Los puntos que me han parecido más importantes para destacarlos son:
 <ol>
