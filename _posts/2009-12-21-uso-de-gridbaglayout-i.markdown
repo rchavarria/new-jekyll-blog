@@ -56,6 +56,3 @@ ocupe varias filas y varias columnas a la vez, como por ejemplo `btn6`.
 
 *Actualización*: si te ha gustado, quizá deberías ver la segunda parte 
 [Uso de GridBagLayout (y II)]({{ site.baseurl }}/toma/tomate/{% post_url 2010-01-20-uso-de-gridbaglayout-y-ii %}).
-
-Post url is: {% post_url 2010-01-20-uso-de-gridbaglayout-y-ii %}
-
