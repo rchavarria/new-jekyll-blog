@@ -17,8 +17,8 @@ sidebar: true
   <p>Este post pertenece a mi antiguo blog en <a href="http://rchavarria.wordpress.com">wordpress</a>, pero decidí pasarme a github:pages por las siguientes <a href="/blog/2012/12/03/por-que-cambie-mi-blog-en-wordpress-com">razones</a></p>
 </div>
 
-Antes de leer esta entrada deberías leer 
-[Uso de GridBagLayout (I)](/2009/12/21/uso-de-gridbaglayout-i),
+Antes de leer esta entrada deberías leer
+{% post_url 2009-12-21-uso-de-gridbaglayout-i %},
 si no lo has hecho ya.
 
 Veamos algunos parámetros que nos permitirán configurar cómo se verán nuestros 
