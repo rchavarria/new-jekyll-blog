@@ -31,8 +31,6 @@ ejemplo Matisse para NetBeans.
 
 Lo primero de todo veamos qué se puede conseguir con este gestor de layout:
 
-{% img center /images/wordpress/gridbaglayout-frame1.png 250 142 Ventana usando `GridBagLayout` %}
-
 ![Ventana usando `GridBagLayout`](/images/wordpress/gridbaglayout-frame1.png)
 
 `GridBagLayout` coloca los componentes en una serie de filas y columnas, permite 
@@ -41,8 +39,6 @@ tienen porque tener la misma altura o anchura. Finalmente, `GridBagLayout` calcu
 estas alturas y anchuras dependiendo de los atributos preferredSize de los componentes. 
 En la siguiente imagen podemos el diseño de cada una de las celdas en las que se 
 divide `GridBagLayout`:
-
-{% img center /images/wordpress/gridbaglayout-design.png 172 124 Diseñando un panel con GridBagLayout %}
 
 ![Diseñando un panel con `GridBagLayout`](/images/wordpress/gridbaglayout-design.png)
 
