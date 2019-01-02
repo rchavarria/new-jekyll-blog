@@ -1,5 +1,4 @@
 ---
-layout: default
 title: "Uso de GridBagLayout (I)"
 date: 2009-12-21 22:01
 author: Rubén Chavarría
@@ -55,4 +54,5 @@ nuestro ejemplo, `gridx=3` y `gridy=3` indican la celda inferior derecha.
 que ocupa el componente. El valor por defecto es `1` y es posible que un componente 
 ocupe varias filas y varias columnas a la vez, como por ejemplo `btn6`.
 
-*Actualización*: si te ha gustado, quizá deberías ver la segunda parte [Uso de GridBagLayout (y II)](/2010/01/20/uso-de-gridbaglayout-y-ii)
+*Actualización*: si te ha gustado, quizá deberías ver la segunda parte 
+[Uso de GridBagLayout (y II)]({{ site.baseurl }}{% post_url 2010-01-20-uso-de-gridbaglayout-y-ii %}),

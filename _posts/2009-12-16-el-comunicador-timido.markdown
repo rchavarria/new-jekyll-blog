@@ -1,5 +1,4 @@
 ---
-layout: default
 title: "El comunicador t&iacute;mido"
 date: 2009-12-16 12:16
 author: Rubén Chavarría
