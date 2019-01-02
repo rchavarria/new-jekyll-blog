@@ -18,7 +18,7 @@ sidebar: true
 </div>
 
 Antes de leer esta entrada deberías leer
-{% post_url 2009-12-21-uso-de-gridbaglayout-i %},
+[Uso de GridBagLayout (I)]({% post_url 2009-12-21-uso-de-gridbaglayout-i %}),
 si no lo has hecho ya.
 
 Veamos algunos parámetros que nos permitirán configurar cómo se verán nuestros 
