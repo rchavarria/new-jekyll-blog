@@ -28,7 +28,7 @@ de progreso.
 
 <!-- more -->
 
-La clase `SwingWorker` tiene la siguiente definición: `SwingWorker&lt;T, V&gt;`. En la entrada 
+La clase `SwingWorker` tiene la siguiente definición: `SwingWorker<T, V>`. En la entrada 
 anterior vimos que la forma básica de recuperar el resultado de nuestros cálculos era a 
 través del método `get()`, el cuál retorna un valor de tipo genérico `T`. El genérico 
 `V` es el tipo de datos que admiten los métodos `publish` y `process` y es el tipo de datos 
