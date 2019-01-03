@@ -106,4 +106,4 @@ SwingWorker&lt;Document, Void&gt; worker = new SwingWorker&lt;MyXMLFile, Void&gt
 `addPropertyChangeListener(PropertyChangeListener listener)` 
 el cual será notificado de cambios en el estado de `SwingWorker`
 
-*Actualización (26-01-2010)*: <a href="/blog/2010/01/26/uso-avanzado-de-swingworker/">Uso avanzado de SwingWorker</a>
+*Actualización (26-01-2010)*: [Uso avanzado de `SwingWorker`]({{ site.baseurl }}{% post_url 2010-01-26-uso-avanzado-de-swingworker %})
