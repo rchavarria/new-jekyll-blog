@@ -46,7 +46,7 @@ books, courses, etc)
 
 <!-- -->
 
-> Use modern Java technologies (Still using Java 1.4?
+> Use modern Java technologies (Still using Java 1.4?)
 
 <!-- -->
 
