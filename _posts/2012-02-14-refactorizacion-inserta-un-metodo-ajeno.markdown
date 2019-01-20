@@ -15,7 +15,7 @@ sidebar: true
 En este post voy a describir una de las muchas refactorizaciones que describe 
 Martin Fowler en su libro 
 [Refactoring: improving the design of existing code](http://martinfowler.com/refactoring/)
-([mis impresiones sobre el libro]({{ site.baseurl }}{% post_url 2012-01-25-refactoring-improving-the-design-of-exsisting-code %})),
+([mis impresiones sobre el libro]({{ site.baseurl }}{% post_url 2012-01-25-refactoring-improving-the-design-of-existing-code %})),
 He escogido la refactorización de 
 [insertar método ajeno](http://martinfowler.com/refactoring/catalog/introduceForeignMethod.html)
 por ser una de las que, aun siendo sencilla, no había sido consciente de 
