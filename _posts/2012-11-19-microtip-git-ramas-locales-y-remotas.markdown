@@ -1,5 +1,4 @@
 ---
-layout: page
 title: "[microtip] git: ramas locales y remotas"
 date: 2012-11-19 11:19
 author: Rubén Chavarría
