@@ -249,10 +249,10 @@ Esto arrancará el servidor. Después, visita la URL
 the reference implementation of the JSF specification.
 - [JSF on Wikipedia](https://en.wikipedia.org/wiki/JavaServer_Faces):
 Wikipedia entry for JavaServer Faces.
-- [Facelets]: Facelets is the default templating system for JSF, instead of JSP's pages
+- [Facelets](https://en.wikipedia.org/wiki/Facelets): Facelets is the default templating system for JSF, instead of JSP's pages
 - [MyFaces](https://myfaces.apache.org/):
 an implementation developed by Apache.
-- [Apache Tomahawk]: componentes y utilidades JSF para su uso con la implementación de
+- [Apache Tomahawk](http://myfaces.apache.org/tomahawk/index.html): componentes y utilidades JSF para su uso con la implementación de
 JSF 2.x.
 - [Kinds of managed beans](http://java.dzone.com/articles/making-distinctions-between):
 a comparison table of several kinds of managed beans.
