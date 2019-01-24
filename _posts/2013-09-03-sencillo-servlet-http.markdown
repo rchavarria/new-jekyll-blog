@@ -1,5 +1,4 @@
 ---
-layout: post
 title: "Un sencillo servlet HTTP"
 date: 2013-09-03 13:41
 comments: true

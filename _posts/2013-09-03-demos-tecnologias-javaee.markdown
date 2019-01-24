@@ -1,5 +1,4 @@
 ---
-layout: post
 title: "Demos de tecnologías Java EE"
 date: 2013-09-03 12:55
 comments: true

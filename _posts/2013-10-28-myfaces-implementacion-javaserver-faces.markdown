@@ -1,5 +1,4 @@
 ---
-layout: post
 title: "Apache MyFaces como implementacion de JavaServer Faces"
 date: 2013-10-28 13:12
 author: Rubén Chavarría

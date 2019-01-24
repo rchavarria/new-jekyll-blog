@@ -1,5 +1,4 @@
 ---
-layout: post
 title: "Leer parámetros desde un servlet"
 date: 2013-09-13 12:39
 comments: true

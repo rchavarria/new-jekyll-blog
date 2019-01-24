@@ -1,5 +1,4 @@
 ---
-layout: post
 title: "Crear un servicio web JAX-WS"
 date: 2013-09-19 08:49
 comments: true

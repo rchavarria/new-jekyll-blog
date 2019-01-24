@@ -1,5 +1,4 @@
 ---
-layout: post
 title: "Servlet redirecciona a una JSP"
 date: 2013-09-17 13:27
 comments: true

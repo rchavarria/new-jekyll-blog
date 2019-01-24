@@ -1,5 +1,4 @@
 ---
-layout: post
 title: "Crear una applicación cliente para un servicio web"
 date: 2013-09-26 07:41
 comments: true
