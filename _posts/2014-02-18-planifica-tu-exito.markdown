@@ -109,7 +109,7 @@ introduce el BCID: 659-11704854
 - Vídeo explicativo acerca de [«eficacia vs. eficiencia»]
 
 [Planifica tu éxito]: http://www.amazon.es/Planifica-tu-%C3%A9xito-aprendiz-empresario/dp/841545757X/ref=sr_1_1?s=books&ie=UTF8&qid=1392882947&sr=1-1
-[notas sobre Planifica tu éxito]: https://github.com/rchavarria/book-notes/blob/master/published/planifica-exito-by-roberto-canales.md
+[notas sobre Planifica tu éxito]: https://github.com/rchavarria/blog-post-incubator/blob/master/published-book-notes/planifica-exito-by-roberto-canales.md
 [BookCrossing]: http://bookcrossing.com
 [Adictos al trabajo]: www.adictosaltrabajo.com/book_section.inc.php?book=2
 [Cómo iniciar una conversación y hacer amigos]: http://www.profiteditorial.com/libros-para-vivir-mejor/habilidades-personales/c%C3%B3mo-iniciar-una-conversaci%C3%B3n-y-hacer-amigos
