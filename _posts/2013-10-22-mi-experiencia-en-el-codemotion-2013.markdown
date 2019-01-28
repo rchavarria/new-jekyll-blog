@@ -38,7 +38,7 @@ de [Deiser] y [Autentia]. Estoy contento, porque me permitió conocer profesiona
 que trabajan en dos empresas que admiro, no sólo por lo que hacen, si no por cómo
 lo hacen (y además me hice con un poco de *merchandaising*). 
 
-{% img center /images/2013/codemotion-merchandaising.jpg Codemotion Spain 2013 %}
+![Codemotion Spain 2013](/images/2013/codemotion-merchandaising.jpg)
 
 Este año, mi edición del Codemotion ha sido muy ligera. Me da mucha pena, pero
 los compromisos son los compromisos, que también los disfruté, por lo que no me
