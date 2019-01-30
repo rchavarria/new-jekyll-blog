@@ -80,4 +80,4 @@ que quiero recordar ya lo he escrito antes, aquí dejo un enlace a
 - [Comprar el libro en Amazon](http://www.amazon.com/How-Start-Conversation-Make-Friends/dp/1451610998)
 - [Mis notas sobre How to start conversations and make friends]
 
-[Mis notas sobre How to start conversations and make friends]: https://github.com/rchavarria/blog-post-incubator/blob/master/published/how-start-conversation-make-friends-by-don-gabor.md
+[Mis notas sobre How to start conversations and make friends]: https://github.com/rchavarria/blog-post-incubator/blob/master/published-book-notes/how-start-conversation-make-friends-by-don-gabor.md
