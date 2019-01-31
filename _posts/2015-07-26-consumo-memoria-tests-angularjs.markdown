@@ -1,5 +1,4 @@
 ---
-layout: post
 title: "Análisis de consumo de memoria en tests de AngularJS"
 date: 2015-07-26 22:10
 author: Rubén Chavarría
@@ -59,7 +58,7 @@ módulo pequeño.
 
 ## Aplicación completa
 
-{% img center /images/2015/memory-benchmark-big.thumbnail.png %}
+![Memory benchmark](/images/2015/memory-benchmark-big.thumbnail.png)
 
 [Ver la imagen en grande](/images/2015/memory-benchmark-big.png)
 
@@ -78,7 +77,7 @@ la ejecución de los tests, el navegador no considera que deba liberar memoria.
 
 ## Módulo pequeño
 
-{% img center /images/2015/memory-benchmark-small.thumbnail.png %}
+![Memory benchmark, small](/images/2015/memory-benchmark-small.thumbnail.png)
 
 [Ver la imagen en grande](/images/2015/memory-benchmark-small.png)
 
@@ -122,4 +121,3 @@ mucho más rápido, ya sea una aplicación Angular o no.
 [KarmaJS]: https://karma-runner.github.io
 [PhantomJS]: http://phantomjs.org
 [Speed up JavaScript test time 1000x]: http://shyp.github.io/2015/07/13/speed-up-your-javascript-tests.html
-

@@ -1,5 +1,4 @@
 ---
-layout: post
 title: "Charla técnica: A short history of Software Engineering"
 date: 2015-08-16 21:42
 author: Rubén Chavarría
@@ -113,4 +112,3 @@ no identificar problemas (observar), idear una solución (hipótesis) y construi
 [2]: https://twitter.com/nusco
 [3]: https://twitter.com/jbrains
 [4]: https://www.youtube.com/watch?v=zDEpeWQHtFU
-

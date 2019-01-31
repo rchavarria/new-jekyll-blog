@@ -1,5 +1,4 @@
 ---
-layout: post
 title: "Notes to a software team leader"
 date: 2015-08-23 18:16
 author: Rubén Chavarría
@@ -14,7 +13,7 @@ sidebar: true
 
 ##### de Roy Osherove
 
-{% img left https://s3.amazonaws.com/titlepages.leanpub.com/teamleader/large?1438389048 200 260 Notes to a software team leader %}
+![Notes to a software team leader](https://s3.amazonaws.com/titlepages.leanpub.com/teamleader/large?1438389048)
 
 ## Por qué lo he leído
 

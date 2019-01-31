@@ -1,5 +1,4 @@
 ---
-layout: post
 title: "Screencast de programación: Robot name (exercism.io)"
 date: 2015-11-01 09:16
 author: Rubén Chavarría
@@ -77,4 +76,3 @@ mismo problema, a modo de kata.
 [exercism.io]: http://exercism.io/
 [track de ECMAScript]: http://exercism.io/languages/ecmascript
 [El juego del disparejo]: /blog/2014/10/23/screencast-programacion-juego-disparejo/
-

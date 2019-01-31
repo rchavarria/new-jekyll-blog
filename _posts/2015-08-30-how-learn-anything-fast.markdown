@@ -1,5 +1,4 @@
 ---
-layout: post
 title: "Charla no técnica: How to learn anything... fast"
 date: 2015-08-30 19:09
 author: Rubén Chavarría
@@ -73,4 +72,3 @@ al final de todo el proceso he llegado donde quería.
 
 [1]: https://www.youtube.com/watch?v=EtJy69cEOtQ
 [2]: http://joshkaufman.net/
-

@@ -1,5 +1,4 @@
 ---
-layout: post
 title: "Aprendiendo Ionic 2"
 date: 2015-11-15 22:49
 author: Rubén Chavarría
@@ -29,7 +28,7 @@ versión 2 siguen con la filosofía de estar muy preocupados por el rendimiento.
 En este post veremos lo realmente fácil que es comenzar a desarrollar con estas
 herrmientas.
 
-{% img center /images/2015/ionic-framework.jpg 350 185 Ionic Framework %}
+![Ionic Framework](/images/2015/ionic-framework.jpg)
 
 <!-- more -->
 
@@ -289,4 +288,3 @@ un mínimo de calidad en cualquier proyecto software.
 [el API de dispositivos de Ionic 2]: http://ionicframework.com/docs/v2/platform
 [Recursos]: http://ionicframework.com/docs/v2/resources/
 [Tests en Angular 2]: https://angular.io/docs/ts/latest/testing/
-

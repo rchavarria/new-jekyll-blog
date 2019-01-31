@@ -1,5 +1,4 @@
 ---
-layout: post
 title: "JavaScript patterns"
 date: 2015-07-19 21:10
 author: Rubén Chavarría
@@ -15,7 +14,7 @@ sidebar: true
 
 ##### de Stoyan Stefanov
 
-{% img left http://akamaicovers.oreilly.com/images/9780596806767/lrg.jpg 250 328 JavaScript patterns %}
+![JavaScript patterns](http://akamaicovers.oreilly.com/images/9780596806767/lrg.jpg)
 
 ## Por qué lo he leído
 
@@ -88,4 +87,3 @@ HTML.
 [Learning JavaScript design patterns]: /blog/2015/05/29/learning-javascript-design-patterns/
 [Design patterns]: http://www.amazon.com/Design-Patterns-Elements-Reusable-Object-Oriented-ebook/dp/B000SEIBB8
 [JavaScript, the good parts]: http://www.amazon.com/JavaScript-Good-Parts-Douglas-Crockford/dp/0596517742
-

@@ -1,5 +1,4 @@
 ---
-layout: post
 title: "Artículo técnico: Getting testy"
 date: 2015-12-28 21:33
 author: Rubén Chavarría
@@ -209,4 +208,3 @@ dando la respuesa correcta. Solo nos interesa si el código está dando la
 [Justin Searls]: https://twitter.com/searls
 [Comparación escuelas TDD]: https://www.youtube.com/watch?v=aeX5OXO-w30
 [F.I.R.S.T.]: http://agileinaflash.blogspot.de/2009/02/first.html
-

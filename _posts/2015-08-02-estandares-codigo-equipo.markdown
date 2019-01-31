@@ -1,5 +1,4 @@
 ---
-layout: post
 title: "Estándares de código en tu equipo"
 date: 2015-08-02 21:58
 author: Rubén Chavarría
@@ -41,7 +40,7 @@ el equipo.
 
 <!-- more -->
 
-{% img center /images/2015/ruler.png %}
+![Rules](/images/2015/ruler.png)
 
 ## Reglas
 
@@ -190,4 +189,3 @@ las clases `*Sniff` no son más que posibles parámetros a usar en el
 [el código de PHP_CodeSniffer]: https://github.com/squizlabs/PHP_CodeSniffer
 [Mejora contínua y análisis estático de código]: /blog/2014/05/05/mejora-continua-y-analisis-estatico-de-codigo
 [Documentación de las reglas de PHP_CodeSniffer]: http://stackoverflow.com/questions/16427207/php-codesniffer-rules-documentation
-

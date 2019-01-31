@@ -1,5 +1,4 @@
 ---
-layout: post
 title: "Dando un empujón al blog"
 date: 2015-06-28 23:48
 author: Rubén Chavarría
@@ -44,4 +43,3 @@ interesante.
 [John Sonmez]: http://simpleprogrammer.com/about-me
 [Soft skills]: http://www.amazon.com/gp/product/1617292397
 [curso gratuito sobre cómo crear un blog]: http://devcareerboost.com/blog-course
-

@@ -1,5 +1,4 @@
 ---
-layout: post
 title: "Learning JavaScript design patterns"
 date: 2015-05-29 01:04
 author: Rubén Chavarría
@@ -16,7 +15,7 @@ sidebar: true
 
 ## Por qué lo he leído
 
-{% img left http://www.addyosmani.com/resources/essentialjsdesignpatterns/cover/cover.jpg 206 271 JavaScript desing patterns %}
+![JavaScript desing patterns](http://www.addyosmani.com/resources/essentialjsdesignpatterns/cover/cover.jpg)
 
 Ya llevo un tiempo programando con JavaScript de forma profesional, y empiezo
 a sentir que necesito ir un paso más allá con el lenguaje. No creo que conozca
@@ -87,4 +86,3 @@ que pueden compartir un subconjunto de sus datos
 [Sintaxis definitiva de módulos]: http://www.2ality.com/2014/09/es6-modules-final.html
 [Notas tomadas]: https://github.com/rchavarria/blog-post-incubator/blob/master/published-book-notes/learning-javascript-design-patterns-by-addy-oshmany.markdown
 [JavaScript patterns]: http://www.amazon.com/JavaScript-Patterns-Stoyan-Stefanov/dp/0596806752
-

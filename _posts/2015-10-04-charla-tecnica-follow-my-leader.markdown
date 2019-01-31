@@ -1,5 +1,4 @@
 ---
-layout: post
 title: "Charla técnica: Follow my leader"
 date: 2015-10-04 15:21
 author: Rubén Chavarría
@@ -52,7 +51,7 @@ ahí están las combinaciones de teclas dsiponibles para tus plugins.
 - En la imagen de la [chuleta de Vim], los naranjas son operadores, los
 verdes movimientos y los amarillos son comandos.
 
-{% img center /images/2015/tiny-vi-vim-cheat-sheet.gif %}
+![Vim cheat sheet](/images/2015/tiny-vi-vim-cheat-sheet.gif)
 
 - El plugin [unimpaired.vim] añade mapeos como `con` para habilitar/deshabilitar los
 nuḿeros de línea, o `cos` para habilitar/deshabilitar el chequeo ortográfico.
@@ -86,4 +85,3 @@ duda es uno de los imprescindibles, como tantos otros de Tim Pope.
 [chuleta de Vim]: http://www.viemu.com/vi-vim-cheat-sheet.gif
 [Tim Pope]: http://tpo.pe/
 [unimpaired.vim]: https://github.com/tpope/vim-unimpaired
-

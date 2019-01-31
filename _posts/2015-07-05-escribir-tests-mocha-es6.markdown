@@ -1,5 +1,4 @@
 ---
-layout: post
 title: "Escribir y ejecutar tests de Mocha en ECMAScript 6"
 date: 2015-07-05 21:59
 author: Rubén Chavarría
@@ -152,4 +151,3 @@ comando `npm test`. Para ello, modificaremos el fichero `package.json`:
 [ESLint]: http://eslint.org
 [`.eslintrc` de ejemplo]: https://raw.githubusercontent.com/rchavarria/solveet-exercises-js/master/.eslintrc
 [Travis CI]: https://travis-ci.org
-

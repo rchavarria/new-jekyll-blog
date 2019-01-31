@@ -1,5 +1,4 @@
 ---
-layout: post
 title: "Dart Streams"
 date: 2015-03-28 01:39
 author: Rubén Chavarría
@@ -237,4 +236,3 @@ subscription.onData((value) {
 [Rod Vagg]: http://r.va.gg
 [Futures con Dart]: /blog/2015/01/29/operaciones-asincronas-en-dart-con-futures/
 [API Streams]: http://api.dartlang.org/dart_async/Stream.html
-

@@ -1,5 +1,4 @@
 ---
-layout: post
 title: "Se aceptan mejoras"
 date: 2015-11-22 22:27
 author: Rubén Chavarría
@@ -17,7 +16,7 @@ Existe una cosa maravillosa en el mundo de open source, y es que personas que
 ni siquiera sabes que existen, usan tu trabajo, lo mejoran con el suyo, y te lo
 donan a tí para que otra gente se beneficie del trabajo de ambos.
 
-{% img left /images/2015/contribution.png %}
+![Contribution](/images/2015/contribution.png)
 
 Imagina que tienes una librería y tienes una base de usuarios. Ningún software
 se adapta a todos sus usuarios, así que lo más seguro es que los usuarios de tu
@@ -142,7 +141,7 @@ En esta fase se pueden hacer nuevos cambios o pedir al programador que
 contribuye que realice algunos cambios por sí mismo y que actualize el Pull
 Request.
 
-{% img center /images/2015/github-diff.png %}
+![Github diff](/images/2015/github-diff.png)
 
 ## Incorporar los cambios
 
@@ -198,7 +197,7 @@ To https://github.com/exercism/xecmascript.git
 
 ... ¡magia!
 
-{% img center /images/2015/pull-request-merged.png %}
+![PR merged](/images/2015/pull-request-merged.png)
 
 ## Referencias
 
@@ -215,6 +214,3 @@ To https://github.com/exercism/xecmascript.git
 [Better commit messages]: http://tbaggery.com/2008/04/19/a-note-about-git-commit-messages.html
 [Do your commits suck?]: https://www.youtube.com/watch?v=8YjSty6bfog
 [documentación de git sobre el comando `rebase`]: http://www.git-scm.com/book/en/v2/Git-Branching-Rebasing
-
-
-

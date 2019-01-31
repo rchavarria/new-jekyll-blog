@@ -1,5 +1,4 @@
 ---
-layout: post
 title: "Charla técnica: Is TDD dead? Of course not!"
 date: 2015-01-17 17:35
 author: Rubén Chavarría
@@ -49,4 +48,3 @@ discernir qué información es válida para tu nivel.
 [TDD is dead, long live testing]: http://david.heinemeierhansson.com/2014/tdd-is-dead-long-live-testing.html
 [cyber-dojo.org]: http://cyber-dojo.org
 [tests de Aprobación]: http://coding-is-like-cooking.info/tag/approval-testing
-

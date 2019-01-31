@@ -1,5 +1,4 @@
 ---
-layout: post
 title: "Los eventos que vienen"
 date: 2015-09-27 23:11
 author: Rubén Chavarría
@@ -96,4 +95,3 @@ asistentes inmejorables. ¿A qué esperas?
 [la CAS2012 fue toda un experiencia para mí]: /blog/2012/11/08/mi-experiencia-en-la-cas2012/
 [Círculo de Bellas Artes]: http://www.circulobellasartes.com/
 [proceso de votación de charlas]: https://trello.com/chairscas2015
-

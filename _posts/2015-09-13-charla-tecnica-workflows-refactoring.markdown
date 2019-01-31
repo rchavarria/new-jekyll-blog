@@ -1,5 +1,4 @@
 ---
-layout: post
 title: "Charla técnica: Workflows of refactoring"
 date: 2015-09-13 10:08
 author: Rubén Chavarría
@@ -112,4 +111,3 @@ Así que ya sabes, haz un hueco en la agenda, y ¡a visualizar la charla!
 
 [Workflows of refactoring]: https://www.youtube.com/watch?v=vqEg37e4Mkw
 [Martin Fowler]: http://www.martinfowler.com/
-

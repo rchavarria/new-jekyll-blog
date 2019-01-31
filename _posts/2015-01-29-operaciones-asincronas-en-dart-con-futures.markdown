@@ -1,5 +1,4 @@
 ---
-layout: post
 title: "Operaciones asíncronas en Dart con Futures"
 date: 2015-01-29 22:06
 author: Rubén Chavarría
@@ -161,4 +160,3 @@ por el [tutorial sobre Futures] o que le eches un ojo al [código completo] del 
 [Dart]: http://dartlang.org
 [tutorial sobre Futures]: https://www.dartlang.org/docs/tutorials/futures/
 [código completo]: https://github.com/rchavarria/dart-tutorials/tree/master/futures
-

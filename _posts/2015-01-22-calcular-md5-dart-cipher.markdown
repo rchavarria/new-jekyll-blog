@@ -1,5 +1,4 @@
 ---
-layout: post
 title: "Calcular hashes MD5 en Dart con cipher"
 date: 2015-01-22 23:02
 author: Rubén Chavarría
@@ -113,4 +112,3 @@ class Utf8String2MD5 {
 [acceso a la API pública de Marvel]: http://www.solveet.com/exercises/Acceder-a-la-API-Marvel/299
 [cipher]: https://github.com/izaera/cipher
 [Iván Zaera]: https://twitter.com/izaera
-

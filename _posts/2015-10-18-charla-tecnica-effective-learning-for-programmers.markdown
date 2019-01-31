@@ -1,5 +1,4 @@
 ---
-layout: post
 title: "Charla técnica: Effective learning for programmers"
 date: 2015-10-18 18:46
 comments: true
@@ -108,4 +107,3 @@ ayuda al aprendizaje.
 
 [Allison Kaptur]: http://akaptur.com/
 [Effective learning for programmers]: https://www.youtube.com/embed/Mcc6JEhDSpo
-

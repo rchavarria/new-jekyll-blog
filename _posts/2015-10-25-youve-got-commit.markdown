@@ -1,5 +1,4 @@
 ---
-layout: post
 title: "You've got commit!"
 date: 2015-10-25 15:18
 author: Rubén Chavarría
@@ -126,4 +125,3 @@ Espero veros por allí. Si decidis probarlo, veréis mi careto.
 [Manuel Rivero, en Garajeando]: http://garajeando.blogspot.com.es/
 [mi cuenta de GitHub]: https://github.com/rchavarria
 [track de ECMAScript 2015]: http://exercism.io/languages/ecmascript
-

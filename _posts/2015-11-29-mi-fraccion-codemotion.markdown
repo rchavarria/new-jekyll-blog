@@ -1,5 +1,4 @@
 ---
-layout: post
 title: "Mi fracción del Codemotion 2015"
 date: 2015-11-29 19:09
 author: Rubén Chavarría
@@ -218,4 +217,3 @@ me llevo para casa:
 [Gente que hace cosas con cacharros]: http://2015.codemotion.es/agenda.html#5699289732874240/43004009
 [Miguel Ángel López]: https://www.koliseo.com/miguelangellv
 [Jose Juan Sánchez]: https://twitter.com/josejuansanchez
-

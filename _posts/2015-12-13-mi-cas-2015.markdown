@@ -1,5 +1,4 @@
 ---
-layout: post
 title: "Mi CAS 2015"
 date: 2015-12-13 21:48
 author: Rubén Chavarría
@@ -211,4 +210,3 @@ gustó aquello que hiciste/dijiste, discrepo con aquello que ...)
 [Streaming del día 1]: https://www.youtube.com/watch?v=C6Sy0v19RAc
 [Streaming del día 2]: https://www.youtube.com/watch?v=_CcO9upHiDU
 [Martin Fowler acerca de CQRS]: http://martinfowler.com/bliki/CQRS.html
-

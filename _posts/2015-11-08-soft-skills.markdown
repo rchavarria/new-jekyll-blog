@@ -1,5 +1,4 @@
 ---
-layout: post
 title: "Soft skills"
 date: 2015-11-08 18:36
 author: Rubén Chavarría
@@ -14,7 +13,7 @@ sidebar: true
 
 ###### de John Sonmez
 
-{% img left /images/2015/soft-skills.jpg 239 300 Soft skills %}
+![Soft skills](/images/2015/soft-skills.jpg)
 
 ### Por qué lo he leído
 
@@ -211,4 +210,3 @@ período de tiempo. Por ejemplo: salir a correr 3 veces por semana, o hacer
 
 [Notas tomadas sobre Soft skills]: https://github.com/rchavarria/blog-post-incubator/blob/master/published-book-notes/soft-skills-by-john-sonmez.markdown
 [Dev's kitchen]: http://ocana.github.io/
-

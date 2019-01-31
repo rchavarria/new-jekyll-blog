@@ -1,5 +1,4 @@
 ---
-layout: post
 title: "Charla técnica: Therapeutic refactoring"
 date: 2015-07-12 19:09
 author: Rubén Chavarría
@@ -73,4 +72,3 @@ haciendo un buen trabajo.
 [exercism.io]: http://exercism.io
 [therapeutic-refactoring]: https://github.com/kytrinyx/therapeutic-refactoring
 [Your tests are dragging you down]: http://blog.thecodewhisperer.com/2015/03/28/your-tests-are-dragging-you-down
-

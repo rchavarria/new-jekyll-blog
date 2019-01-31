@@ -1,5 +1,4 @@
 ---
-layout: post
 title: "Charla técnica: All the little things"
 date: 2015-10-18 18:40
 author: Rubén Chavarría
@@ -89,4 +88,3 @@ solución:
 [Practical Object Oriented Design in Ruby]: http://www.sandimetz.com/products
 [The Gilded Rose]: https://github.com/emilybache/GildedRose-Refactoring-Kata
 [artículo en forma de newsletter]: http://us3.campaign-archive2.com/?u=1090565ccff48ac602d0a84b4&id=92902a19e4&e=072f6853e8
-

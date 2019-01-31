@@ -1,5 +1,4 @@
 ---
-layout: post
 title: "Deuda técnica"
 date: 2015-10-12 18:58
 author: Rubén Chavarría
@@ -41,7 +40,7 @@ conceptos relacionados:
 complejidad (reflejada en una estructura que se deteriora) se incrementa a no
 ser que se haga un trabajo para mantenerla o reducirla
 
-{% img center /images/2015/technical-debt.jpg %}
+![Technical debt](/images/2015/technical-debt.jpg)
 
 *Imagen tomada del tweet de [Kristian Hellang](https://twitter.com/khellang/status/626716128379830273)*
 
@@ -150,4 +149,3 @@ parece una exageración
 [Deuda técnica en Cunningham & Cunningham wiki]: http://www.c2.com/cgi/wiki?TechnicalDebt
 [Cálculo de la deuda técnica basado en fórmulas]: http://docs.sonarqube.org/display/SONARQUBE44/Technical+Debt+Calculation
 [Technical Debt: From Metaphor to Theory and Practice]: http://www.computer.org/csdl/mags/so/2012/06/mso2012060018.html
-

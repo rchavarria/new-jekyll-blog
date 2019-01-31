@@ -1,5 +1,4 @@
 ---
-layout: post
 title: "Stop stealing dreams"
 date: 2015-03-13 00:39
 author: Rubén Chavarría
@@ -17,7 +16,7 @@ sidebar: true
 
 ## Por qué lo he leído
 
-{% img right http://s1.hubimg.com/u/11789820_f260.jpg 200 300 Stop stealing dreams %}
+![Stop stealing dreams](http://s1.hubimg.com/u/11789820_f260.jpg)
 
 Decidí leerlo básicamente porque tengo un hijo. Empezó el *colegio de mayores*
 el pasado mes de septiembre, y desde un tiempo atrás ya me empezó a preocupar

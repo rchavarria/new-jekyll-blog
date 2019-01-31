@@ -1,5 +1,4 @@
 ---
-layout: post
 title: "Extreme Programming explained"
 date: 2015-01-02 10:24
 author: Rubén Chavarría
@@ -15,7 +14,7 @@ sidebar: true
 
 ##### de Kent Beck
 
-{% img right http://ecx.images-amazon.com/images/I/71kDsLjbnsL.jpg 240 300 %}
+![Extreme Programming explained](http://ecx.images-amazon.com/images/I/71kDsLjbnsL.jpg)
 
 ## Por qué lo he leído
 
@@ -45,7 +44,7 @@ También encontré mucha información acerca de *pair programming*, práctica
 en la que estoy muy interesado, así como la forma en que las distintas
 prácticas se interconectan entre sí.
 
-{% img center /images/2015/xp-practices.jpg Cómo están interconectadas las prácticas XP %}
+![Cómo están interconectadas las prácticas XP](/images/2015/xp-practices.jpg)
 
 ## Conclusiones
 
@@ -91,4 +90,3 @@ de la gente
 
 - [Extensas notas sobre el libro](https://github.com/rchavarria/book-notes/blob/master/published/extreme-programming-explained-by-kent-beck.md)
 - [Extreme Programming explained, en Amazon](http://www.amazon.es/Extreme-Programming-Explained-Embrace-Embracing/dp/0321278658/ref=sr_1_1?ie=UTF8&qid=1420044502&sr=8-1&keywords=extreme+programming+explained)
-

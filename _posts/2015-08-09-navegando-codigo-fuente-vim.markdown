@@ -1,5 +1,4 @@
 ---
-layout: post
 title: "Navegando el código fuente con Vim"
 date: 2015-08-09 22:16
 author: Rubén Chavarría
@@ -92,4 +91,3 @@ Vim y ctags.
 [2]: /blog/2014/10/11/aprendiendo-vim
 [3]: http://ctags.sourceforge.net
 [4]: http://andrewradev.com/2011/06/08/vim-and-ctags
-

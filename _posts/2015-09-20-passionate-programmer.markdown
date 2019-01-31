@@ -1,5 +1,4 @@
 ---
-layout: post
 title: "The passionate programmer"
 date: 2015-09-20 19:07
 author: Rubén Chavarría
@@ -14,7 +13,7 @@ sidebar: true
 
 ##### de Chad Fowler
 
-{% img left http://chadfowler.com/images/books/passionate-programmer.jpg 200 300 The passionate programmer %}
+![The passionate programmer](http://chadfowler.com/images/books/passionate-programmer.jpg)
 
 ## Por qué lo he leído
 

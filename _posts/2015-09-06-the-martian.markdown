@@ -1,5 +1,4 @@
 ---
-layout: post
 title: "The Martian"
 date: 2015-09-06 16:05
 author: Rubén Chavarría
@@ -14,7 +13,7 @@ sidebar: true
 
 ##### de Andy Weir
 
-{% img right http://www.ew.com/sites/default/files/i/2014/02/04/The-Martian.jpg 201 306 %}
+![The martian](http://www.ew.com/sites/default/files/i/2014/02/04/The-Martian.jpg)
 
 ## Por qué lo he leído
 
@@ -82,4 +81,3 @@ no me lo tengo que tomar todo al pie de la letra.
 [2]: http://www.amazon.es/gp/product/B00OXYQR38/
 [3]: http://www.amazon.com/The-Martian-Novel-Andy-Weir-ebook/dp/B00EMXBDMA
 [4]: https://www.youtube.com/watch?v=ej3ioOneTy8
-
