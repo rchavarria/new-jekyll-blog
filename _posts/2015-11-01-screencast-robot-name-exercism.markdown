@@ -75,4 +75,4 @@ mismo problema, a modo de kata.
 [post anterior]: /blog/2015/10/25/youve-got-commit/
 [exercism.io]: http://exercism.io/
 [track de ECMAScript]: http://exercism.io/languages/ecmascript
-[El juego del disparejo]: /blog/2014/10/23/screencast-programacion-juego-disparejo/
+[El juego del disparejo]: {{ site.baseurl }}{% post_url 2014-10-23-screencast-programacion-juego-disparejo %}
