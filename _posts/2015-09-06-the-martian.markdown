@@ -13,7 +13,7 @@ sidebar: true
 
 ##### de Andy Weir
 
-![The martian](http://www.ew.com/sites/default/files/i/2014/02/04/The-Martian.jpg)
+![The martian](https://www.rocketstem.org/wp-content/uploads/2015/10/The-Martian-Movie-Tie-In-edition-jacket_rgb.jpg)
 
 ## Por qué lo he leído
 
