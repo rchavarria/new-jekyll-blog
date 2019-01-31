@@ -88,6 +88,6 @@ Vim y ctags.
 - [Aprendiendo Vim][2], en este mismo blog
 
 [1]: http://www.vim.org
-[2]: /blog/2014/10/11/aprendiendo-vim
+[2]: {{ site.baseurl }}{% post_url 2014-10-11-aprendiendo-vim %}
 [3]: http://ctags.sourceforge.net
 [4]: http://andrewradev.com/2011/06/08/vim-and-ctags
