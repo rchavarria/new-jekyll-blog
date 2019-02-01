@@ -15,7 +15,7 @@ sidebar: true
 
 ###### de Sandro Mancuso
 
-{% img left http://www.informit.com/ShowCover.aspx?isbn=0134052501 230 295 The Software Craftsman %}
+![The Software Craftsman](http://www.informit.com/ShowCover.aspx?isbn=0134052501)
 
 ### Por qué lo he leído
 

@@ -27,7 +27,7 @@ Sigo aprendiendo siguiendo el método descrito en el post sobre [aprender Elixir
 - Aprender lo suficiente para hacer algo de utilidad
 - Enseñar lo aprendido
 
-{% img right /images/2016/third-fight.png %}
+![Third fight](/images/2016/third-fight.png)
 
 <div style="text-align: center">
   <span style="font-size: 60%">

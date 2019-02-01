@@ -1,5 +1,4 @@
 ---
-layout: post
 iitle: "Aprendiendo Elixir"
 date: 2016-01-17 16:39
 author: Rubén Chavarría
@@ -12,7 +11,7 @@ footer: false
 sidebar: true
 ---
 
-{% img left /images/2016/elixir.png 200 266 %}
+![Elixir](/images/2016/elixir.png)
 
 No es una propósito de año nuevo ni nada, pero me apetece aprender un lenguaje
 puramente funcional por el simple hecho de aprender. He estado dudando entre

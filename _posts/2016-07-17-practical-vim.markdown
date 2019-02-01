@@ -17,7 +17,7 @@ sidebar: true
 
 ### Por qué lo he leído
 
-{% img left https://raw.githubusercontent.com/rchavarria/blog-post-incubator/master/published-book-notes/img/practical-vim.jpg %}
+![Practical Vim](https://raw.githubusercontent.com/rchavarria/blog-post-incubator/master/published-book-notes/img/practical-vim.jpg)
 
 Hace un tiempo decidí que quería [aprender a utilizar Vim]. Entre los muchos
 recursos para aprender se encontraba este libro, pero encontré más prácticos

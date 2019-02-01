@@ -24,7 +24,7 @@ Sin olvidar del método de aprendizaje con el que [comenzé]:
 - Aprender lo suficiente para hacer algo de utilidad
 - Enseñar lo aprendido
 
-{% img right /images/2016/you-gotta-fight-for-your-right-to-eat.jpg %}
+![Seventh](/images/2016/you-gotta-fight-for-your-right-to-eat.jpg)
 
 <div style="text-align: center">
   <span style="font-size: 60%">

@@ -26,7 +26,7 @@ desde el post sobre [aprender Elixir]:
 - Aprender lo suficiente para hacer algo de utilidad
 - Enseñar lo aprendido
 
-{% img center /images/2016/rms-won.jpg %}
+![RMS won](/images/2016/rms-won.jpg)
 
 <div style="text-align: center">
   <span style="font-size: 60%">

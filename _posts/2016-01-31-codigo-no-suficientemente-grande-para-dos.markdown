@@ -19,7 +19,7 @@ de crear réplicas de sí mismos. Para los niños, la repetición también es
 importante. Aprenden por imitación, repitiendo lo que observan en el
 comportamiento de los demás.
 
-{% img right /images/2016/mitosis.png %}
+![Mitosis](/images/2016/mitosis.png)
 
 A la hora de desarrollar software, la repetición no está vista con tan buenos
 ojos. Por ejemplo, se ha dado un nombre despectivo a los programas que crean

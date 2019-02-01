@@ -15,7 +15,7 @@ sidebar: true
 
 ###### de Tim Ferriss
 
-{% img left https://raw.githubusercontent.com/rchavarria/blog-post-incubator/master/published-book-notes/img/4-hour-body-cover.jpeg 200 250 %}
+![Four hour body](https://raw.githubusercontent.com/rchavarria/blog-post-incubator/master/published-book-notes/img/4-hour-body-cover.jpeg)
 
 ### Por qué lo he leído
 

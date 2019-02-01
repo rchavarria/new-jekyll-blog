@@ -14,7 +14,7 @@ sidebar: true
 
 ###### de Robert M. Pirsig
 
-{% img left https://raw.githubusercontent.com/rchavarria/blog-post-incubator/master/published-book-notes/img/zen.jpg %}
+![Zen](https://raw.githubusercontent.com/rchavarria/blog-post-incubator/master/published-book-notes/img/zen.jpg)
 
 ### Por qué lo he leído
 

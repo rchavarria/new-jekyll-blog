@@ -24,7 +24,7 @@ Por supuesto, sigo aprendiendo con el método descrito en el post sobre [aprende
 - Aprender lo suficiente para hacer algo de utilidad
 - Enseñar lo aprendido
 
-{% img right /images/2016/fourth-fight.jpg %}
+![Fourth fight](/images/2016/fourth-fight.jpg)
 
 <div style="text-align: center">
   <span style="font-size: 60%">

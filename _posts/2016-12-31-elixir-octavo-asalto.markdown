@@ -23,7 +23,7 @@ Todo esto, siguiendo el [método de aprendizaje] con el que comenzé la serie:
 - Aprender lo suficiente para hacer algo de utilidad
 - Enseñar lo aprendido
 
-{% img center /images/2016/risk.jpg %}
+![Eighth](/images/2016/risk.jpg)
 
 <div style="text-align: center">
   <span style="font-size: 60%">
