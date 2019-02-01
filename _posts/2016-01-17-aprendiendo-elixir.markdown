@@ -149,15 +149,14 @@ suficiente para ir cogiendo ritmo.
 [Guía de estilo]: https://github.com/niftyn8/elixir_style_guide
 [The climb experiencing the rise of Elixir from the inside]: https://www.youtube.com/watch?v=fklep3sUSWo
 
-[Primer asalto]: /blog/2016/02/09/elixir-primer-asalto/
-[Segundo asalto]: /blog/2016/03/27/elixir-segundo-asalto/
-[Tercer asalto]: /blog/2016/05/01/elixir-tercer-round/
-[Cuarto asalto]: /blog/2016/08/10/elixir-cuarto-asalto/
-[Quinto asalto]: /blog/2016/09/11/elixir-quinto-asalto/
-[Sexto asalto]: /blog/2016/09/14/elixir-sexto-asalto/
-[Séptimo asalto]: /blog/2016/09/18/elixir-septimo-asalto/
-[Octavo asalto]: /blog/2016/12/31/elixir-octavo-asalto/
-[Noveno asalto]: /blog/2017/01/29/elixir-noveno-asalto/
-[Décimo asalto]: /blog/2017/06/07/elixir-decimo-asalto/
-[Undécimo asalto]: /blog/2017/10/30/elixir-undecimo-asalto/
-
+[Primer asalto]: {{ site.baseurl }}{% post_url 2016-02-09-elixir-primer-asalto %}
+[Segundo asalto]: {{ site.baseurl }}{% post_url 2016-03-27-elixir-segundo-asalto %}
+[Tercer asalto]: {{ site.baseurl }}{% post_url 2016-05-01-elixir-tercer-round %}
+[Cuarto asalto]: {{ site.baseurl }}{% post_url 2016-08-10-elixir-cuarto-asalto %}
+[Quinto asalto]: {{ site.baseurl }}{% post_url 2016-09-11-elixir-quinto-asalto %}
+[Sexto asalto]: {{ site.baseurl }}{% post_url 2016-09-14-elixir-sexto-asalto %}
+[Séptimo asalto]: {{ site.baseurl }}{% post_url 2016-09-18-elixir-septimo-asalto %}
+[Octavo asalto]: {{ site.baseurl }}{% post_url 2016-12-31-elixir-octavo-asalto %}
+[x Noveno asalto]: {{ site.baseurl }}{ % post_url 2017-01-29-elixir-noveno-asalto % }
+[x Décimo asalto]: {{ site.baseurl }}{ % post_url 2017-06-07-elixir-decimo-asalto % }
+[x Undécimo asalto]: {{ site.baseurl }}{ % post_url 2017-10-30-elixir-undecimo-asalto % }
