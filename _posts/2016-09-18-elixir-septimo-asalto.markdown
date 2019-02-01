@@ -1,5 +1,4 @@
 ---
-layout: post
 title: "Elixir: séptimo asalto"
 date: 2016-09-18 16:20
 author: Ruben Chavarria
@@ -212,7 +211,7 @@ Aquí está, este post, mis notas, mis pensamientos, mis dudas y mi código. Has
 el siguiente asalto.
 
 [Elixir]: http://elixir-lang.org/
-[comenzé]: /blog/2016/01/17/aprendiendo-elixir/
+[comenzé]: {{ site.baseurl }}{% post_url 2016-01-17-aprendiendo-elixir %}
 [modelo de actores]: https://en.wikipedia.org/wiki/Actor_model
 [exercise-01-round-07.exs]: https://github.com/rchavarria/learning-elixir/blob/master/code/round-07/exercise-01-round-07.exs
 [exercise-02-round-07.exs]: https://github.com/rchavarria/learning-elixir/blob/master/code/round-07/exercise-02-round-07.exs

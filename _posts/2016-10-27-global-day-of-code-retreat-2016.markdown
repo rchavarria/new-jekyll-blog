@@ -1,5 +1,4 @@
 ---
-layout: post
 title: "Global Day of Code Retreat 2016"
 date: 2016-10-27 21:46
 author: Ruben Chavarria

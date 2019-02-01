@@ -1,5 +1,4 @@
 ---
-layout: post
 title: "Code: the hidden language of computer hardware and software"
 date: 2016-04-10 10:24
 author: Ruben Chavarria
@@ -109,6 +108,6 @@ caras del desarrollo software que no tienen por qué estar enfrentadas.
 
 [Scott Hanselman]: http://www.hanselman.com/
 [Developer on fire #83]: http://developeronfire.com/episode-083-scott-hanselman-learn-balance
-[The martian]: /blog/2015/09/06/the-martian/
+[The martian]: {{ site.baseurl }}{% post_url 2015-09-06-the-martian %}
 [codificación BCD]: https://es.wikipedia.org/wiki/Decimal_codificado_en_binario
 

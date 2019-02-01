@@ -1,5 +1,4 @@
 ---
-layout: post
 title: "Elixir: sexto asalto"
 date: 2016-09-14 21:32
 author: Ruben Chavarria
@@ -268,7 +267,7 @@ Aquí está, este post, mis notas, mis pensamientos, mis dudas y mi código. Has
 el siguiente asalto.
 
 [Elixir]: http://elixir-lang.org/
-[primer post sobre Elixir]: /blog/2016/01/17/aprendiendo-elixir/
+[primer post sobre Elixir]: {{ site.baseurl }}{% post_url 2016-01-17-aprendiendo-elixir %}
 [GitHub]: https://github.com
 [cli.ex]: https://github.com/rchavarria/learning-elixir/blob/master/projects/rct_issues/lib/rct_issues/cli.ex
 [cli_test.exs]: https://github.com/rchavarria/learning-elixir/blob/master/projects/rct_issues/test/cli_test.exs

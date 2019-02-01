@@ -1,5 +1,4 @@
 ---
-layout: post
 title: "Practical Vim"
 date: 2016-07-17 23:15
 author: Ruben Chavarria
@@ -159,6 +158,5 @@ que todavía no conocía o que he encontrado muy útiles:
 [Notas tomadas sobre Practical Vim]: https://github.com/rchavarria/blog-post-incubator/blob/master/published-book-notes/practical-vim-by-drew-neil.markdown
 [inglés]: https://github.com/rchavarria/blog-post-incubator/blob/master/published-book-notes/practical-vim-by-drew-neil.en.markdown
 [Doctor JS]: https://github.com/mozilla/doctorjs
-[aprender a utilizar Vim]: http://rchavarria.github.io/blog/2014/10/11/aprendiendo-vim/
+[aprender a utilizar Vim]: {{ site.baseurl }}{% post_url 2014-10-11-aprendiendo-vim %}
 [Giant Robots]: http://giantrobots.fm/
-

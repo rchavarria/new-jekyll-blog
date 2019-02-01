@@ -1,5 +1,4 @@
 ---
-layout: post
 title: "Zen y el arte en el mantenimiento de motocicletas"
 date: 2016-09-18 16:56
 author: Ruben Chavarria

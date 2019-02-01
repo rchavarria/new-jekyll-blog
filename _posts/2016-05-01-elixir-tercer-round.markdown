@@ -1,5 +1,4 @@
 ---
-layout: post
 title: "Elixir: tercer asalto"
 date: 2016-05-01 17:46
 author: Ruben Chavarria
@@ -227,7 +226,7 @@ que se van a utilizar siempre que haya colecciones de por medio.
 Aquí está, este post, mis notas, mis pensamientos, mis dudas y mi código. Hasta el siguiente asalto.
 
 [Elixir]: http://elixir-lang.org/
-[aprender Elixir]: /blog/2016/01/17/aprendiendo-elixir/
+[aprender Elixir]: {{ site.baseurl }}{% post_url 2016-01-17-aprendiendo-elixir %}
 [exercise-01-round-03.exs]: https://github.com/rchavarria/learning-elixir/blob/master/code/round-03/exercise-01-round-03.exs
 [exercise-02-round-03.exs]: https://github.com/rchavarria/learning-elixir/blob/master/code/round-03/exercise-02-round-03.exs
 [lists-and-recursion-5.exs]: https://github.com/rchavarria/learning-elixir/blob/master/code/round-03/lists-and-recursion-5.exs

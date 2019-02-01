@@ -1,5 +1,4 @@
 ---
-layout: post
 title: "El código fuente no es suficientemente grande para los dos"
 date: 2016-01-31 20:29
 author: Rubén Chavarría

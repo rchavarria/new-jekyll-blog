@@ -1,5 +1,4 @@
 ---
-layout: post
 title: "The Software Craftsman"
 date: 2016-03-15 22:08
 author: Ruben Chavarria

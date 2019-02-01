@@ -1,5 +1,4 @@
 ---
-layout: post
 title: "Elixir: primer asalto"
 date: 2016-02-09 21:57
 author: Rubén Chavarría

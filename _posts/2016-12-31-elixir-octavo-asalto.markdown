@@ -1,5 +1,4 @@
 ---
-layout: post
 title: "Elixir: octavo asalto"
 date: 2016-12-31 19:13
 author: Ruben Chavarria
@@ -155,7 +154,7 @@ Aquí está, este post, mis notas, mis pensamientos, mis dudas y mi código. Has
 el siguiente asalto.
 
 [Elixir]: http://elixir-lang.org/
-[método de aprendizaje]: /blog/2016/01/17/aprendiendo-elixir/
+[método de aprendizaje]: {{ site.baseurl }}{% post_url 2016-01-17-aprendiendo-elixir %}
 [ticker.ex]: https://github.com/rchavarria/learning-elixir/blob/master/code/round-08/ticker.ex
 [ring_ticker.ex]: https://github.com/rchavarria/learning-elixir/blob/master/code/round-08/ring_ticker.ex
 

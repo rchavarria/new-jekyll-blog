@@ -1,5 +1,5 @@
 ---
-iitle: "Aprendiendo Elixir"
+title: "Aprendiendo Elixir"
 date: 2016-01-17 16:39
 author: Rubén Chavarría
 comments: true
