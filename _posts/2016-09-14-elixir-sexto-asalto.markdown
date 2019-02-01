@@ -275,10 +275,9 @@ el siguiente asalto.
 [http://erlang.org/docs]: http://erlang.org/docs
 [Hex]: http://hex.pm
 [`/lib/rct_issues/github_issues.ex`]: https://github.com/rchavarria/learning-elixir/blob/master/projects/rct_issues/lib/rct_issues/github_issues.ex
-[tests de exercise-01-round-06]: https://github.com/rchavarria/learning-elixir/blob/master/code/round-06/exercise-01-round-06.exs
+[tests de exercise-01-round-06]: https://github.com/rchavarria/learning-elixir/blob/master/code/round-06/exercise_01_round_06/test/option_parser_test.exs
 [`String.ljust/3`]: http://elixir-lang.org/docs/stable/elixir/String.html#ljust/3
-[exercise-01-round-06]: https://github.com/rchavarria/learning-elixir/blob/master/code/round-06/exercise-01-round-06.exs
-[exercise-02-round-06]: https://github.com/rchavarria/learning-elixir/blob/master/code/round-06/exercise-02-round-06.exs
-[exercise-03-round-06]: https://github.com/rchavarria/learning-elixir/blob/master/code/round-06/exercise-03-round-06.exs
-[exercise-04-round-06]: https://github.com/rchavarria/learning-elixir/blob/master/code/round-06/exercise-04-round-06.exs
-
+[exercise-01-round-06]: https://github.com/rchavarria/learning-elixir/tree/master/code/round-06/exercise_01_round_06
+[exercise-02-round-06]: https://github.com/rchavarria/learning-elixir/tree/master/code/round-06/exercise_02_round_06
+[exercise-03-round-06]: https://github.com/rchavarria/learning-elixir/tree/master/code/round-06/exercise_03_round_06
+[exercise-04-round-06]: https://github.com/rchavarria/learning-elixir/tree/master/code/round-06/weather
