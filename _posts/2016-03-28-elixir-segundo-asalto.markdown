@@ -256,7 +256,7 @@ utilizar.
 Aquí está, este post, mis notas, mis pensamientos, mis dudas y mi código. Hasta el siguiente asalto.
 
 [Elixir]: http://elixir-lang.org/
-[aprender Elixir]: /blog/2016/01/17/aprendiendo-elixir/
+[aprender Elixir]: {{ site.baseurl }}{% post_url 2016-01-17-aprendiendo-elixir %}
 [exercise-01-round-02.exs]: https://github.com/rchavarria/learning-elixir/blob/master/code/round-02/exercise-01-round-02.exs
 [exercise-02-round-02.exs]: https://github.com/rchavarria/learning-elixir/blob/master/code/round-02/exercise-02-round-02.exs
 [exercise-03-round-02.exs]: https://github.com/rchavarria/learning-elixir/blob/master/code/round-02/exercise-03-round-02.exs

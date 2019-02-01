@@ -91,4 +91,3 @@ ask*):
 [DontRepeatYourself]: http://www.c2.com/cgi/wiki?DontRepeatYourself
 [los 4 elementos del diseño simple]: http://blog.thecodewhisperer.com/2013/12/07/putting-an-age-old-battle-to-rest/
 [Economía del software y dependencias]: http://www.slideshare.net/programania/software-economics-tradeoffs-of-decoupled-softwre
-
