@@ -230,8 +230,8 @@ Factor.of(5)
   # => 120
 ```
 
-También, las definiciones pueden tener claúsulas de guarda, mediante `when
-<condition>`, lo que ayuda a tener un pattern matching más específico.
+También, las definiciones pueden tener claúsulas de guarda, mediante 
+`when <condition>`, lo que ayuda a tener un pattern matching más específico.
 
 ```
 defmodule Guard do
@@ -350,4 +350,3 @@ Aquí está, este post, mis notas, mis pensamientos, mis dudas y mi código. Has
 [round-01-exercise-01.exs]: https://github.com/rchavarria/learning-elixir/blob/master/code/round-01/round-01-exercise-01.exs
 [round-01-exercise-02.exs]: https://github.com/rchavarria/learning-elixir/blob/master/code/round-01/round-01-exercise-02.exs
 [round-01-exercise-03.exs]: https://github.com/rchavarria/learning-elixir/blob/master/code/round-01/round-01-exercise-03.exs
-
