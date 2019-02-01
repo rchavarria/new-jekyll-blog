@@ -179,8 +179,8 @@ Enum.into 1..5, [1000, 10001]
 Se le pueden pasar una o más colecciones, entonces extrae todas las
 combinaciones posibles de los elementos de dichas colecciones, opcionalmente
 puede filtrar valores, y genera una nueva colección con los valores que pasan
-el filtro. La sintaxis es `result = for <generator> or <filter>, do:
-<expression>`. Donde `<generator>` tiene la forma `pattern <- collection` y el
+el filtro. La sintaxis es `result = for <generator> or <filter>, do: <expression>`. 
+Donde `<generator>` tiene la forma `pattern <- collection` y el
 filtro es simplemente una condición, por ejemplo `x < 4`.
 
 Las variables declaradas en una comprehension tienen la misma como ámbito, no
