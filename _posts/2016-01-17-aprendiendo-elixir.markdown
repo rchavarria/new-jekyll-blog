@@ -121,17 +121,17 @@ suficiente para ir cogiendo ritmo.
 
 ## Asaltos
 
-1. [Primer asalto]: tipos, funciones, pattern matching y módulos
-2. [Segundo asalto]: listas, diccionarios, structs y sets
-3. [Tercer asalto]: más colecciones, módulos `Enum`, `Stream` y *comprehensions*
-4. [Cuarto asalto]: tipos de datos binarios, cadenas, `String`s y *sigils*
-5. [Quinto asalto]: estructuras de control: `if`, `unless`, `cond` y `case`
-6. [Sexto asalto]: herramientas auxiliares como `mix`, `ExUnit`, `ExDoc`,...
-7. [Séptimo asalto]: procesos, concurrencia, monitorización de procesos
-8. [Octavo asalto]: nodos, PIDs y un poco de entrada/salida
-9. [Noveno asalto]: servidores OTP
-10. [Décimo asalto]: supervisores OTP
-10. [Undécimo asalto]: aplicaciones OTP
+1. [Primer asalto]({{ site.baseurl }}{% post_url 2016-02-09-elixir-primer-asalto %}): tipos, funciones, pattern matching y módulos
+2. [Segundo asalto]({{ site.baseurl }}{% post_url 2016-03-27-elixir-segundo-asalto %}): listas, diccionarios, structs y sets
+3. [Tercer asalto]({{ site.baseurl }}{% post_url 2016-05-01-elixir-tercer-round %}): más colecciones, módulos `Enum`, `Stream` y *comprehensions*
+4. [Cuarto asalto]({{ site.baseurl }}{% post_url 2016-08-10-elixir-cuarto-asalto %}): tipos de datos binarios, cadenas, `String`s y *sigils*
+5. [Quinto asalto]({{ site.baseurl }}{% post_url 2016-09-11-elixir-quinto-asalto %}): estructuras de control: `if`, `unless`, `cond` y `case`
+6. [Sexto asalto]({{ site.baseurl }}{% post_url 2016-09-14-elixir-sexto-asalto %}): herramientas auxiliares como `mix`, `ExUnit`, `ExDoc`,...
+7. [Séptimo asalto]({{ site.baseurl }}{% post_url 2016-09-18-elixir-septimo-asalto %}): procesos, concurrencia, monitorización de procesos
+8. [Octavo asalto]({{ site.baseurl }}{% post_url 2016-12-31-elixir-octavo-asalto %}): nodos, PIDs y un poco de entrada/salida
+9. [Noveno asalto]({{ site.baseurl }}{ % post_url 2017-01-29-elixir-noveno-asalto % }): servidores OTP
+10. [Décimo asalto]({{ site.baseurl }}{ % post_url 2017-06-07-elixir-decimo-asalto % }): supervisores OTP
+10. [Undécimo asalto]({{ site.baseurl }}{ % post_url 2017-10-30-elixir-undecimo-asalto % }): aplicaciones OTP
 
 [Madrid |> Elixir]: http://www.meetup.com/Madrid-Elixir/
 [Soft Skills]: http://rchavarria.github.io/blog/2015/11/08/soft-skills/
@@ -148,15 +148,3 @@ suficiente para ir cogiendo ritmo.
 [exercism.io]: http://exercism.io/languages/elixir
 [Guía de estilo]: https://github.com/niftyn8/elixir_style_guide
 [The climb experiencing the rise of Elixir from the inside]: https://www.youtube.com/watch?v=fklep3sUSWo
-
-[Primer asalto]: {{ site.baseurl }}{% post_url 2016-02-09-elixir-primer-asalto %}
-[Segundo asalto]: {{ site.baseurl }}{% post_url 2016-03-27-elixir-segundo-asalto %}
-[Tercer asalto]: {{ site.baseurl }}{% post_url 2016-05-01-elixir-tercer-round %}
-[Cuarto asalto]: {{ site.baseurl }}{% post_url 2016-08-10-elixir-cuarto-asalto %}
-[Quinto asalto]: {{ site.baseurl }}{% post_url 2016-09-11-elixir-quinto-asalto %}
-[Sexto asalto]: {{ site.baseurl }}{% post_url 2016-09-14-elixir-sexto-asalto %}
-[Séptimo asalto]: {{ site.baseurl }}{% post_url 2016-09-18-elixir-septimo-asalto %}
-[Octavo asalto]: {{ site.baseurl }}{% post_url 2016-12-31-elixir-octavo-asalto %}
-[x Noveno asalto]: {{ site.baseurl }}{ % post_url 2017-01-29-elixir-noveno-asalto % }
-[x Décimo asalto]: {{ site.baseurl }}{ % post_url 2017-06-07-elixir-decimo-asalto % }
-[x Undécimo asalto]: {{ site.baseurl }}{ % post_url 2017-10-30-elixir-undecimo-asalto % }
