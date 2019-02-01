@@ -133,7 +133,7 @@ Aquí está, este post, mis notas, mis pensamientos, mis dudas y mi código. Has
 el siguiente asalto.
 
 [Elixir]: http://elixir-lang.org/
-[aprender Elixir]: {{ site.baseurl }}{% post_url 2016-01-17-aprendiendo-elixir %}
+[aprendiendo Elixir]: {{ site.baseurl }}{% post_url 2016-01-17-aprendiendo-elixir %}
 [exercise-01-round-04.exs]: https://github.com/rchavarria/learning-elixir/blob/master/code/round-05/exercise-01-round-05.exs
 [exercise-02-round-04.exs]: https://github.com/rchavarria/learning-elixir/blob/master/code/round-05/exercise-02-round-05.exs
 
