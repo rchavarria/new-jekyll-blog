@@ -1,5 +1,4 @@
 ---
-layout: post
 title: "Elixir: noveno asalto"
 date: 2017-01-29 17:19
 author: Ruben Chavarria
@@ -23,7 +22,7 @@ Todo esto, siguiendo el [método de aprendizaje] con el que comenzé la serie:
 - Aprender lo suficiente para hacer algo de utilidad
 - Enseñar lo aprendido
 
-{% img center /images/2017/us-air-force.jpg %}
+![Ninth round](/images/2017/us-air-force.jpg)
 
 <div style="text-align: center">
   <span style="font-size: 60%">
@@ -163,9 +162,9 @@ el siguiente asalto.
 - Artículo sobre [comportamientos] (*behaviours*) en Elixir
 - Artículo sobre [protocolos] en Elixir
 
-[asalto anterior]: /blog/2016/12/31/elixir-octavo-asalto/
-[método de aprendizaje]: /blog/2016/01/17/aprendiendo-elixir/
-[aprendizaje de Elixir]: /blog/2016/01/17/aprendiendo-elixir/
+[asalto anterior]: {{ site.baseurl }}{% post_url 2016-12-31-elixir-octavo-asalto %}
+[método de aprendizaje]: {{ site.baseurl }}{% post_url 2016-01-17-aprendiendo-elixir %}
+[aprendizaje de Elixir]: {{ site.baseurl }}{% post_url 2016-01-17-aprendiendo-elixir %}
 [comportamientos]: http://rubenfa.github.io/2016-11-30-behaviours-en-elixir
 [protocolos]: http://rubenfa.github.io/2017-01-25-protocols-en-elixir
 [Ejercicio 01]: https://github.com/rchavarria/learning-elixir/tree/master/code/round-09/stack

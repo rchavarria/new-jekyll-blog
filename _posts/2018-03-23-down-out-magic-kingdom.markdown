@@ -1,5 +1,4 @@
 ---
-layout: post
 title: "Down and out of the Magic Kingdom"
 date: 2018-03-23 18:59
 author: Ruben Chavarria
@@ -63,4 +62,3 @@ social y las relaciones humanas, este libro te gustará.
 
 [Down and out of the Magic Kingdom]: http://craphound.com/category/down/
 [Notas tomadas del libro]: https://github.com/rchavarria/blog-post-incubator/blob/master/published-book-notes/down-out-magic-kingdom.markdown
-

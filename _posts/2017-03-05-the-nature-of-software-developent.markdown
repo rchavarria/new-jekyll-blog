@@ -1,5 +1,4 @@
 ---
-layout: post
 title: "The nature of software developent"
 date: 2017-03-05 16:06
 author: Ruben Chavarria
@@ -16,7 +15,7 @@ sidebar: true
 
 ##### de Ron Jeffries
 
-{% img left https://imagery.pragprog.com/products/363/rjnsd.jpg?1409862136 260 392 The nature of software development %}
+![The nature of software development](https://imagery.pragprog.com/products/363/rjnsd.jpg?1409862136)
 
 ## Por qué lo he leído
 
@@ -143,4 +142,3 @@ Dos grandes pilares del desarrollo: **tests** y **refactorizaciones**
 [Ron Jeffries]: http://ronjeffries.com/
 [The fundamental theorem of Agile Software Development]: https://vimeo.com/79106557
 [Notas sobre The nature of Software development]: https://github.com/rchavarria/blog-post-incubator/blob/master/published-book-notes/the-nature-of-software-development-by-ron-jeffries.markdown
-

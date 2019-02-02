@@ -1,5 +1,4 @@
 ---
-layout: post
 title: "Programación reactiva con RxJS: comparando arrays con Observables"
 date: 2018-03-16 14:00
 author: Ruben Chavarria
@@ -19,7 +18,7 @@ Los arrays son síncronos, y por lo tanto, se iteran síncronamente. En cambio,
 los Observables son *observados* (bienvenido Capitán Obvio) y *reaccionan* en
 cuanto hay un nuevo valor presente en el flujo asíncrono.
 
-{% img center /images/2018/bees.jpg %}
+![Bees](/images/2018/bees.jpg)
 
 <div style="text-align: center">
   <span style="font-size: 60%">
@@ -139,8 +138,7 @@ esos métodos en la iteración de los arrays.
 - [Observable] object
 - [Observer] interface
 
-[artículo anterior]: /blog/2017/12/12/programacion-reactiva-javascript/
+[artículo anterior]: {{ site.baseurl }}{% 2017-12-12-programacion-reactiva-javascript %}
 [ReactiveX]: http://reactivex.io/
 [Observable]: http://reactivex.io/rxjs/class/es6/Observable.js~Observable.html
 [Observer]: http://reactivex.io/rxjs/class/es6/MiscJSDoc.js~ObserverDoc.html
-

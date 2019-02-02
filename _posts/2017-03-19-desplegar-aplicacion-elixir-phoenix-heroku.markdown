@@ -1,5 +1,4 @@
 ---
-layout: post
 title: "Cómo desplegar una aplicación Elixir/Phoenix en Heroku"
 date: 2017-03-19 13:44
 author: Ruben Chavarria
@@ -12,43 +11,65 @@ footer: false
 sidebar: true
 ---
 
-[Heroku] es una plataforma donde los desarrolladores pueden desplegar sus aplicaciones (sobre todo está pensado para aplicaciones web) y hacerlas públicas de forma gratuita o por un pequeño precio. Yo he utilizado a veces este servicio para hacer pruebas con servidores en JavaScript (NodeJS) o PHP, pero también admite muchos otros lenguages de programación: Ruby, Java, Python, Go,...
+[Heroku] es una plataforma donde los desarrolladores pueden desplegar sus 
+aplicaciones (sobre todo está pensado para aplicaciones web) y hacerlas públicas 
+de forma gratuita o por un pequeño precio. Yo he utilizado a veces este servicio 
+para hacer pruebas con servidores en JavaScript (NodeJS) o PHP, pero también 
+admite muchos otros lenguages de programación: Ruby, Java, Python, Go,...
 
-{% img center /images/2017/elixir-phoenix-heroku.png %}
+![Elixir & Heroku](/images/2017/elixir-phoenix-heroku.png)
 
-No es ningún secreto que estoy [tonteando con Elixir], y [el framework Phoenix] es el framework por referencia para crear aplicaciones web en Elixir. Pero ese no es un lenguaje soportado por Heroku, así que parecía un poco complejo poder hacer unas pruebas desplegando una aplicación Elixir/Phoenix en Heroku.
+No es ningún secreto que estoy [tonteando con Elixir], y [el framework Phoenix] 
+es el framework por referencia para crear aplicaciones web en Elixir. Pero ese 
+no es un lenguaje soportado por Heroku, así que parecía un poco complejo poder 
+hacer unas pruebas desplegando una aplicación Elixir/Phoenix en Heroku.
 
-Por suerte, [Wendy Smoak] escribió un artículo hace un tiempo hablando de esto mismo: [Deploying a Phoenix app to Heroku]. Dicho artículo tiene licencia [Creative Commons CC-BY-NC]. Este post no es una traducción en sí, pero como está basado en él me parece justo y obligatorio respetarla. Así que este post está basado en el artículo [Deploying a Phoenix app to Heroku], de [Wendy Smoak], y también está licenciado bajo la [Creative Commons CC-BY-NC], digan lo que digan el resto de posts de este blog.
+Por suerte, [Wendy Smoak] escribió un artículo hace un tiempo hablando de esto 
+mismo: [Deploying a Phoenix app to Heroku]. Dicho artículo tiene licencia 
+[Creative Commons CC-BY-NC]. Este post no es una traducción en sí, pero como 
+está basado en él me parece justo y obligatorio respetarla. Así que este post 
+está basado en el artículo [Deploying a Phoenix app to Heroku], de [Wendy Smoak], 
+y también está licenciado bajo la [Creative Commons CC-BY-NC], digan lo que 
+digan el resto de posts de este blog.
 
 <!-- more -->
 
 ## Requisitos
 
-Para poder llevar a cabo el despliegue, necesitamos todas estas herramientas. Yo lo he probado con estas versiones:
+Para poder llevar a cabo el despliegue, necesitamos todas estas herramientas. 
+Yo lo he probado con estas versiones:
 
 - Elixir, versión 1.3.1. El cuál, necesita Erlang/OTP, por ejemplo la versión 19
 - Phoenix, versión 1.2.1
-- Phoenix necesita de NodeJS, yo tengo instalada la versión 5.12.0; y también necesita (normalmente) de una base de datos, comúnmente, PostgreSQL, yo he utilizado la versión 9.5, que viene mi distribución Ubuntu
+- Phoenix necesita de NodeJS, yo tengo instalada la versión 5.12.0; y también 
+necesita (normalmente) de una base de datos, comúnmente, PostgreSQL, yo he 
+utilizado la versión 9.5, que viene mi distribución Ubuntu
 - Git, versión 2.7.4
-- Heroku toolbelt, versión 3.43.14; Heroku CLI, versión 5.6.31; este post también asume que nos hemos dado de alta en Heroku y hemos configurado estas herramientas.
+- Heroku toolbelt, versión 3.43.14; Heroku CLI, versión 5.6.31; este post 
+también asume que nos hemos dado de alta en Heroku y hemos configurado 
+estas herramientas.
 
 ## Creando una aplicación Phoenix
 
-Crear el esqueleto de una aplicación Phoenix es ridículamente sencillo, simplemente un comando:
+Crear el esqueleto de una aplicación Phoenix es ridículamente sencillo, 
+simplemente un comando:
 
     $ mix phoenix.new rchavarria_deploys_phoenix_heroku
     [ ... ]
     Fetch and install dependencies? [Yn] Y
     [ ... ]
 
-Para poder llevar un control de lo que hacemos o dejamos de hacer, pondremos la aplicación bajo un control de versiones. Además, Heroku está pensado para funcionar con aplicaciones donde el control de versiones es Git, así que...
+Para poder llevar un control de lo que hacemos o dejamos de hacer, pondremos 
+la aplicación bajo un control de versiones. Además, Heroku está pensado para 
+funcionar con aplicaciones donde el control de versiones es Git, así que...
 
     $ cd rchavarria_deploys_phoenix_heroku
     $ git init
     $ git add .
     $ git commit -m "Primera piedra de la aplicación Phoenix desplegada en Heroku"
 
-Si queremos, podemos subir esta aplicación a GitHub u otro servicio que nos permita tener nuestras aplicación bajo Git.
+Si queremos, podemos subir esta aplicación a GitHub u otro servicio que nos 
+permita tener nuestras aplicación bajo Git.
 
 ## Creando una aplicación Heroku
 
@@ -59,7 +80,9 @@ También es muy sencillo:
     https://dry-anchorage-96713.herokuapp.com/ | https://git.heroku.com/dry-anchorage-96713.git
     Git remote heroku added
 
-También se puede indicar el nombre de nuestra app en el comando `heroku create`. Heroku nos ha dado un nombre aleatorio, y podremos acceder a ella a través de la URL [https://dry-anchorage-96713.herokuapp.com/](https://dry-anchorage-96713.herokuapp.com/).
+También se puede indicar el nombre de nuestra app en el comando `heroku create`. 
+Heroku nos ha dado un nombre aleatorio, y podremos acceder a ella a través de la 
+URL [https://dry-anchorage-96713.herokuapp.com/](https://dry-anchorage-96713.herokuapp.com/).
 
 Heroku habrá añadido un nuevo *remote* a nuestro repositorio de `git`:
 
@@ -69,13 +92,19 @@ Heroku habrá añadido un nuevo *remote* a nuestro repositorio de `git`:
 
 ## Añadiendo *buildpacks* a la applicación Heroku
 
-> Los [buildpacks] son los encargados de transformar el código desplegado en un *slug*, el cual puede ser ejecutado en un *dyno*.
+> Los [buildpacks] son los encargados de transformar el código desplegado en 
+un *slug*, el cual puede ser ejecutado en un *dyno*.
 
-Y después de toda esa jerga de Heroku, en cristiano quiere decir algo así: los *buildpacks* son un conjunto de herramientas que convierten y empaquetan tu código de forma que puedan ser ejecutados por la infraestructura de Heroku.
+Y después de toda esa jerga de Heroku, en cristiano quiere decir algo así: 
+los *buildpacks* son un conjunto de herramientas que convierten y empaquetan 
+tu código de forma que puedan ser ejecutados por la infraestructura de Heroku.
 
-Heroku proporciona buildpacks por defecto: Java, Python, PHP, JavaScript,... Pero afortunadamente, también existen para Elixir y Phoenix, aunque no están mantenidos por Heroku.
+Heroku proporciona buildpacks por defecto: Java, Python, PHP, JavaScript,... 
+Pero afortunadamente, también existen para Elixir y Phoenix, aunque no están 
+mantenidos por Heroku.
 
-Primero, debemos añadir el buildpack para Phoenix, conocido como [Phoenix static buildpack]:
+Primero, debemos añadir el buildpack para Phoenix, conocido como 
+[Phoenix static buildpack]:
 
     $ heroku buildpacks:set https://github.com/gjaldon/phoenix-static-buildpack
     Buildpack set. Next release on dry-anchorage-96713 will use https://github.com/gjaldon/phoenix-static-buildpack.
@@ -101,9 +130,13 @@ Si intentamos realizar ahora el despliegue, obtendremos un error:
     remote: ! Push rejected to dry-anchorage-96713.
     [ ... ]
 
-Para poder desplegar, necesitamos subir el fichero `prod.secret.exs`. Pero ese fichero está ignorado en `.gitignore`, por lo que no será subido mediante el comando `git push heroku master`. Y está ignorado por una buena razón. Ese fichero suele contener información sensible.
+Para poder desplegar, necesitamos subir el fichero `prod.secret.exs`. Pero ese 
+fichero está ignorado en `.gitignore`, por lo que no será subido mediante el 
+comando `git push heroku master`. Y está ignorado por una buena razón. Ese fichero 
+suele contener información sensible.
 
-Pero tiene solución. Debemos sustituir la información sensible por valores tomados de variables de entorno. Editamos `prod.secret.exs`, de forma que quede parecido a:
+Pero tiene solución. Debemos sustituir la información sensible por valores tomados 
+de variables de entorno. Editamos `prod.secret.exs`, de forma que quede parecido a:
 
     use Mix.Config
 
@@ -137,7 +170,10 @@ No olvides hacer commit de estos cambios:
 
 Ahora sí, ya podemos desplegar.
 
-El despliegue no debería dar ningún problema, porque aunque no hemos creado ninguna variable de entorno, la aplicación básica de Phoenix no accede a la base de datos, por lo que la configuración de `prod.secret.exs` no debería tener ningún efecto todavía.
+El despliegue no debería dar ningún problema, porque aunque no hemos creado ninguna 
+variable de entorno, la aplicación básica de Phoenix no accede a la base de datos, 
+por lo que la configuración de `prod.secret.exs` no debería tener ningún efecto 
+todavía.
 
     $ git push heroku master
     remote: -----> Elixir app detected
@@ -153,20 +189,29 @@ El despliegue no debería dar ningún problema, porque aunque no hemos creado ni
     remote: Verifying deploy... done.
     To https://git.heroku.com/dry-anchorage-96713.git
 
-Y se puede ver la aplicación accediendo a [https://dry-anchorage-96713.herokuapp.com/](https://dry-anchorage-96713.herokuapp.com/) (si es que todavía existe como aplicación Heroku).
+Y se puede ver la aplicación accediendo a 
+[https://dry-anchorage-96713.herokuapp.com/](https://dry-anchorage-96713.herokuapp.com/) 
+(si es que todavía existe como aplicación Heroku).
 
 ## Completando la configuración
 
-Tarde o temprano, vamos a necesitar que nuestra aplicación acceda a la base de datos. Por lo que tendremos que configurar nuestras variables de entorno. Para ello, son necesarios dos pasos:
+Tarde o temprano, vamos a necesitar que nuestra aplicación acceda a la base de 
+datos. Por lo que tendremos que configurar nuestras variables de entorno. Para 
+ello, son necesarios dos pasos:
 
-1. Configurarlas y exportarlas en Heroku (documentación sobre [variables de configuración de Heroku])
+1. Configurarlas y exportarlas en Heroku (documentación sobre 
+[variables de configuración de Heroku])
 
 ```
 $ heroku config:set SECRET_KEY_BASE=<y aquí mi secreto>
 $ heroku config:set SOME_VAR=<el valor para esta variable>
 ```
 
-2. Editar (o crear) `elixir_buildpack.config` en la raíz del proyecto. Aquí deberemos configurar qué variables queremos exportar. Cuidado, porque estos valores sobreescriben los exportados por los buildpacks, por lo que deberemos incluir aquellas que incluyan los buildpacks de Elixir y Phoenix. Un ejemplo de `elixir_buildpack.config` podría ser tan sencillo como:
+2. Editar (o crear) `elixir_buildpack.config` en la raíz del proyecto. Aquí 
+deberemos configurar qué variables queremos exportar. Cuidado, porque estos valores 
+sobreescriben los exportados por los buildpacks, por lo que deberemos incluir 
+aquellas que incluyan los buildpacks de Elixir y Phoenix. Un ejemplo de 
+`elixir_buildpack.config` podría ser tan sencillo como:
 
 ```
 configu_vars_to_export=(DATABASE_URL SECRET_KEY_BASE)
@@ -174,11 +219,14 @@ configu_vars_to_export=(DATABASE_URL SECRET_KEY_BASE)
 
 ## Agradecimientos
 
-Todo el mérito de esta información no es mío, es gracias a [Wendy Smoak], autora del post sobre el que se basa este; [HashNuke], autor del buildpack para Elixir; [gjaldon], autor del buildpack para Phoenix; y otros que ayudaron a Wendy con sus dudas.
+Todo el mérito de esta información no es mío, es gracias a [Wendy Smoak], autora 
+del post sobre el que se basa este; [HashNuke], autor del buildpack para Elixir; 
+[gjaldon], autor del buildpack para Phoenix; y otros que ayudaron a Wendy con sus 
+dudas.
 
 [Heroku]: http://heroku.com/
 [Wendy Smoak]: http://wsmoak.net/about.html
-[tonteando con Elixir]: /blog/2016/01/17/aprendiendo-elixir/
+[tonteando con Elixir]: {{ site.baseurl }}{% post_url 2016-01-17-aprendiendo-elixir %}
 [el framework Phoenix]: http://www.phoenixframework.org/
 [Deploying a Phoenix app to Heroku]: http://wsmoak.net/2015/07/05/phoenix-on-heroku.html
 [Creative Commons CC-BY-NC]: http://creativecommons.org/licenses/by-nc/3.0/
@@ -188,4 +236,3 @@ Todo el mérito de esta información no es mío, es gracias a [Wendy Smoak], aut
 [variables de configuración de Heroku]: https://devcenter.heroku.com/articles/config-vars
 [HashNuke]: http://hashnuke.com/
 [gjaldon]: http://gabrieljaldon.com/
-

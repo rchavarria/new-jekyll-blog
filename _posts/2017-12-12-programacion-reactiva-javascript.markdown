@@ -1,5 +1,4 @@
 ---
-layout: post
 title: "Programación reactiva en JavaScript"
 date: 2017-12-12 22:13
 author: Ruben Chavarria
@@ -16,7 +15,7 @@ sidebar: true
 Para múltiples elementos de forma síncrona, tenemos los arrays. Para elementos
 únicos, pero asíncronos, las promesas (`Promise`).
 
-{% img center /images/2017/cuadrante-reactivex.png %}
+![ReactiveX](/images/2017/cuadrante-reactivex.png)
 
 <!-- more -->
 
@@ -76,4 +75,3 @@ partir de un array y de cómo se compararía con un array síncrono.
 [ReactiveX]: http://reactivex.io/
 [patrón Observer]: http://en.wikipedia.org/wiki/Observer_pattern
 [reactive-programming-rxjs]: https://github.com/rchavarria/reactive-programming-rxjs
-

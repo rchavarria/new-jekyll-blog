@@ -1,5 +1,4 @@
 ---
-layout: post
 title: "Practical Object-Oriented Design in Ruby"
 date: 2018-01-17 22:03
 author: Ruben Chavarria
@@ -16,7 +15,7 @@ sidebar: true
 
 ##### de Sandi Metz
 
-{% img left /images/2018/poodr.jpg 250 323 %}
+![POODR](/images/2018/poodr.jpg)
 
 ### Por qué lo he leído
 
@@ -151,4 +150,3 @@ Para ello, hay que testear cada cosa una sola vez, y en el lugar apropiado.
 
 [Carlos Blé]: https://twitter.com/carlosble
 [notas sobre POODR]: https://github.com/rchavarria/blog-post-incubator/blob/master/published-book-notes/practical-object-oriented-design-ruby-by-sandi-metz.markdown
-

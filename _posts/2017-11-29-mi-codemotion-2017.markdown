@@ -1,5 +1,4 @@
 ---
-layout: post
 title: "Así fue mi Codemotion 2017"
 date: 2017-11-29 21:32
 author: Ruben Chavarria
@@ -12,7 +11,7 @@ footer: false
 sidebar: true
 ---
 
-¡Vaya! Otro [Codemotion] más a la [colección], y ya van 6, ¡cómo pasa el
+¡Vaya! Otro [Codemotion] más a la colección, y ya van 6, ¡cómo pasa el
 tiempo! A pesar de ello, sigue siendo el evento técnico más grande de España,
 creo: dos días a tope, más de 2000 asistentes, cientos de charlas y unos
 cuantos talleres bastante intensos. Y para que veas que no me invento los
@@ -23,7 +22,7 @@ Muchísimas gracias a los organizadores: Nacho, Abraham y Laura. Y gracias
 también a los patrocinadores y voluntarios, que con todo su curro hacen que
 este pedazo de evento sea posible. 
 
-{% img center /images/2017/codemotion-voluntarios.png %}
+![Voluntarios codemotion](/images/2017/codemotion-voluntarios.png)
 
 <!-- more -->
 
@@ -139,9 +138,7 @@ como keynote para cerrar el evento.
 [David Bonilla]: https://twitter.com/david_bonilla
 
 [Codemotion]: http://2017.codemotion.es/
-[colección]: /blog/categories/codemotion/
 [newsletter]: http://mailchi.mp/24b44589fbec/codemotion-2017-is-over?e=eecbf73be9
 [IndieMAD]: https://indiemad.org/
 [Notas extendidas del evento]: https://github.com/rchavarria/blog-post-incubator/blob/master/conferences/2017/codemotion/2017-11-25%20-%20codemotion.markdown
 [en inglés también]: https://github.com/rchavarria/blog-post-incubator/blob/master/conferences/2017/codemotion/2017-11-25%20-%20codemotion.en.markdown
-

@@ -1,5 +1,4 @@
 ---
-layout: post
 title: "99 bottles of OOP"
 date: 2017-10-19 22:06
 author: Rubén Chavarría
@@ -14,7 +13,7 @@ sidebar: true
 
 ##### de Sandi Metz y Katrina Owen
 
-{% img left /images/2017/99-bottles-of-oop.jpg 250 323 %}
+![99 bottles of OOP](/images/2017/99-bottles-of-oop.jpg)
 
 ## Por qué lo he leído
 
@@ -208,7 +207,7 @@ objetos que les llamen deban conocer demasiadas cosas.
 - Las autoras: [Sandi Metz] y [Katrina Owen]
 
 [Notas sobre 99 bottles of OOP]: https://github.com/rchavarria/blog-post-incubator/blob/master/published-book-notes/99-bottles-by-sandi-katrina.notes.markdown
-[Refactoring to patterns]: foo/bar/bar/foo.html
+[Refactoring to patterns]: https://www.amazon.es/Refactoring-Patterns-Addison-Wesley-Signature/dp/0321213351
 [99 bottles of OOP]: https://www.sandimetz.com/99bottles
 [Programming OODR]: http://www.poodr.com/
 [Sandi Metz]: https://www.sandimetz.com/

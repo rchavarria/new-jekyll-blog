@@ -1,5 +1,4 @@
 ---
-layout: post
 title: "Elixir: duodécimo asalto"
 date: 2018-02-18 22:08
 author: Ruben Chavarria
@@ -24,7 +23,7 @@ Son un punto intermedio. Utilizan funcionalidades de OTP, pero nos aíslan de
 muchos detalles, lo que hace que trabajar con procesos y procesos distribuidos
 sea muchísimo más fácil.
 
-{% img center /images/2018/down-the-board.jpg %}
+![Twelveth](/images/2018/down-the-board.jpg)
 
 <div style="text-align: center">
   <span style="font-size: 60%">
@@ -123,7 +122,6 @@ nuestro.
 [Elixir]: http://elixir-lang.org/
 [Tasks]: https://hexdocs.pm/elixir/Task.html
 [Agents]: https://hexdocs.pm/elixir/Agent.html
-[séptimo asalto]: /blog/2016/09/18/elixir-septimo-asalto/
+[séptimo asalto]: {{ site.baseurl }}{% post_url 2016-09-18-elixir-septimo-asalto %}
 [framework OTP]: http://erlang.org/doc/
-[método de aprendizaje]: /blog/2016/01/17/aprendiendo-elixir/
-
+[método de aprendizaje]: {{ site.baseurl }}{% post_url 2016-01-17-aprendiendo-elixir %}

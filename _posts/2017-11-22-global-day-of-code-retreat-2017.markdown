@@ -1,5 +1,4 @@
 ---
-layout: post
 title: "Global day of code retreat 2017"
 date: 2017-11-22 21:52
 author: Ruben Chavarria
@@ -26,7 +25,7 @@ Siempre se programa por parejas (o tríos), nunca solo. El día está dividido e
 iteraciones de una duración determinada, y al final de cada iteración hacemos
 una pequeña retrospectiva. Y así es como fue nuestro [día].
 
-{% img center /images/2017/gdcr2017.jpg %}
+![GDCR 2017](/images/2017/gdcr2017.jpg)
 
 <div style="text-align: center">
   <span style="font-size: 60%">
@@ -124,7 +123,7 @@ cómo no, a los facilitadores/organizadores Juan David, Helder y Luis.
 - Repositorio de [Software Crafter Madrid] sobre el evento y [algunas fotos]
 nada comprometedoras
 
-[año pasado]: http://rchavarria.github.io/blog/2016/10/27/global-day-of-code-retreat-2016/
+[año pasado]: {{ site.baseurl }}{% post_url 2016-10-27-global-day-of-code-retreat-2016 %}
 [juego de la vida de Conway]: https://es.wikipedia.org/wiki/Juego_de_la_vida
 [día]: https://github.com/SoftwareCraftersMadrid/global-day-of-coderetreat-2017/blob/master/theday.md
 [ping-pong]: http://wiki.c2.com/?PairProgrammingPingPongPattern
@@ -135,10 +134,9 @@ nada comprometedoras
 [Alberto]: https://twitter.com/APA42
 [Abel]: https://twitter.com/amisai
 [Codenares]: https://twitter.com/codenares
-[mi primer GDCR]: http://rchavarria.github.io/blog/2014/11/18/mi-primer-code-retreat/
+[mi primer GDCR]: {{ site.baseurl }}{% post_url 2014-11-18-mi-primer-code-retreat %}
 [Rafa]: https://twitter.com/rafael_luque
 [idealista]: http://idealista.com
 [Juego de la vida]: https://leanpub.com/4rulesofsimpledesign
 [Software Crafter Madrid]: https://github.com/SoftwareCraftersMadrid/global-day-of-coderetreat-2017
 [algunas fotos]: https://www.meetup.com/es-ES/madswcraft/photos/28339208/
-

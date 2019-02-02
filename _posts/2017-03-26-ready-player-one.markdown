@@ -1,5 +1,4 @@
 ---
-layout: post
 title: "Ready player one"
 date: 2017-03-26 20:52
 author: Ruben Chavarria
@@ -16,7 +15,7 @@ sidebar: true
 
 ## Por qué lo he leído
 
-{% img left /images/2017/ready-player-one.jpg %}
+![Ready player one](/images/2017/ready-player-one.jpg)
 
 La primera vez que leí una recomendación sobre el libro fue en [Microsiervos].
 Comentaban que era un libro de ciencia ficción relacionado con los videojuegos

@@ -1,5 +1,4 @@
 ---
-layout: post
 title: "Elixir: décimo asalto"
 date: 2017-06-07 21:29
 author: Ruben Chavarria
@@ -25,7 +24,7 @@ Todo esto, siguiendo el [método de aprendizaje] con el que comenzé la serie:
 - Aprender lo suficiente para hacer algo de utilidad
 - Enseñar lo aprendido
 
-{% img center /images/2017/darth-grader.jpg %}
+![Tenth](/images/2017/darth-grader.jpg)
 
 <div style="text-align: center">
   <span style="font-size: 60%">
@@ -128,7 +127,6 @@ el siguiente asalto.
 
 [Supervisores OTP]: https://elixir-lang.org/getting-started/mix-otp/supervisor-and-application.html
 [Elixir]: http://elixir-lang.org/
-[método de aprendizaje]: /blog/2016/01/17/aprendiendo-elixir/
+[método de aprendizaje]: {{ site.baseurl }}{% 2016-01-17-aprendiendo-elixir %}
 [Ejercicio 1]: https://github.com/rchavarria/learning-elixir/tree/master/code/round-10/stack
 [Ejercicio 2]: https://github.com/rchavarria/learning-elixir/tree/master/code/round-10/sequence
-

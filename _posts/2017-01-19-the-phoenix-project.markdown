@@ -1,5 +1,4 @@
 ---
-layout: post
 title: "The Phoenix project"
 date: 2017-01-19 22:23
 author: Rubén Chavarría
@@ -16,7 +15,7 @@ sidebar: true
 
 ##### de Gene Kim
 
-{% img left /images/2017/phoenix-project.png 200 246 %}
+![Phoenix project](/images/2017/phoenix-project.png)
 
 ## Por qué lo he leído
 
@@ -102,8 +101,7 @@ sobre nosotros muy a pecho.
 - Blog de [Eduardo Ferro]
 - [Teoría de las restricciones]
 
-[La meta]: /blog/2013/04/10/la-meta
+[La meta]: {{ site.baseurl }}{% post_url 2013-04-10-la-meta %}
 [Notas sobre el libro]: https://github.com/rchavarria/blog-post-incubator/blob/master/published-book-notes/phoenix-project-by-gene-kim.markdown
 [Eduardo Ferro]: http://www.eferro.net/2016/03/some-books-i-recently-read.html
 [Teoría de las restricciones]: https://es.wikipedia.org/wiki/Teor%C3%ADa_de_las_limitaciones
-
