@@ -83,7 +83,7 @@ tenemos que crear un arbol de supervisores. En este árbol, nuestro *worker*
 principal debe conocer el PID del *stash*, con lo que la forma de crear el
 árbol cambia ligeramente de la forma que hemos visto anteriormente.
 
-{% img center /images/2017/supervisor-tree.png %}
+![Supervisor tree](/images/2017/supervisor-tree.png)
 
 La aplicación funcionaría de la siguiente forma:
 
