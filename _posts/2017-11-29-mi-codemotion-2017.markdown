@@ -77,7 +77,7 @@ difundir conocimiento, motivar la curiosidad, ...). Me surgió una duda, ¿por
 qué siempre que se habla de salir de la zona de confort se termina centrando el
 debate en dar charlas en público?
 
-{% img center /images/2017/codemotion-troll.png %}
+![Codemotion troll](/images/2017/codemotion-troll.png)
 
 - [Taller: testing fácil con docker: gestiona dependencias y unifica entornos],
   de [Micael Gallego]: Una pena no poder seguir el taller al completo en vivo
@@ -86,7 +86,7 @@ dar y tomar, que pueden servir perfectamente como material de referencia. Me
 llevo unas cuantas ideas sobre cómo afrontar nuestro entorno Jenkins en el
 trabajo (¡a dockerizar todo!)
 
-{% img center /images/2017/codemotion-taller.jpg %}
+![Codemotion taller](/images/2017/codemotion-taller.jpg)
 
 - [Las reglas que hay que romper para que tu equipo de desarrollo sea el más rápido],
 de [Javier Abadía]: Presentación muy trabajada, divertida y con muy
@@ -94,7 +94,7 @@ buen ritmo. Charla llena de tips para trabajar mejor. Si me tuviera que quedar
 con uno sería: conoce el objetivo (road-map) y no te distraigas, haz lo mínimo
 con la calidad deseada para llegar al objetivo.
 
-{% img center /images/2017/codemotion-superhacker.png %}
+![Codemotion superhacker](/images/2017/codemotion-superhacker.png)
 
 - [¿Qué es un senior developer?], de [Luis G. Valle]: Presentación muy visual
   donde nos habló sobre qué es y qué no es un senior. En resumen, un senior es
@@ -102,7 +102,7 @@ un profesional maduro. También nos habló de seguir unos principios (fiabilidad
 responsabilidad, flexibilidad y pragmatismo) y unas reglas. Aprendimos que los
 seniors planifican su carrera, deciden cuál será su próximo paso.
 
-{% img center /images/2017/codemotion-senior.png %}
+![Codemotion senior](/images/2017/codemotion-senior.png)
 
 - [El informático], de [David Bonilla]: Nada que aprender en sí, pero mucho
   para reflexionar. ¿qué es un informático? ¿somos conscientes del poder que
@@ -112,7 +112,7 @@ haciendo lo posible para dejar un mundo mejor? Tenemos el deber de educar a los
 no-informaticos de los peligros de ciertos algoritmos. Podría haber servido
 como keynote para cerrar el evento.
 
-{% img center /images/2017/codemotion-bonilla.png %}
+![Codemotion Bonilla](/images/2017/codemotion-bonilla.png)
       
 ## Referencias
 
