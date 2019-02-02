@@ -138,7 +138,7 @@ esos métodos en la iteración de los arrays.
 - [Observable] object
 - [Observer] interface
 
-[artículo anterior]: {{ site.baseurl }}{% 2017-12-12-programacion-reactiva-javascript %}
+[artículo anterior]: {{ site.baseurl }}{% post_url 2017-12-12-programacion-reactiva-javascript %}
 [ReactiveX]: http://reactivex.io/
 [Observable]: http://reactivex.io/rxjs/class/es6/Observable.js~Observable.html
 [Observer]: http://reactivex.io/rxjs/class/es6/MiscJSDoc.js~ObserverDoc.html
