@@ -140,5 +140,5 @@ como keynote para cerrar el evento.
 [Codemotion]: http://2017.codemotion.es/
 [newsletter]: http://mailchi.mp/24b44589fbec/codemotion-2017-is-over?e=eecbf73be9
 [IndieMAD]: https://indiemad.org/
-[Notas extendidas del evento]: https://github.com/rchavarria/blog-post-incubator/blob/master/conferences/2017/codemotion/2017-11-25%20-%20codemotion.markdown
-[en inglés también]: https://github.com/rchavarria/blog-post-incubator/blob/master/conferences/2017/codemotion/2017-11-25%20-%20codemotion.en.markdown
+[Notas extendidas del evento]: https://github.com/rchavarria/notes/blob/master/_posts/2017-11-25-codemotion.markdown
+[en inglés también]: https://github.com/rchavarria/notes/blob/master/_posts/2017-11-25-codemotion.en.markdown
