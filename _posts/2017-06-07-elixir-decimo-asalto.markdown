@@ -127,6 +127,6 @@ el siguiente asalto.
 
 [Supervisores OTP]: https://elixir-lang.org/getting-started/mix-otp/supervisor-and-application.html
 [Elixir]: http://elixir-lang.org/
-[método de aprendizaje]: {{ site.baseurl }}{% 2016-01-17-aprendiendo-elixir %}
+[método de aprendizaje]: {{ site.baseurl }}{% post_url 2016-01-17-aprendiendo-elixir %}
 [Ejercicio 1]: https://github.com/rchavarria/learning-elixir/tree/master/code/round-10/stack
 [Ejercicio 2]: https://github.com/rchavarria/learning-elixir/tree/master/code/round-10/sequence
