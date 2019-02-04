@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Down and out of the Magic Kingdom"
+title: "Layout test"
 date: 2018-03-23 18:59
 author: Ruben Chavarria
 categories: 
