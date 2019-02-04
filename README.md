@@ -9,6 +9,7 @@ This project is based on [Primer Jekyll theme]
 - [ ] Navigation bar
 - [ ] Pages (about, reading list,...)
 - [ ] Move posts from [notes]
+- [ ] RSS button, with link to `/atom.xml` file
 
 # DONEs
 
