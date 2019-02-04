@@ -19,7 +19,7 @@ This project is based on [Primer Jekyll theme]
 - [GitHub Flavored Markdown]
 - [GitHub pages documentation] 
 
-[Primer Jekyll theme]: 
+[Primer Jekyll theme]: https://github.com/pages-themes/primer
 [GitHub Flavored Markdown]: https://guides.github.com/features/mastering-markdown/
 [GitHub pages documentation]: https://help.github.com/categories/github-pages-basics/ 
 [notes]: https://github.com/rchavarria/notes
