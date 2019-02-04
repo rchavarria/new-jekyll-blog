@@ -1,4 +1,14 @@
 
 <nav role="navigation">
-  La navegación
+  <ul class="subscription" data-subscription="rss">
+    <li>
+      <a href="/atom.xml" rel="subscribe-rss" title="Suscríbete vía RSS">RSS</a>
+    </li>
+  </ul>
+
+  <ul class="main-navigation">
+    <li><a href="{{ site.baseurl }}">Blog</a></li>
+    <li><a href="{{ site.baseurl | append:'/readings' }}">Lista de lectura</a></li>
+    <li><a href="{{ site.baseurl | append:'/about' }}">Sobre mí</a></li>
+  </ul>
 </nav>
