@@ -1,14 +1,12 @@
 
-<nav role="navigation">
-  <ul class="subscription" data-subscription="rss">
-    <li>
-      <a href="/atom.xml" rel="subscribe-rss" title="Suscríbete vía RSS">RSS</a>
-    </li>
-  </ul>
-
+<nav class="container-lg" role="navigation">
   <ul class="main-navigation">
     <li><a href="{{ site.baseurl }}">Blog</a></li>
+    <li>·</li>
     <li><a href="{{ site.baseurl | append:'/readings' }}">Lista de lectura</a></li>
+    <li>·</li>
     <li><a href="{{ site.baseurl | append:'/about' }}">Sobre mí</a></li>
+    <li>·</li>
+    <li><a href="/atom.xml" rel="subscribe-rss" title="Suscríbete vía RSS">RSS</a></li>
   </ul>
 </nav>
