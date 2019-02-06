@@ -202,7 +202,7 @@ de Dale Carnegie ~ *Julio 2013*
 - [The Passionate Programmer]({{ site.baseurl }}{% post_url 2015-09-20-passionate-programmer %}), de Chad Fowler ~ *Septiembre 2015*
 - [The martian]({{ site.baseurl }}{% post_url 2015-09-06-the-martian %}), de Andy Weir, *Septiembre 2015*
 - [Notes to a software team leader]({{ site.baseurl }}{% post_url 2015-08-23-notes-software-team-leader %}), de Roy Osherove ~ *Agosto 2015*
-- [JavaScript patterns]({{ site.baseurl }}{% post_url 2015-07-19-javascript-patterns %}), de Stoyan Stefanov ~ *Julio 2015*
+- [JavaScript patterns]({{ site.baseurl }}{% post_url 2015-07-20-javascript-patterns %}), de Stoyan Stefanov ~ *Julio 2015*
 - [Learning JavaScript design patterns]({{ site.baseurl }}{% post_url 2015-05-29-learning-javascript-design-patterns %}), de Addy Osmani ~ *Mayo 2015*
 - [Extreme programming explained]({{ site.baseurl }}{% post_url 2015-01-02-extreme-programming-explained %}), de Kent Beck ~ *Enero 2015*
 - [Stop stealing dreams]({{ site.baseurl }}{% post_url 2015-03-13-stop-stealing-dreams %}), de Seth Godin ~ *Octubre 2014*
