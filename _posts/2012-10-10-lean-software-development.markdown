@@ -19,7 +19,7 @@ sidebar: true
 ## Por qué lo he leído 
 
 Después de leer 
-[Scrum y XP desde las trincheras]({{ site.baseurl }}{% post_url 2012-07-06-srum-y-xp-desde-las-trincheras %}), 
+[Scrum y XP desde las trincheras]({{ site.baseurl }}{% post_url 2012-07-06-scrum-y-xp-desde-las-trincheras %}), 
 me quedé con ganas de leer algún libro más de temática Agile, de desarrollo de 
 software siguiendo prácticas lean. Me llaman mucho la atención las metodologías 
 ágiles de desarrollo de software, y creo que son una buena alternativa a las 
