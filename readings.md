@@ -189,7 +189,7 @@ de Dale Carnegie ~ *Julio 2013*
 - [Guía para invertir](https://github.com/rchavarria/blog-post-incubator/blob/master/published-book-notes/guia-para-invertir-de-robert-kiyosaki.markdown), de Robert Kiyosaki ~ *Junio 2017*
 - [Ready player one]({{ site.baseurl }}{% post_url 2017-03-26-ready-player-one %}), de Ernest Cline, recomendado por Microsiervos varias veces, y por Kevin Kelly en el [podcast de Tim Ferriss](http://fourhourworkweek.com/2016/06/05/kevin-kelly-ai-virtual-reality-and-the-inevitable) ~ *Abril 2017*
 - [The nature of software development]({{ site.baseurl }}{% post_url 2017-03-05-the-nature-of-software-developent %}), de Ron Jeffries, recomendado por [Carlos Buenosvinos](https://twitter.com/buenosvinos/status/721623461702078464/photo/1) (antes en Atrápalo Eng, ahora en Xing,...) ~ *Marzo 2017*
-- [The Phoenix project]({{ site.baseurl }}{% post_url 2017-01-12-the-phoenix-project %}), de Gene Kim, libro similar a
+- [The Phoenix project]({{ site.baseurl }}{% post_url 2017-01-19-the-phoenix-project %}), de Gene Kim, libro similar a
 [The goal]({{ site.baseurl }}{% post_url 2013-04-10-la-meta %}) pero orientado a IT, encontrado en el [blog de Eduardo Ferro](http://www.eferro.net/2016/03/some-books-i-recently-read.html) ~ *Enero 2017*
 - [The four hour body](https://github.com/rchavarria/blog-post-incubator/blob/master/published-book-notes/4-hour-body-by-tim-ferriss.markdown), de Tim Ferris ~ *Septiembre 2016*
 - [Zen y el arte del mantenimiento de motocicletas]({{ site.baseurl }}{% post_url 2016-09-18-zen-arte-mantenimiento-motocicletas %}), de Robert M. Pirsig, recomendado por [@mpjme en FunFunFunction #18](https://www.youtube.com/watch?v=lrf6xuFq1Ms&t=90) ~ *Agosto 2016*
