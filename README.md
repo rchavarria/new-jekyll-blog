@@ -6,7 +6,6 @@ This project is based on [Primer Jekyll theme]
 
 # TODOs
 
-- [ ] Header
 - [ ] Footer
 - [ ] Move posts from [notes]
 - [ ] RSS button, with link to `/atom.xml` file
@@ -17,6 +16,7 @@ This project is based on [Primer Jekyll theme]
 - [x] Migrate posts from Octopus to Jekyll 
 - [x] Navigation bar
 - [x] Pages (about, reading list,...)
+- [x] Header
 
 # Help
 
