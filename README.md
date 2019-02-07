@@ -10,6 +10,7 @@ This project is based on [Primer Jekyll theme]
 - [ ] Footer
 - [ ] Move posts from [notes]
 - [ ] RSS button, with link to `/atom.xml` file
+- [ ] Favicon
 
 # DONEs
 

@@ -3,9 +3,15 @@
 
 @import "{{ site.theme }}";
 
+body > header {
+  display: inline-block;
+  margin: 3em;
+  font-size: 2.2em;
+  line-height: 1.2em;
+}
+
 body > header h1 {
   display: inline-block;
-  margin: 0;
   font-size: 2.2em;
   line-height: 1.2em;
 }
