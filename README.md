@@ -6,6 +6,8 @@ This project is based on [Primer Jekyll theme]
 
 # TODOs
 
+- [ ] Header
+- [ ] Footer
 - [ ] Move posts from [notes]
 - [ ] RSS button, with link to `/atom.xml` file
 
