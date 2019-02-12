@@ -10,6 +10,7 @@ This project is based on [Primer Jekyll theme]
 - [ ] Move posts from [notes]
 - [ ] RSS button, with link to `/atom.xml` file
 - [ ] Favicon
+- [ ] Add affiliate links to book reviews
 
 # DONEs
 
