@@ -6,7 +6,6 @@ This project is based on [Primer Jekyll theme]
 
 # TODOs
 
-- [ ] Footer
 - [ ] Move posts from [notes]
 - [ ] RSS button, with link to `/atom.xml` file
 - [ ] Favicon
@@ -18,6 +17,7 @@ This project is based on [Primer Jekyll theme]
 - [x] Navigation bar
 - [x] Pages (about, reading list,...)
 - [x] Header
+- [x] Footer
 
 # Help
 
