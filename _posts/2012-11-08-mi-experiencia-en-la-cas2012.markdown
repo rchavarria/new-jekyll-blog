@@ -3,9 +3,9 @@ title: "Mi experiencia en la CAS2012"
 date: 2012-11-08 10:08
 author: Rubén Chavarría
 categories: 
-- personal
-- agile
-- confenrencias
+- Personal
+- Agile
+- Conferencias
 comments: true
 published: true
 footer: false
