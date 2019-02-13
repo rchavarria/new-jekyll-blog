@@ -11,4 +11,5 @@ layout: default
 
 <hr>
 
-Ver [todos los posts port categoría]({{ site.baseurl | append:"/all" }})
+Ver [todos los posts por categoría]({{ site.baseurl | append:"/all" }}), o ver
+[todo, todo, todito]({{ site.baseurl | append:"/all-posts" }}).
