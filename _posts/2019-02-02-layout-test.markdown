@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Layout test"
-date: 2018-03-23 18:59
+date: 2019-02-02 11:59
 author: Ruben Chavarria
 categories: 
 - categoría 1
