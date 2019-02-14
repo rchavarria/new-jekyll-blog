@@ -6,7 +6,7 @@ This project is based on [Primer Jekyll theme]
 
 # TODOs
 
-- [ ] WIP: Move posts from [notes]  -> (mover año 2018)
+- [ ] WIP: Move posts from [notes]  -> (mover año 2019)
 - [ ] RSS button, with link to `/atom.xml` file
 - [ ] Favicon
 - [ ] Add affiliate links to book reviews
