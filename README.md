@@ -6,6 +6,7 @@ This project is based on [Primer Jekyll theme]
 
 # TODOs
 
+- [ ] Fix image links. It seems (/images/...) doesn't work. Review all posts from notes
 - [ ] Favicon
 - [ ] Add affiliate links to book reviews
 - [ ] Add books from gmail
