@@ -6,7 +6,6 @@ This project is based on [Primer Jekyll theme]
 
 # TODOs
 
-- [ ] RSS button, with link to `/atom.xml` file
 - [ ] Favicon
 - [ ] Add affiliate links to book reviews
 - [ ] Add books from gmail
@@ -19,6 +18,7 @@ This project is based on [Primer Jekyll theme]
 - [x] Header
 - [x] Footer
 - [x] Move posts from [notes]
+- [x] RSS button, with link to `/feed.xml` file
 
 # Help
 
