@@ -1,7 +1,12 @@
 
 <nav class="container-lg" role="navigation">
   <ul>
-    <li><a href="{{ site.baseurl | append:'/atom.xml' }}" rel="subscribe-rss" title="Suscríbete vía RSS">RSS</a></li>
+    <li>
+      <a href="{{ site.baseurl | append:'/feed.xml' }}" rel="subscribe-rss" title="Suscríbete vía RSS">
+        RSS
+        <img src="/images/rss-logo.svg"/>
+      </a>
+    </li>
     <li>|</li>
     <li><a href="{{ site.baseurl | append:'/about' }}">Sobre mí</a></li>
     <li>|</li>
