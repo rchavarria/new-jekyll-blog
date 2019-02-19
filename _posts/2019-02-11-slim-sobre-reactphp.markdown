@@ -18,7 +18,7 @@ Necesito acceder al sistema a través de un API REST, para poder hacer
 peticiones al sistema y extraer así cierta información: monitorización,
 configuración,...
 
-![Sistema de Notificaciones](/notes/assets/images/2019/sistema-notificaciones.jpg)
+![Sistema de Notificaciones](/images/2019/sistema-notificaciones.jpg)
 
 <!-- more -->
 
