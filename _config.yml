@@ -1,6 +1,8 @@
 theme: jekyll-theme-primer
 
 baseurl: "/new-jekyll-blog"
+url: http://rchavarria.github.io
+name: Rubén Chavarría
 title: Migración del blog (R. Chavarria's blog)
 description: Proud of developing software, proud of being an Engineer
 
