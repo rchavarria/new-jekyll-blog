@@ -2,7 +2,7 @@
 layout: default
 ---
 
-{% for post in site.posts %}
+{% for post in site.posts limit:25 %}
 ### {{ forloop.index }}. [{{ post.title }}]({{ site.baseurl | append:post.url }})
 
 {{ post.excerpt }}
