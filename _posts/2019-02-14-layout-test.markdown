@@ -23,7 +23,7 @@ lectura de cualquiera. ¿Por qué dejarlo escapar?
 
 Imagen:
 
-![Down and out of the Magic Kingdom](http://craphound.com/images/056c026d-1c66-4d42-9fae-a8e96df290c5-1020x982.jpg)
+![A resource image](/images/2018/bees.jpg)
 
 Enlace: [No sé, donde sea](http://google.es)
 
