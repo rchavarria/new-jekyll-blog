@@ -23,7 +23,7 @@ lectura de cualquiera. ¿Por qué dejarlo escapar?
 
 Imagen en el excerpt:
 
-![A resource image](/images/2018/bees.jpg)
+![A resource image]({{ site.baseurl }}/assets/images/2018/bees.jpg)
 
 Enlace: [No sé, donde sea](http://google.es)
 
