@@ -40,7 +40,7 @@ conceptos relacionados:
 complejidad (reflejada en una estructura que se deteriora) se incrementa a no
 ser que se haga un trabajo para mantenerla o reducirla
 
-![Technical debt](/images/2015/technical-debt.jpg)
+![Technical debt]({{ site.baseurl }}/assets/images/2015/technical-debt.jpg)
 
 *Imagen tomada del tweet de [Kristian Hellang](https://twitter.com/khellang/status/626716128379830273)*
 

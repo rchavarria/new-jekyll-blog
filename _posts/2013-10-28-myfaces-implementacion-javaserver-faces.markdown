@@ -36,7 +36,7 @@ visita [http://localhost:8080/login.jsf](http://localhost:8080/login.jsf) para d
 La demo será una aplicación que mostrará los parámetros enviados a través de 
 una petición HTTP, y el esquema de navegación será el siguiente:
 
-![Esquema de navegación](/images/2013/jsf-navigation.png)
+![Esquema de navegación]({{ site.baseurl }}/assets/images/2013/jsf-navigation.png)
 
 ### Comencemos con el esqueleto
 

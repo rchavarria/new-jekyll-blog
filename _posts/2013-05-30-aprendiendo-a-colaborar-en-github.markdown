@@ -28,7 +28,7 @@ trabajar en equipo con git y github.
 Lo primero que se necesita es tener una cuenta en github. Si no tienes una, uno puede
 [registrarse](https://github.com/users) fácilmente. Es como crearse una cuenta de correo.
 
-![GitHub overview](/images/2013/github-overview.jpg)
+![GitHub overview]({{ site.baseurl }}/assets/images/2013/github-overview.jpg)
 
 Después, es necesario que [descargues e instales git](http://git-scm.com/downloads) 
 en el ordenador donde vayas a trabajar. En windows es tan sencillo como instalar cualquier
@@ -106,7 +106,7 @@ repositorio remoto en github. Existe una forma muy sencilla en github de informa
 de que hemos hecho cambios, los llamados 
 [Pull Request](https://help.github.com/articles/using-pull-requests).
 
-![Pull Request](/images/2013/github-pull-request.jpg)
+![Pull Request]({{ site.baseurl }}/assets/images/2013/github-pull-request.jpg)
 
 Mediante un Pull Request estás indicando a un compañero que le quieres pasar unos cambios que
 tú has hecho. Ahora tu compañero deberá decidir si acepta los cambios y él incorporará esos 

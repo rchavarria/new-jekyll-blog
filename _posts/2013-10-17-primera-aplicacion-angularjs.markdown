@@ -28,7 +28,7 @@ implementar una [librería de videos de youtube](http://rct-ytlibrary.herokuapp.
 
 <!-- more -->
 
-![Puedes añadir un vídeo arrastrando y soltando](/images/2013/ytlibrary-dnd.png)
+![Puedes añadir un vídeo arrastrando y soltando]({{ site.baseurl }}/assets/images/2013/ytlibrary-dnd.png)
 
 En definitiva, he aprovechado esta oportunidad, y con unas pequeñas modificaciones
 a la prueba técnica inicial, he eliminado la necesidad de un back-end, he creado
@@ -46,7 +46,7 @@ La aplicación explota multitud de conceptos de AngularJS:
 - Posibilidad de arrastrar y soltar vídeos para añadirlos a la lista
 - Animaciones con el módulo proporcionado por AngularJS `ngAnimate`
 
-![Visualizar un vídeo desde la lista](/images/2013/ytlibrary-video.png)
+![Visualizar un vídeo desde la lista]({{ site.baseurl }}/assets/images/2013/ytlibrary-video.png)
 
 Si todavía tienes ganas de más, te invito a que eches un vistazo a 
 [Youtube library](http://rct-ytlibrary.herokuapp.com). Por supuesto, si quieres,

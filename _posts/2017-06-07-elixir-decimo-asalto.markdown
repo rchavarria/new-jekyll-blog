@@ -24,7 +24,7 @@ Todo esto, siguiendo el [método de aprendizaje] con el que comenzé la serie:
 - Aprender lo suficiente para hacer algo de utilidad
 - Enseñar lo aprendido
 
-![Tenth](/images/2017/darth-grader.jpg)
+![Tenth]({{ site.baseurl }}/assets/images/2017/darth-grader.jpg)
 
 <div style="text-align: center">
   <span style="font-size: 60%">
@@ -83,7 +83,7 @@ tenemos que crear un arbol de supervisores. En este árbol, nuestro *worker*
 principal debe conocer el PID del *stash*, con lo que la forma de crear el
 árbol cambia ligeramente de la forma que hemos visto anteriormente.
 
-![Supervisor tree](/images/2017/supervisor-tree.png)
+![Supervisor tree]({{ site.baseurl }}/assets/images/2017/supervisor-tree.png)
 
 La aplicación funcionaría de la siguiente forma:
 

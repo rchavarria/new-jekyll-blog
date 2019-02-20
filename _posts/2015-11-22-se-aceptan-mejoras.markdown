@@ -16,7 +16,7 @@ Existe una cosa maravillosa en el mundo de open source, y es que personas que
 ni siquiera sabes que existen, usan tu trabajo, lo mejoran con el suyo, y te lo
 donan a tí para que otra gente se beneficie del trabajo de ambos.
 
-![Contribution](/images/2015/contribution.png)
+![Contribution]({{ site.baseurl }}/assets/images/2015/contribution.png)
 
 Imagina que tienes una librería y tienes una base de usuarios. Ningún software
 se adapta a todos sus usuarios, así que lo más seguro es que los usuarios de tu
@@ -141,7 +141,7 @@ En esta fase se pueden hacer nuevos cambios o pedir al programador que
 contribuye que realice algunos cambios por sí mismo y que actualize el Pull
 Request.
 
-![Github diff](/images/2015/github-diff.png)
+![Github diff]({{ site.baseurl }}/assets/images/2015/github-diff.png)
 
 ## Incorporar los cambios
 
@@ -197,7 +197,7 @@ To https://github.com/exercism/xecmascript.git
 
 ... ¡magia!
 
-![PR merged](/images/2015/pull-request-merged.png)
+![PR merged]({{ site.baseurl }}/assets/images/2015/pull-request-merged.png)
 
 ## Referencias
 

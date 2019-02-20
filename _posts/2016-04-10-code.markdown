@@ -20,7 +20,7 @@ con el software debería leer. El año pasado ya leí [The martian], recomendado
 públicamente también por Scott. ¿Iba a dejar de pasar la oportunidad? Ni
 hablar.
 
-![Code](/images/2016/code-charles-petzold.png)
+![Code]({{ site.baseurl }}/assets/images/2016/code-charles-petzold.png)
 
 <!-- more -->
 

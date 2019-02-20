@@ -22,7 +22,7 @@ Todo esto, siguiendo el [método de aprendizaje] con el que comenzé la serie:
 - Aprender lo suficiente para hacer algo de utilidad
 - Enseñar lo aprendido
 
-![Ninth round](/images/2017/us-air-force.jpg)
+![Ninth round]({{ site.baseurl }}/assets/images/2017/us-air-force.jpg)
 
 <div style="text-align: center">
   <span style="font-size: 60%">

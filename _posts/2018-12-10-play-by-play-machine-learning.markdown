@@ -101,7 +101,7 @@ es un valor que tenemos que decidir/ajustar manualmente.
 
 Por ponerlo en una fórmula:
 
-![Variación de `θ` con la variación de `J`](/images/2018/ml-theta-n-plus-1.png)
+![Variación de `θ` con la variación de `J`]({{ site.baseurl }}/assets/images/2018/ml-theta-n-plus-1.png)
 
 Derivamos la función de coste `J` por la variación de `θ`, y dependiendo de ello, así
 aplicamos el valor de `α`.

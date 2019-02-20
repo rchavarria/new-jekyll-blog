@@ -37,7 +37,7 @@ Para ejecutar la demo, simplemente hay que descargase el código fuente y ejecut
 del servlet visitando 
 [http://localhost:8080/SimpleHttpServlet](http://localhost:8080/SimpleHttpServlet).
 
-![Respuesta del servlet](/images/2013/simple-http-servlet.png)
+![Respuesta del servlet]({{ site.baseurl }}/assets/images/2013/simple-http-servlet.png)
 
 ## Dependencias
 

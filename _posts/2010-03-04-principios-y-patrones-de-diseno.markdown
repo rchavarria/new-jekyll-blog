@@ -120,7 +120,7 @@ en el de ordenadas -y-), obtenemos un gráfico como el siguiente (lo podéis enc
 la página 26 del 
 [documento](http://www.objectmentor.com/resources/articles/Principles_and_Patterns.pdf)
 
-![I vs A](/images/wordpress/i-vs-a.png)
+![I vs A]({{ site.baseurl }}/assets/images/wordpress/i-vs-a.png)
 
 El lugar óptimo donde nos interesa situar a nuestros paquetes es la línea central, donde 
 las dos métricas anteriores están equilibradas. La métrica de distancia nos indica lo 

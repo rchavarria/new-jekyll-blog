@@ -13,7 +13,7 @@ sidebar: true
 
 ##### Paul Davies
 
-![God and the new physics](/images/wordpress/god-and-the-new-physics.jpg)
+![God and the new physics]({{ site.baseurl }}/assets/images/wordpress/god-and-the-new-physics.jpg)
 
 ## Por qué lo he leído
 

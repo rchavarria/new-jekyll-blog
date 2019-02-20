@@ -30,7 +30,7 @@ ejemplo Matisse para NetBeans.
 
 Lo primero de todo veamos qué se puede conseguir con este gestor de layout:
 
-![Ventana usando `GridBagLayout`](/images/wordpress/gridbaglayout-frame1.png)
+![Ventana usando `GridBagLayout`]({{ site.baseurl }}/assets/images/wordpress/gridbaglayout-frame1.png)
 
 `GridBagLayout` coloca los componentes en una serie de filas y columnas, permite 
 a los componentes ocupar varias filas y/o columnas y las filas y las columnas no 
@@ -39,7 +39,7 @@ estas alturas y anchuras dependiendo de los atributos preferredSize de los compo
 En la siguiente imagen podemos el diseño de cada una de las celdas en las que se 
 divide `GridBagLayout`:
 
-![Diseñando un panel con `GridBagLayout`](/images/wordpress/gridbaglayout-design.png)
+![Diseñando un panel con `GridBagLayout`]({{ site.baseurl }}/assets/images/wordpress/gridbaglayout-design.png)
 
 Los componentes indican a `GridBagLayout` sus restricciones mediante un objeto del 
 tipo `GridBagConstraints`. En esta primera entrada estudiaremos las restricciones 

@@ -20,7 +20,7 @@ similares que se celebran en Barcelona o Pamplona.
 El día fue espectacular, no tanto por las charlas, pero sí por las personas 
 con las que tuve el placer de compartir el día
 
-![MadSWCraft](/images/2018/madswcraft.jpg)
+![MadSWCraft]({{ site.baseurl }}/assets/images/2018/madswcraft.jpg)
 
 <div style="text-align: center">
   <span style="font-size: 60%">

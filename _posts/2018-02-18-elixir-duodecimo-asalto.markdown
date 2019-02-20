@@ -23,7 +23,7 @@ Son un punto intermedio. Utilizan funcionalidades de OTP, pero nos aíslan de
 muchos detalles, lo que hace que trabajar con procesos y procesos distribuidos
 sea muchísimo más fácil.
 
-![Twelveth](/images/2018/down-the-board.jpg)
+![Twelveth]({{ site.baseurl }}/assets/images/2018/down-the-board.jpg)
 
 <div style="text-align: center">
   <span style="font-size: 60%">

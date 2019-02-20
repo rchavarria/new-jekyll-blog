@@ -13,7 +13,7 @@ sidebar: true
 
 ###### de John Sonmez
 
-![Soft skills](/images/2015/soft-skills.jpg)
+![Soft skills]({{ site.baseurl }}/assets/images/2015/soft-skills.jpg)
 
 ### Por qué lo he leído
 

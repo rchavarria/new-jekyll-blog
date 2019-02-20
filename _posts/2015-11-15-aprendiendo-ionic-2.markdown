@@ -28,7 +28,7 @@ versión 2 siguen con la filosofía de estar muy preocupados por el rendimiento.
 En este post veremos lo realmente fácil que es comenzar a desarrollar con estas
 herrmientas.
 
-![Ionic Framework](/images/2015/ionic-framework.jpg)
+![Ionic Framework]({{ site.baseurl }}/assets/images/2015/ionic-framework.jpg)
 
 <!-- more -->
 

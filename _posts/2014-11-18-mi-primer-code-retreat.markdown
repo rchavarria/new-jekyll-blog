@@ -25,7 +25,7 @@ se va a programar atendiendo a una **restricción** diferente.
 
 A continuación, una breve descripción de cómo fue cada una de ellas:
 
-![Algunas restricciones](/images/2014/gdcr14-restrictions.jpg)
+![Algunas restricciones]({{ site.baseurl }}/assets/images/2014/gdcr14-restrictions.jpg)
 
 1. Estuve emparejado con Eduardo. Al ser nuestra primera iteración, estábamos algo
 perdidos. Era un problema nuevo para ambos, pero aún así tuvimos una discusión muy

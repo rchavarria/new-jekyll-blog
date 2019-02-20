@@ -11,7 +11,7 @@ footer: false
 sidebar: true
 ---
 
-![Evolución del análisis estático de código](/images/2014/phpcs-small.png)
+![Evolución del análisis estático de código]({{ site.baseurl }}/assets/images/2014/phpcs-small.png)
 
 En una de las últimas retrospectivas de mi equipo de desarrollo, estuvimos
 hablando sobre la mejora contínua, y qué podríamos hacer sobre ella. Afortunadamente
@@ -41,7 +41,7 @@ asignación. Multitud de ellas.
 
 ## Violaciones del estándar de código
 
-![Descenso del número de errores](/images/2014/phpcs-large.png)
+![Descenso del número de errores]({{ site.baseurl }}/assets/images/2014/phpcs-large.png)
 
 En el momento de la conversación sobre la mejora contínua nos encontrábamos en
 el máximo que se aprecia en el gráfico, unas 8000 violaciones de reglas de 

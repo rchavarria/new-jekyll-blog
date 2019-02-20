@@ -26,7 +26,7 @@ también hay que entender que un evento así no es fácil organizarlo. A mí
 me ha encantado la cantidad de tiempo disponible entre charla y charla. No
 me he perdido ninguna de las charlas a las que quería asistir.
 
-![Codemotion](/images/2014/codemotion.png)
+![Codemotion]({{ site.baseurl }}/assets/images/2014/codemotion.png)
 
 <!-- more -->
 

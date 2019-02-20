@@ -13,7 +13,7 @@ sidebar: true
 
 ##### de Sandi Metz y Katrina Owen
 
-![99 bottles of OOP](/images/2017/99-bottles-of-oop.jpg)
+![99 bottles of OOP]({{ site.baseurl }}/assets/images/2017/99-bottles-of-oop.jpg)
 
 ## Por qué lo he leído
 

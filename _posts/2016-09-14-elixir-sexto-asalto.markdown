@@ -26,7 +26,7 @@ Sigo con la metodología de aprendizaje explicada en el [primer post sobre Elixi
 - Aprender lo suficiente para hacer algo de utilidad
 - Enseñar lo aprendido
 
-![Sixth](/images/2016/more-gladiators.png)
+![Sixth]({{ site.baseurl }}/assets/images/2016/more-gladiators.png)
 
 <div style="text-align: center">
   <span style="font-size: 60%">

@@ -25,7 +25,7 @@ y condiciones de su *contrato* (llamémoslo así).
 
 <!-- more -->
 
-![WP message](/images/wordpress/wordpress-message.png)
+![WP message]({{ site.baseurl }}/assets/images/wordpress/wordpress-message.png)
 
 En este mensaje básicamente me vienen a decir que no cumplo lo que wordpress 
 dice en su Terms of Service o en su Advertising policy, pero no especifican 
@@ -52,7 +52,7 @@ se puede considerar desplome caer desde prácticamente cero), y para muestra,
 una imagen de las visitas de los últimos días. Como referencia diré que el día 
 en que wordpress decidión bloquear mi blog fue el dia 27 de noviembre.
 
-![WP visitis](/images/wordpress/wordpress-visits.png)
+![WP visitis]({{ site.baseurl }}/assets/images/wordpress/wordpress-visits.png)
 
 Por estas quejas, y sobretodo, porque me apetece bloguear como un hacker, 
 bienvenido a mi *nuevo* blog. Ahora sólo queda migrar los artículos del antiguo 

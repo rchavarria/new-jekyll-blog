@@ -44,7 +44,7 @@ También encontré mucha información acerca de *pair programming*, práctica
 en la que estoy muy interesado, así como la forma en que las distintas
 prácticas se interconectan entre sí.
 
-![Cómo están interconectadas las prácticas XP](/images/2015/xp-practices.jpg)
+![Cómo están interconectadas las prácticas XP]({{ site.baseurl }}/assets/images/2015/xp-practices.jpg)
 
 ## Conclusiones
 

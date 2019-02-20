@@ -46,7 +46,7 @@ En la siguiente imagen se puede ver el texto necesario para inyectar la variable
 `PATH` en un entorno Linux. A dicha variable le estoy añadiendo una ruta donde
 se encuentra la aplicación que necesita el *job* que estoy configurando.
 
-![Jenkins build environment](/images/2014/jenkins-build-environment.png)
+![Jenkins build environment]({{ site.baseurl }}/assets/images/2014/jenkins-build-environment.png)
 
 Este ejemplo muestra como se configura un Jenkins instalado en un Linux, en
 Windows se utilizaría de otra forma ya que las variables de entorno no

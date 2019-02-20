@@ -25,7 +25,7 @@ Siempre se programa por parejas (o tríos), nunca solo. El día está dividido e
 iteraciones de una duración determinada, y al final de cada iteración hacemos
 una pequeña retrospectiva. Y así es como fue nuestro [día].
 
-![GDCR 2017](/images/2017/gdcr2017.jpg)
+![GDCR 2017]({{ site.baseurl }}/assets/images/2017/gdcr2017.jpg)
 
 <div style="text-align: center">
   <span style="font-size: 60%">

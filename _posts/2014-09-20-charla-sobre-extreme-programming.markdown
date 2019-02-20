@@ -12,7 +12,7 @@ footer: false
 sidebar: true
 ---
 
-![Prácticas de eXtreme Programming](/images/2014/xppractices.jpg)
+![Prácticas de eXtreme Programming]({{ site.baseurl }}/assets/images/2014/xppractices.jpg)
 
 Recientemente he dado una charla en el trabajo acerca de [eXtreme Programming].
 No es nada del otro mundo, tampoco pretendo dar lecciones a nadie y tampoco

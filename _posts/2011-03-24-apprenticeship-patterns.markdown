@@ -20,7 +20,7 @@ sidebar: true
 
 ## Por qué lo he leído
 
-![Apprenticeship patterns](/images/wordpress/apprenticeship_patterns-228x300.jpg)
+![Apprenticeship patterns]({{ site.baseurl }}/assets/images/wordpress/apprenticeship_patterns-228x300.jpg)
 
 La razón es bien sencilla, ni recomendaciones, ni hablando con un amigo, ni nada. 
 Expontáneamente, leyendo el 
@@ -65,7 +65,7 @@ como tú
 Durante mi lectura fui tomando notas, ideas, conceptos que me parecieron muy interesantes. 
 Es una lista muy larga para escribirla aquí, así que mejor dejo un enlace a un sencillo 
 archivo de texto: 
-[Notas sobre Apprentice Patterns](/images/wordpress/notas-sobre-apprentice-patterns.pdf).
+[Notas sobre Apprentice Patterns]({{ site.baseurl }}/assets/images/wordpress/notas-sobre-apprentice-patterns.pdf).
 
 Como resultado de su lectura, fuí apuntando distintas acciones que podría ir llevando a 
 cabo para ser mejor profesional. Una de ellas es

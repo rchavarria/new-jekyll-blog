@@ -24,7 +24,7 @@ unos días después). Ya he acostado a mi hijo, y tengo un ratito de reflexión,
 
 <!-- more -->
 
-![La rotonda en SaveInfos](/images/2013/panoramica-saveinfos.jpg)
+![La rotonda en SaveInfos]({{ site.baseurl }}/assets/images/2013/panoramica-saveinfos.jpg)
 
 Lo primero de todo, mil gracias a [Maica](https://twitter.com/MaicaTrinidad), 
 [Jose Manuel](https://twitter.com/jmbeas) y 

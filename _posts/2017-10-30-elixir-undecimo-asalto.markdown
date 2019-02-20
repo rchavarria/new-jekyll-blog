@@ -26,7 +26,7 @@ Todo esto, siguiendo el [método de aprendizaje] con el que comenzé la serie:
 - Aprender lo suficiente para hacer algo de utilidad
 - Enseñar lo aprendido
 
-![Eleventh](/images/2017/fingers.jpg)
+![Eleventh]({{ site.baseurl }}/assets/images/2017/fingers.jpg)
 
 <div style="text-align: center">
   <span style="font-size: 60%">

@@ -19,7 +19,7 @@ sidebar: true
 En esta demo crearemos una aplicación web para demostrar el uso del framework
 Spring MVC para crear servicios REST.
 
-![Spring MVC](/images/2014/spring-mvc.png)
+![Spring MVC]({{ site.baseurl }}/assets/images/2014/spring-mvc.png)
 
 Será una aplicación web sencilla, sin persistencia en base de datos (para no
 complicarla), pero será una aplicación Spring MVC completa donde, en lugar de

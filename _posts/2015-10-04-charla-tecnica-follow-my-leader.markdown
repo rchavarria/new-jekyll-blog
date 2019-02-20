@@ -51,7 +51,7 @@ ahí están las combinaciones de teclas dsiponibles para tus plugins.
 - En la imagen de la [chuleta de Vim], los naranjas son operadores, los
 verdes movimientos y los amarillos son comandos.
 
-![Vim cheat sheet](/images/2015/tiny-vi-vim-cheat-sheet.gif)
+![Vim cheat sheet]({{ site.baseurl }}/assets/images/2015/tiny-vi-vim-cheat-sheet.gif)
 
 - El plugin [unimpaired.vim] añade mapeos como `con` para habilitar/deshabilitar los
 nuḿeros de línea, o `cos` para habilitar/deshabilitar el chequeo ortográfico.

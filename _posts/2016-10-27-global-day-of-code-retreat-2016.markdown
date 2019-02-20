@@ -30,7 +30,7 @@ lo laboral, aunque sí con la profesión. Una definición tirando a formal serí
 
 *(traducción libre de la definición sacada de [Code retreat])*
 
-![GDCR 16](/images/2016/gdcr16.jpg)
+![GDCR 16]({{ site.baseurl }}/assets/images/2016/gdcr16.jpg)
 
 <div style="text-align: center; margin: -20px 0 0 0">
   <span style="font-size: 60%">

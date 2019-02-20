@@ -103,7 +103,7 @@ a los _métodos_ web.
 
 ### Crear un test de JUnit para invocar el servicio web
 
-![Ejecución de la demo como un test](/images/2013/web-service-test.png)
+![Ejecución de la demo como un test]({{ site.baseurl }}/assets/images/2013/web-service-test.png)
 
 Usaremos un sencillo test de JUnit para invocar a nuestro servicio. Se puede utilizar
 una clase normal de Java, con un método `main`, pero haciéndolo con un test, podemos

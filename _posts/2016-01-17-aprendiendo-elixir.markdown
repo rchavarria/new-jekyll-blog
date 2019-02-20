@@ -11,7 +11,7 @@ footer: false
 sidebar: true
 ---
 
-![Elixir](/images/2016/elixir.png)
+![Elixir]({{ site.baseurl }}/assets/images/2016/elixir.png)
 
 No es una propósito de año nuevo ni nada, pero me apetece aprender un lenguaje
 puramente funcional por el simple hecho de aprender. He estado dudando entre

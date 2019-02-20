@@ -33,7 +33,7 @@ del repositorio de las demos en github.
 
 ## Demo
 
-![Foto por el usuario de flickr psd](/images/2013/web-services-by-psd.jpg)
+![Foto por el usuario de flickr psd]({{ site.baseurl }}/assets/images/2013/web-services-by-psd.jpg)
 
 En esta demo no veremos nada funcionando, ya que vamos a crear un servicio web
 pero no vamos a crear un cliente que lo consuma (eso para la siguiente). La forma

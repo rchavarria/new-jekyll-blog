@@ -40,7 +40,7 @@ Para ejecutar la demo, simplemente hay que descargase el código fuente y ejecut
 unos valores cualquiera y enviar los datos del formulario. Como resultado, veremos
 el renderizado de la página JSP en el navegador.
 
-![Respuesta del servlet](/images/2013/request-parameters-jsp.png)
+![Respuesta del servlet]({{ site.baseurl }}/assets/images/2013/request-parameters-jsp.png)
 
 ## Dependencias
 

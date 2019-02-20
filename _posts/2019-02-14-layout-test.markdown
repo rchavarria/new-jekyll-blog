@@ -31,7 +31,7 @@ Enlace: [No sé, donde sea](http://google.es)
 
 Otra imagen fuera del excerpt:
 
-![A resource image](/images/2018/bees.jpg)
+![A resource image]({{ site.baseurl }}/assets/images/2018/bees.jpg)
 
 Algún texto más...
 

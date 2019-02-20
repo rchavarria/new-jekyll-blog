@@ -15,7 +15,7 @@ sidebar: true
 
 ## Por qué lo he leído
 
-![Ready player one](/images/2017/ready-player-one.jpg)
+![Ready player one]({{ site.baseurl }}/assets/images/2017/ready-player-one.jpg)
 
 La primera vez que leí una recomendación sobre el libro fue en [Microsiervos].
 Comentaban que era un libro de ciencia ficción relacionado con los videojuegos

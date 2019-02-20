@@ -15,7 +15,7 @@ sidebar: true
 
 ##### de Sandi Metz
 
-![POODR](/images/2018/poodr.jpg)
+![POODR]({{ site.baseurl }}/assets/images/2018/poodr.jpg)
 
 ### Por qué lo he leído
 

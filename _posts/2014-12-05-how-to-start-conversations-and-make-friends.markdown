@@ -13,7 +13,7 @@ sidebar: true
 
 ##### de Don Gabor
 
-![Portada del libro How to start a conversation](/images/2014/how-to-start-conversation.jpg)
+![Portada del libro How to start a conversation]({{ site.baseurl }}/assets/images/2014/how-to-start-conversation.jpg)
 
 ## Por qué lo he leído
 

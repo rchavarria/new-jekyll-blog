@@ -26,7 +26,7 @@ partiendo del post [aprendiendo Elixir]:
 - Aprender lo suficiente para hacer algo de utilidad
 - Enseñar lo aprendido
 
-![Fifth fight](/images/2016/fight-II-harc-II.jpg)
+![Fifth fight]({{ site.baseurl }}/assets/images/2016/fight-II-harc-II.jpg)
 
 <div style="text-align: center">
   <span style="font-size: 60%">

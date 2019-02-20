@@ -40,7 +40,7 @@ el equipo.
 
 <!-- more -->
 
-![Rules](/images/2015/ruler.png)
+![Rules]({{ site.baseurl }}/assets/images/2015/ruler.png)
 
 ## Reglas
 

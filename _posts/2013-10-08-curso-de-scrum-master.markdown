@@ -54,7 +54,7 @@ de un trabajo en grupo, no podrá saber si todo el mundo avanza en la misma dire
 Nosotros es lo primero que hicimos al comenzar el curso, y éstos fueron nuestros 
 *Acuerdos de Trabajo*:
 
-![Acuerdos de trabajo](/images/2013/curso-scrum-master/01-acuerdos-trabajo.jpg)
+![Acuerdos de trabajo]({{ site.baseurl }}/assets/images/2013/curso-scrum-master/01-acuerdos-trabajo.jpg)
 
 - Speak up! (¡Habla!): Los problemas se deben resolver cuanto antes. Si te molesta 
 cualquier cosa, por pequeña que sea, si crees que va a haber un problema con algo...
@@ -65,7 +65,7 @@ esfuerzos.
 
 ## Crear una visión
 
-![Vision](/images/2013/curso-scrum-master/02-vision.jpg)
+![Vision]({{ site.baseurl }}/assets/images/2013/curso-scrum-master/02-vision.jpg)
 
 Uno de los acuerdos de trabajo es el de tener un objetivo común, y para ello es
 necesario crear una visión.
@@ -77,7 +77,7 @@ consensuado al que llegamos fue que nuestra visión para este curso sería:
 
 ## Manifiesto ágil
 
-![Clover](/images/2013/curso-scrum-master/03-clover.jpg)
+![Clover]({{ site.baseurl }}/assets/images/2013/curso-scrum-master/03-clover.jpg)
 
 Una vez sentadas las bases de cómo vamos a trabajar y qué es lo que vamos a
 esperar del curso, comenzamos. Y qué mejor punto para empezar que conociendo
@@ -90,7 +90,7 @@ los cuatro valores del [manifiesto ágil](http://www.agilemanifesto.org/iso/es/)
 
 ## Scrum
 
-![Scrum](/images/2013/curso-scrum-master/04-scrum.jpg)
+![Scrum]({{ site.baseurl }}/assets/images/2013/curso-scrum-master/04-scrum.jpg)
 
 Existen multitud de metodologías que se pueden considerar ágiles, entre ellas
 está *Scrum*. Aunque Scrum no es una metodología en sí, es un marco de trabajo.
@@ -116,7 +116,7 @@ Todos ellos se podrían resumir en uno **Respeto**. A partir de él se pueden
 ir concretando alguno más, por mencionar algunos (que surgieron a partir de
 nosotros y fueron completados por Ángel):
 
-![Principios y valores](/images/2013/curso-scrum-master/05-principios-valores.jpg)
+![Principios y valores]({{ site.baseurl }}/assets/images/2013/curso-scrum-master/05-principios-valores.jpg)
 
 - Transparencia: no esconder nada, mostrar toda la información importante acerca
 del avance del proyecto, que los problemas salgan a la luz, ...
@@ -134,9 +134,9 @@ gran medida el éxito del proyecto.
 
 Estuvimos discutiendo qué características deberían tener estos roles:
 
-![Scrum master](/images/2013/curso-scrum-master/06-scrum-master.jpg)
+![Scrum master]({{ site.baseurl }}/assets/images/2013/curso-scrum-master/06-scrum-master.jpg)
 
-![Product owner](/images/2013/curso-scrum-master/07-product-owner.jpg)
+![Product owner]({{ site.baseurl }}/assets/images/2013/curso-scrum-master/07-product-owner.jpg)
 
 - Scrum Master
 	- dialogante
@@ -153,7 +153,7 @@ Durante todo el curso aplicamos la siguiente máxima:
 
 > Learn by doing
 
-![Retro](/images/2013/curso-scrum-master/08-retro.jpg)
+![Retro]({{ site.baseurl }}/assets/images/2013/curso-scrum-master/08-retro.jpg)
 
 Es decir, *aprender haciendo*. De esta forma, aprendimos Scrum haciendo Scrum.
 Y Scrum no existe sin una retrospectiva. 

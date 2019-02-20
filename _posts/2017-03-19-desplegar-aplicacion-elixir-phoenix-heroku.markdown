@@ -17,7 +17,7 @@ de forma gratuita o por un pequeño precio. Yo he utilizado a veces este servici
 para hacer pruebas con servidores en JavaScript (NodeJS) o PHP, pero también 
 admite muchos otros lenguages de programación: Ruby, Java, Python, Go,...
 
-![Elixir & Heroku](/images/2017/elixir-phoenix-heroku.png)
+![Elixir & Heroku]({{ site.baseurl }}/assets/images/2017/elixir-phoenix-heroku.png)
 
 No es ningún secreto que estoy [tonteando con Elixir], y [el framework Phoenix] 
 es el framework por referencia para crear aplicaciones web en Elixir. Pero ese 

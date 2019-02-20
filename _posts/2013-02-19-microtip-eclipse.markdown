@@ -38,7 +38,7 @@ me encuentro con que trabajo bastante con el tipo de Java `java.awt.geom.Rectang
 y la verdad es que no me gusta nada cómo Eclipse me muestra este tipo de datos
 en una sesión de debugging.
 
-![Rectangle2D sin detail formatter](/images/2013/rectangle2d-without-detail-formatter.png)
+![Rectangle2D sin detail formatter]({{ site.baseurl }}/assets/images/2013/rectangle2d-without-detail-formatter.png)
 
 ## Crear un detail formatter
 
@@ -66,7 +66,7 @@ return
 
 Y éste es el resultado, para mi gusto, mucho más compacto y directo:
 
-![Rectangle2D usando detail formatter](/images/2013/rectangle2d-using-detail-formatter.png)
+![Rectangle2D usando detail formatter]({{ site.baseurl }}/assets/images/2013/rectangle2d-using-detail-formatter.png)
 
 ## Conclusión
 

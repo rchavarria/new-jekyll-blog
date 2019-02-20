@@ -58,9 +58,9 @@ módulo pequeño.
 
 ## Aplicación completa
 
-![Memory benchmark](/images/2015/memory-benchmark-big.thumbnail.png)
+![Memory benchmark]({{ site.baseurl }}/assets/images/2015/memory-benchmark-big.thumbnail.png)
 
-[Ver la imagen en grande](/images/2015/memory-benchmark-big.png)
+[Ver la imagen en grande]({{ site.baseurl }}/assets/images/2015/memory-benchmark-big.png)
 
 Podemos apreciar como la ejecución de la batería de tests dura aproximadamente
 unos 8 segundos (desde 4.5s hasta 12.25s). En cuanto a consumo de memoria, el
@@ -77,9 +77,9 @@ la ejecución de los tests, el navegador no considera que deba liberar memoria.
 
 ## Módulo pequeño
 
-![Memory benchmark, small](/images/2015/memory-benchmark-small.thumbnail.png)
+![Memory benchmark, small]({{ site.baseurl }}/assets/images/2015/memory-benchmark-small.thumbnail.png)
 
-[Ver la imagen en grande](/images/2015/memory-benchmark-small.png)
+[Ver la imagen en grande]({{ site.baseurl }}/assets/images/2015/memory-benchmark-small.png)
 
 El tiempo de ejecución de esta batería de tests es de 1s, de 3.25s a 4.25s,
 (esta gráfica muestra intervalos de 500ms). El consumo de memoria sube

@@ -15,7 +15,7 @@ sidebar: true
 
 ##### de Gene Kim
 
-![Phoenix project](/images/2017/phoenix-project.png)
+![Phoenix project]({{ site.baseurl }}/assets/images/2017/phoenix-project.png)
 
 ## Por qué lo he leído
 

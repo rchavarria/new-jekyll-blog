@@ -22,7 +22,7 @@ pude conocer en pesona a gente de [Autentia], [Deiser], y otros patrocinadores d
 evento sin los cuales no habría sido posible: PayPal, Atlassian, Mozilla, Telefónica I+D,
 Alfresco y más.
 
-![Codemotion Spain 2013](/images/2013/codemotion.png)
+![Codemotion Spain 2013]({{ site.baseurl }}/assets/images/2013/codemotion.png)
 
 <!-- more -->
 
@@ -38,7 +38,7 @@ de [Deiser] y [Autentia]. Estoy contento, porque me permitió conocer profesiona
 que trabajan en dos empresas que admiro, no sólo por lo que hacen, si no por cómo
 lo hacen (y además me hice con un poco de *merchandaising*). 
 
-![Codemotion Spain 2013](/images/2013/codemotion-merchandaising.jpg)
+![Codemotion Spain 2013]({{ site.baseurl }}/assets/images/2013/codemotion-merchandaising.jpg)
 
 Este año, mi edición del Codemotion ha sido muy ligera. Me da mucha pena, pero
 los compromisos son los compromisos, que también los disfruté, por lo que no me

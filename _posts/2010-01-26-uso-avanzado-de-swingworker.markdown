@@ -108,7 +108,7 @@ En el siguiente enlace es posible ver una aplicación demostrando lo aprendido. 
 desea descargar el código fuente en forma de proyecto de NetBeans: 
 [FibonacciWorker NetBeans project](http://kenai.com/projects/rchavarria/downloads/download/fibonacci%252FFibonacciCalculator%2520NB%2520project.zip)
 
-[![Ejecutar FibonacciCalculator](/images/wordpress/launch.png)](http://kenai.com/projects/rchavarria/downloads/download/fibonacci%252Flaunch.jnlp)
+[![Ejecutar FibonacciCalculator]({{ site.baseurl }}/assets/images/wordpress/launch.png)](http://kenai.com/projects/rchavarria/downloads/download/fibonacci%252Flaunch.jnlp)
 
 ### Posts relacionados
 

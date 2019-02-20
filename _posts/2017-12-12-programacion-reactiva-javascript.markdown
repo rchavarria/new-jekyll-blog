@@ -15,7 +15,7 @@ sidebar: true
 Para múltiples elementos de forma síncrona, tenemos los arrays. Para elementos
 únicos, pero asíncronos, las promesas (`Promise`).
 
-![ReactiveX](/images/2017/cuadrante-reactivex.png)
+![ReactiveX]({{ site.baseurl }}/assets/images/2017/cuadrante-reactivex.png)
 
 <!-- more -->
 

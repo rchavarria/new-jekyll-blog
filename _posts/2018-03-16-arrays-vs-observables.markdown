@@ -18,7 +18,7 @@ Los arrays son síncronos, y por lo tanto, se iteran síncronamente. En cambio,
 los Observables son *observados* (bienvenido Capitán Obvio) y *reaccionan* en
 cuanto hay un nuevo valor presente en el flujo asíncrono.
 
-![Bees](/images/2018/bees.jpg)
+![Bees]({{ site.baseurl }}/assets/images/2018/bees.jpg)
 
 <div style="text-align: center">
   <span style="font-size: 60%">

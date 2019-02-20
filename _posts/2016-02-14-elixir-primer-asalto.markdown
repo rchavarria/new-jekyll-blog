@@ -24,7 +24,7 @@ En estos asaltos, intentaré seguir los siguientes pasos:
 - Aprender lo suficiente para hacer algo de utilidad
 - Enseñar lo aprendido
 
-![Touch gloves](/images/2016/touch-gloves-derived-small.png)
+![Touch gloves]({{ site.baseurl }}/assets/images/2016/touch-gloves-derived-small.png)
 
 <div style="text-align: center">
   <span style="font-size: 60%">

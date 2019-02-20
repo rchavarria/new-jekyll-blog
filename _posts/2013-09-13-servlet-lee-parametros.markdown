@@ -40,7 +40,7 @@ unos valores cualquiera y enviar los datos del formulario. Veremos el resultado
 que devuelve el servlet al leer los parámetros de la petición HTTP que hemos
 enviado al servidor.
 
-![Respuesta del servlet](/images/2013/request-parameters.png)
+![Respuesta del servlet]({{ site.baseurl }}/assets/images/2013/request-parameters.png)
 
 ## Dependencias
 
@@ -52,7 +52,7 @@ la que nos permitirá crear nuestro servlet.
 
 ## Página de login
 
-![Respuesta del servlet](/images/2013/login-form.png)
+![Respuesta del servlet]({{ site.baseurl }}/assets/images/2013/login-form.png)
 
 La entrada a nuestra demo será la página de login, la cual contiene un formulario
 muy simple, con dos campos principales: email del usuario y contraseña. 
