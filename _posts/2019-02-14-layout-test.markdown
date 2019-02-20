@@ -21,13 +21,17 @@ lectura y quería leer un libro que no fuera técnico, una novela, un libro que
 contara una historia. Y tiene licencia libre, así que está disponible para la
 lectura de cualquiera. ¿Por qué dejarlo escapar?
 
-Imagen:
+Imagen en el excerpt:
 
 ![A resource image](/images/2018/bees.jpg)
 
 Enlace: [No sé, donde sea](http://google.es)
 
 <!-- more -->
+
+Otra imagen fuera del excerpt:
+
+![A resource image](/images/2018/bees.jpg)
 
 Algún texto más...
 
