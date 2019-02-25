@@ -7,8 +7,8 @@ This project is based on [Primer Jekyll theme]
 # TODOs
 
 - [ ] Favicon
-- [ ] Add affiliate links to book reviews
 - [ ] Add books from gmail
+- [ ] Add affiliate links to book reviews
 
 # DONEs
 
