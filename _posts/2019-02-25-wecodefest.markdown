@@ -21,6 +21,10 @@ Otra imagen fuera del excerpt:
 
 #### Implementando APIs en 2019, de Jose Ramón Huerga
 
+## Open Spaces
+
+#### Desarrollo de software en provincias
+
 ## Talleres
 
 #### Property based testing, de Sergio 
@@ -30,5 +34,12 @@ Otra imagen fuera del excerpt:
 #### Serverless, de Vicenç García Altés
 
 ## Personas
+
+Azahara, https://twitter.com/azahara_fergui, del open space sobre
+Desarrollo de software en provincias
+
+Cristina, https://twitter.com/cristinafsanz
+
+Amalia, https://twitter.com/amaliahern
 
 ## La conferencia en sí
