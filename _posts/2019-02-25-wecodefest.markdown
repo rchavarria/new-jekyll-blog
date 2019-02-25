@@ -42,4 +42,8 @@ Cristina, https://twitter.com/cristinafsanz
 
 Amalia, https://twitter.com/amaliahern
 
+Daniel Primo, https://twitter.com/delineas
+
+Javier Gamarra, nhpatt
+
 ## La conferencia en sí
