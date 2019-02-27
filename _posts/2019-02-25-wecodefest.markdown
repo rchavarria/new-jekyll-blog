@@ -46,7 +46,24 @@ Se podían utilizar distintos lenguajes, yo usé JavaScript. Puedes encontrar
 las instrucciones y enlaces a cada uno de los lenguajes disponibles en el
 repositorio [WeCodeProperties] de Sergio.
 
-#### Programación cuántica, de Salva de la Puente
+#### Programación cuántica para gente que programa
+
+Taller impartido por [Salvador de la Puente] sobre un tema bastante desconocido
+para mí, programar ordenadores cuánticos. Según trató de explicarnos Salva,
+*no se trata de ordenadores más rápidos, sino de una forma de operar 
+esencialmente distinta*.
+
+El taller fue muy, muy práctico, y pudimos aprender los principales fenómenos 
+de la computación cuántica tales como superposición, entrelazamiento e
+interferencia. Lo de comprenderlos 100% lo dejé para otro día. No es que sean
+conceptos complicadísimos de comprender, pero sí que son conceptos que uno
+necesita reposar un tiempo.
+
+Aún así, jugar con el simulador [Quirk] e implementar algunos algoritmos
+cuánticos (puertas lógicas o pequeños cálculos) fue muy divertido.
+
+También me sirvió para repasar conceptos básicos de computación, como lógica
+booleana o las clásicas puertas lógicas.
 
 #### Serverless, de Vicenç García Altés
 
@@ -55,7 +72,13 @@ repositorio [WeCodeProperties] de Sergio.
 En el open space salieron unas cuantas charlas/conversaciones interesantes. No
 pude ir a todas las que me interesaban, aquí están a las que sí fui:
 
+#### Testing en front-end
+
+No recuerdo quién la propuso.
+
 #### Desarrollo de software en provincias
+
+Propuesta por [Azahara]...
 
 ## Charlas
 
@@ -76,6 +99,8 @@ Daniel Primo, https://twitter.com/delineas
 
 Javier Gamarra, nhpatt
 
+Juan Manuel Serrano, @juanshac
+
 ## La conferencia en sí
 
 - feedback por todos los lados
@@ -85,3 +110,5 @@ Javier Gamarra, nhpatt
 [Sergio Arroyo Cuevas]: https://twitter.com/@delr3ves
 [Property Based Testing]: http://blog.jessitron.com/2013/04/property-based-testing-what-is-it.html
 [WeCodeProperties]: https://github.com/delr3ves/WeCodeProperties
+[Salvador de la Puente]: https://salvadelapuente.com/
+[Quirk]: https://algassert.com/quirk
