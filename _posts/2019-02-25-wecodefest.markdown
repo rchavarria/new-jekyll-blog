@@ -65,7 +65,7 @@ cuánticos (puertas lógicas o pequeños cálculos) fue muy divertido.
 También me sirvió para repasar conceptos básicos de computación, como lógica
 booleana o las clásicas puertas lógicas.
 
-#### Serverless, de Vicenç García Altés
+#### Aplicación serverless en 2 horas, de Vicenç García Altés
 
 ## Open Spaces
 
@@ -79,6 +79,18 @@ No recuerdo quién la propuso.
 #### Desarrollo de software en provincias
 
 Propuesta por [Azahara]...
+
+#### Chatbot
+
+Propuesto por Javier XXXX, de mainbait el patrocinador
+
+#### Programación para niños
+
+Propuesto por XXX de Zamora
+
+#### Jueces online, programar por diversión
+
+Propuesta por XXX
 
 ## Charlas
 
@@ -101,11 +113,15 @@ Javier Gamarra, nhpatt
 
 Juan Manuel Serrano, @juanshac
 
+Salva de la Puente
+
 ## La conferencia en sí
 
 - feedback por todos los lados
 - respuesta ante el feedback
 - debo dar feedback *en caliente*, pero no demasiado
+- muy divertido el kahoot
+
 
 [Sergio Arroyo Cuevas]: https://twitter.com/@delr3ves
 [Property Based Testing]: http://blog.jessitron.com/2013/04/property-based-testing-what-is-it.html
