@@ -121,11 +121,40 @@ También se habló de teletrabajo, y de cómo cada vez más los trabajadores
 
 #### Chatbot
 
-Propuesto por Javier XXXX, de mainbait el patrocinador
+Propuesta por Javier Rodrigo. En principio estaba pensado como taller, pero
+para ello tendríamos que haber descargado una imagen de una máquina virtual
+de unos pocos Gb. No muy práctico para hacerlo el día del evento.
+
+Aún así, Javier salió del paso y nos lo enseñó en vivo y en directo. Incluso
+nos enseñó toda la domótica que se ha instalado él mismo en su casa.
+
+Compartió con nosotros el repo [HomeBot]
+con la imagen y las instrucciones para comenzar a jugar con Node-Red, una
+aplicación que nos permitirá crear un bot para Telegram en dos patadas.
+
+Javier controla todo en su casa con [Home Asistant] y un hardware que usa
+mucho son unos cacharritos llamados [sonoff] que puede controlar a través de
+WiFi (se pueden buscar en Aliexpress).
 
 #### Programación para niños
 
-Propuesto por XXX de Zamora
+Propuesta por [Carlos Rueda].
+
+Aquí hubo conversaciones muy entretenidas para padres y madres. Estos pequeños
+nuestros nos traen de cabeza. Hubo un pequeño debate sobre si nuestros hijos
+e hijas deberían tener la misma profesión que nosotros, y alguien hizo una
+muy buena pregunta para hacernos reflexionar: ¿por qué queremos enseñar a
+programar a nuestras hijas? Que cada uno se responda.
+
+A parte de anécdotas divertidas, salieron por ahí unos cuantos recursos
+interesantes:
+
+- [FIRST Lego League]: una competición científica para niños y niñas
+- [Portal]: un videojuego muy interesante
+- [Box Island]: juego infantil donde debes programar a tu personaje de una
+forma parecida a Scratch
+- [Arte generativo]: repositorio de [Karlos G. Liberal] usado en un taller del
+evento
 
 #### Jueces online, programar por diversión
 
@@ -133,7 +162,7 @@ Propuesta por XXX
 
 ## Charlas
 
-Y finalmente las charlas, lo *no tan interesante* del evento:
+Y finalmente las charlas, lo *no tan interesantes* del evento:
 
 #### Implementando APIs en 2019, de Jose Ramón Huerga
 
@@ -170,3 +199,13 @@ Salva de la Puente
 [Vicenç García Altés]: https://twitter.com/vgaltes
 [taller serverless]: https://github.com/vgaltes/WCF
 [The Serverless Course]: https://theserverlesscourse.com/
+[Azahara Fernández]: https://twitter.com/azahara_fergui
+[HomeBot]: https://github.com/frodcab/HomeBot
+[Home Asistant]: https://www.home-assistant.io/
+[sonoff]: https://www.itead.cc/sonoff-wifi-wireless-switch.html
+[Carlos Rueda]: https://twitter.com/carlrue
+[FIRST Lego League]: https://www.firstlegoleague.es/
+[Portal]: https://www.gamespot.com/portal/
+[Box Island]: https://boxisland.io/
+[Arte generativo]: https://github.com/karlosgliberal/ArteGenerativo
+[Karlos G. Liberal]: https://twitter.com/@patxangas
