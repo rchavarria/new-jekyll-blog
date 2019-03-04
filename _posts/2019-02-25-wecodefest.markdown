@@ -60,7 +60,8 @@ conceptos complicadísimos de comprender, pero sí que son conceptos que uno
 necesita reposar un tiempo.
 
 Aún así, jugar con el simulador [Quirk] e implementar algunos algoritmos
-cuánticos (puertas lógicas o pequeños cálculos) fue muy divertido.
+cuánticos (puertas lógicas o pequeños cálculos) fue muy divertido. Esta es
+la [presentación] que acompañó al taller.
 
 También me sirvió para repasar conceptos básicos de computación, como lógica
 booleana o las clásicas puertas lógicas.
@@ -138,7 +139,7 @@ WiFi (se pueden buscar en Aliexpress).
 
 #### Programación para niños
 
-Propuesta por [Carlos Rueda].
+Propuesta por [Carlos Rueda] (enlace a [sus notas]).
 
 Aquí hubo conversaciones muy entretenidas para padres y madres. Estos pequeños
 nuestros nos traen de cabeza. Hubo un pequeño debate sobre si nuestros hijos
@@ -158,13 +159,59 @@ evento
 
 #### Jueces online, programar por diversión
 
-Propuesta por XXX
+Lo siento, no me quedé con quién la propuso.
+
+La gran mayoría de los asistentes eran alumnos de la Universidad de
+Valladolid, y parecían bastante intersados en el tema. De hecho, unos de los
+jueces de los que se habló fue precisamente uno de la propia universidad.
+
+Me pareció muy curioso, que incluso uno de estos jueces tenga patrocinadores
+o sponsors, que llegan a pagar los primeros posicionados dentro de algunas 
+liga "privadas".
+
+Una pega que le gente ve en este tipo de plataformas es el poco enfoque a la
+calidad del código que se presenta, primando más la velocidad a la que se
+responde al desafío u otros aspectos. Pero por ahí apareció [Exercism], que
+se centra justo en lo contrario, se centra en crear relaciones mentor -
+alumno, para recibir feedback del código presentado y poder aprender con 
+cada ejercicio.
+
+Otros jueces de los que se habló:
+
+- [The Advent of Code]: parece ser el más conocido
+- Coding game
+- El propio [juez de la universidad]
+- Hacker rank
+- [Project Euler]
+- Coding wars
+- Coding contest
+- Hash code 
 
 ## Charlas
 
 Y finalmente las charlas, lo *no tan interesantes* del evento:
 
-#### Implementando APIs en 2019, de Jose Ramón Huerga
+#### Implementando APIs en 2019
+
+Charla impartida por [Jose Ramón Huerga], donde comenzó hablando de *DX*, o
+Developer eXperience, por contraposición con UX. Sería como un *marketplace*
+de APIs, donde conseguir que nuestras APIs les gusten a los desarrolladores,
+las usen, creen aplicaciones con ellas y paguen por su uso.
+
+Habló de nuevos protocolos y tecnologías, como GraphQL o [AsyncAPI].
+
+AsyncAPI no es una comunicación petición/respuesta, como REST, si no que es
+asíncrono (me imagino que los WebSockets quizá tengan algo que decir por
+aquí, tampoco concretó mucho sobre esto).
+
+Hizo una demo en vivo, sobre cómo montar una API con GraphQL que tire de
+peticiones REST a varios APIs a través de un API Gateway. Lo montó todo sobre
+AWS, así que hubo bastantes servicios en la nube involucrados.
+
+Lo interesante de todo es que los clientes solo ven un API, el expuesto a
+través de GraphQL, cuando en realidad pueden estar consumiendo varios de ellos
+por detrás. La flexibilidad de GraphQL permite agregarlos, seleccionar 
+ciertos campos,...
 
 ## Personas
 
@@ -173,7 +220,13 @@ Desarrollo de software en provincias
 
 Cristina, https://twitter.com/cristinafsanz
 
+Noelia Luis (pelo rosa)
+
 Amalia, https://twitter.com/amaliahern
+
+Semurat
+
+Alvalo Garcia Loaisa
 
 Daniel Primo, https://twitter.com/delineas
 
@@ -183,6 +236,10 @@ Juan Manuel Serrano, @juanshac
 
 Salva de la Puente
 
+Vicenç
+
+Volver a ver a Trikitrok, Abel, Apa,
+
 ## La conferencia en sí
 
 - feedback por todos los lados
@@ -190,12 +247,14 @@ Salva de la Puente
 - debo dar feedback *en caliente*, pero no demasiado
 - muy divertido el kahoot
 - inlcuso hay una lista de música: https://open.spotify.com/playlist/5LFLfet0LRTipeiO8Hw9zt?si=CFb0ySRVRhu5yUlTieI9og
+- agradecer a los patrocinadores,...
 
 [Sergio Arroyo Cuevas]: https://twitter.com/@delr3ves
 [Property Based Testing]: http://blog.jessitron.com/2013/04/property-based-testing-what-is-it.html
 [WeCodeProperties]: https://github.com/delr3ves/WeCodeProperties
 [Salvador de la Puente]: https://salvadelapuente.com/
 [Quirk]: https://algassert.com/quirk
+[presentación]: https://bit.ly/2SpbZKR
 [Vicenç García Altés]: https://twitter.com/vgaltes
 [taller serverless]: https://github.com/vgaltes/WCF
 [The Serverless Course]: https://theserverlesscourse.com/
@@ -204,8 +263,15 @@ Salva de la Puente
 [Home Asistant]: https://www.home-assistant.io/
 [sonoff]: https://www.itead.cc/sonoff-wifi-wireless-switch.html
 [Carlos Rueda]: https://twitter.com/carlrue
+[sus notas]: https://github.com/crueda/WeCodeProgramacionNi-os/blob/master/programacion_ni%C3%B1os.md
 [FIRST Lego League]: https://www.firstlegoleague.es/
 [Portal]: https://www.gamespot.com/portal/
 [Box Island]: https://boxisland.io/
 [Arte generativo]: https://github.com/karlosgliberal/ArteGenerativo
 [Karlos G. Liberal]: https://twitter.com/@patxangas
+[Exercism]: http://exercism.io/
+[The Advent of Code]: https://adventofcode.com/
+[juez de la universidad]: https://uva.onlinejudge.org/
+[Project Euler]: https://projecteuler.net/
+[Jose Ramón Huerga]: https://twitter.com/jrhuerga
+[AsyncAPI]: https://www.asyncapi.com/
