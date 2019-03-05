@@ -66,7 +66,7 @@ la [presentación] que acompañó al taller.
 También me sirvió para repasar conceptos básicos de computación, como lógica
 booleana o las clásicas puertas lógicas.
 
-#### Aplicación serverless en 2 horas, de Vicenç García Altés
+#### Aplicación serverless en 2 horas
 
 Taller impartido por [Vicenç García Altés] donde el objetivo era desarollar
 una aplicación para una universidad con servicios de AWS, donde la lógica
