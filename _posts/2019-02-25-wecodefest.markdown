@@ -215,39 +215,54 @@ ciertos campos,...
 
 ## Personas
 
-Azahara, https://twitter.com/azahara_fergui, del open space sobre
-Desarrollo de software en provincias
+Hasta aquí la parte técnica, pero si este evento fue para mí tan especial
+fue sobre todo por la gente que allí me encontré.
 
-Cristina, https://twitter.com/cristinafsanz
+Los primeros, los organizadores, gente muy maja, super cercana y muy muy
+atentos a que todo saliera bien y fuera como la seda: [Javier],
+[Alvaro], [Jorge], [Amalia] y Óscar (había más, pero ellos son los que yo
+conocí).
 
-Noelia Luis (pelo rosa)
+También conocí/me presenté a bastante gente nueva (aunque de algunos ya me
+sonaba la cara): [Azahara], [Cristina], [Nerea], [Juan Manuel], [Salva],
+[Vicenç] y [Daniel] son sólo algunos de ellos.
 
-Amalia, https://twitter.com/amaliahern
+Y por último, volver a encontrarme con buenos profesionales y mejores personas:
+[Alberto], [Manuel], [Abel] y [APA] entre otros.
 
-Semurat
-
-Alvalo Garcia Loaisa
-
-Daniel Primo, https://twitter.com/delineas
-
-Javier Gamarra, nhpatt
-
-Juan Manuel Serrano, @juanshac
-
-Salva de la Puente
-
-Vicenç
-
-Volver a ver a Trikitrok, Abel, Apa,
+Muchas gracias, fue un auténtico placer compartir con todos estos dos días
+tan intensos.
 
 ## La conferencia en sí
 
-- feedback por todos los lados
-- respuesta ante el feedback
-- debo dar feedback *en caliente*, pero no demasiado
-- muy divertido el kahoot
-- inlcuso hay una lista de música: https://open.spotify.com/playlist/5LFLfet0LRTipeiO8Hw9zt?si=CFb0ySRVRhu5yUlTieI9og
-- agradecer a los patrocinadores,...
+La verdad es que ha sido un evento que he disfrutado muchísmo. Quizá porque ha
+sido lejos de donde vivo (y me la he tomado como vacaciones), porque me ha
+acompañado mi familia, o no se qué. Pero ha sido la leche.
+
+Los organizadores pedían feedback por todos los lados. Pero no caía en saco
+roto. Durante los dos días vi algunos detalles que no estaban perfectos, pero
+la organización recogió *quejas* de los asistentes y reaccionó frente a ellas,
+subsanándolas. La verdad es que me quedé bastante impresionado. ¡Olé por ellos!
+
+En cuanto al feedback, no me gusta darlo *en caliente*, porque me da la impresión
+de que puede ser demasiado negativo o demasiado positivo, pero tengo que 
+forzarme a darlo, porque si no se me pasa el arroz, como me ha pasado aquí.
+Antes de que pudiera agradecer o quejarme de algo, la organización ya había
+reaccionado.
+
+Una dinámica que me sorprendió mucho fue el concurso organizado usando la
+aplicación Kahoot. Hizo que el concurso fuera muy divertido. Me lo apunto
+para utilizarlo en algún cumpleaños o reunión de amigos.
+
+Como muestra del buen rollo que irradia la WeCode, se propuso crear una
+lista de música colaborativa, música que sonó durante la fiesta de clausura:
+[lista de música de la WeCode].
+
+Y por último, no quiero acabar el post sin darle las gracias a los patrocinadores,
+que hicieron más asequible la asistencia al evento a todos los asistentes e
+hicieron posible un evento al que realmente merece la pena asistir.
+
+¡Gracias! 
 
 [Sergio Arroyo Cuevas]: https://twitter.com/@delr3ves
 [Property Based Testing]: http://blog.jessitron.com/2013/04/property-based-testing-what-is-it.html
@@ -275,3 +290,21 @@ Volver a ver a Trikitrok, Abel, Apa,
 [Project Euler]: https://projecteuler.net/
 [Jose Ramón Huerga]: https://twitter.com/jrhuerga
 [AsyncAPI]: https://www.asyncapi.com/
+
+[Javier]: https://twitter.com/nhpatt
+[Alvaro]: https://twitter.com/aloaisa
+[Jorge]: https://twitter.com/semurat
+[Amalia]: https://twitter.com/amaliahern
+[Azahara]: https://twitter.com/azahara_fergui
+[Cristina]: https://twitter.com/cristinafsanz
+[Nerea]: https://twitter.com/sailormerqury
+[Juan Manuel]: https://twitter.com/juanshac
+[Salva]: https://salvadelapuente.com/
+[Vicenç]: https://twitter.com/vgaltes
+[Daniel]: https://twitter.com/delineas
+[Alberto]: https://twitter.com/jalbertopaz
+[Manuel]: https://twitter.com/trikitrok
+[Abel]: https://twitter.com/amisai
+[APA]: https://twitter.com/APA42
+
+[lista de música de la WeCode]: https://open.spotify.com/playlist/5LFLfet0LRTipeiO8Hw9zt?si=CFb0ySRVRhu5yUlTieI9og
