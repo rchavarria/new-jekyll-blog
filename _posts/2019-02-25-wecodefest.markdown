@@ -20,8 +20,6 @@ los talleres o las conversaciones planteadas en el open space.
 
 ![WeCodeFest 2019]({{ site.baseurl }}/assets/images/2019/wecode.jpg)
 
-Enlace: [No sé, donde sea](http://google.es)
-
 <!-- more -->
 
 ## Talleres
@@ -68,7 +66,7 @@ booleana o las clásicas puertas lógicas.
 
 #### Aplicación serverless en 2 horas
 
-Taller impartido por [Vicenç García Altés] donde el objetivo era desarollar
+Taller impartido por [Vicenç García-Altés] donde el objetivo era desarollar
 una aplicación para una universidad con servicios de AWS, donde la lógica
 de negocio estuviera implementada a través de *Functions*/*Lambdas* en AWS.
 
@@ -150,11 +148,11 @@ programar a nuestras hijas? Que cada uno se responda.
 A parte de anécdotas divertidas, salieron por ahí unos cuantos recursos
 interesantes:
 
-- [FIRST Lego League]: una competición científica para niños y niñas
-- [Portal]: un videojuego muy interesante
-- [Box Island]: juego infantil donde debes programar a tu personaje de una
+- [FIRST Lego League], una competición científica para niños y niñas
+- [Portal], un videojuego muy interesante
+- [Box Island], juego infantil donde debes programar a tu personaje de una
 forma parecida a Scratch
-- [Arte generativo]: repositorio de [Karlos G. Liberal] usado en un taller del
+- [Arte generativo], repositorio de [Karlos G. Liberal] usado en un taller del
 evento
 
 #### Jueces online, programar por diversión
@@ -178,7 +176,7 @@ cada ejercicio.
 
 Otros jueces de los que se habló:
 
-- [The Advent of Code]: parece ser el más conocido
+- [The Advent of Code], parece ser el más conocido
 - Coding game
 - El propio [juez de la universidad]
 - Hacker rank
@@ -225,7 +223,7 @@ conocí).
 
 También conocí/me presenté a bastante gente nueva (aunque de algunos ya me
 sonaba la cara): [Azahara], [Cristina], [Nerea], [Juan Manuel], [Salva],
-[Vicenç] y [Daniel] son sólo algunos de ellos.
+[Carlos], [Vicenç] y [Daniel] son sólo algunos de ellos.
 
 Y por último, volver a encontrarme con buenos profesionales y mejores personas:
 [Alberto], [Manuel], [Abel] y [APA] entre otros.
@@ -262,7 +260,7 @@ Y por último, no quiero acabar el post sin darle las gracias a los patrocinador
 que hicieron más asequible la asistencia al evento a todos los asistentes e
 hicieron posible un evento al que realmente merece la pena asistir.
 
-¡Gracias! 
+**¡Gracias!** 
 
 [Sergio Arroyo Cuevas]: https://twitter.com/@delr3ves
 [Property Based Testing]: http://blog.jessitron.com/2013/04/property-based-testing-what-is-it.html
@@ -270,7 +268,7 @@ hicieron posible un evento al que realmente merece la pena asistir.
 [Salvador de la Puente]: https://salvadelapuente.com/
 [Quirk]: https://algassert.com/quirk
 [presentación]: https://bit.ly/2SpbZKR
-[Vicenç García Altés]: https://twitter.com/vgaltes
+[Vicenç García-Altés]: https://twitter.com/vgaltes
 [taller serverless]: https://github.com/vgaltes/WCF
 [The Serverless Course]: https://theserverlesscourse.com/
 [Azahara Fernández]: https://twitter.com/azahara_fergui
@@ -300,6 +298,7 @@ hicieron posible un evento al que realmente merece la pena asistir.
 [Nerea]: https://twitter.com/sailormerqury
 [Juan Manuel]: https://twitter.com/juanshac
 [Salva]: https://salvadelapuente.com/
+[Carlos]: https://twitter.com/carlrue
 [Vicenç]: https://twitter.com/vgaltes
 [Daniel]: https://twitter.com/delineas
 [Alberto]: https://twitter.com/jalbertopaz
