@@ -6,7 +6,7 @@ This project is based on [Primer Jekyll theme]
 
 # TODOs
 
-- [ ] Favicon
+- [ ] On the index page, show date instead of just numbers
 - [ ] Add books from gmail
 - [ ] Add affiliate links to book reviews
 
@@ -20,6 +20,7 @@ This project is based on [Primer Jekyll theme]
 - [x] Move posts from [notes]
 - [x] RSS button, with link to `/feed.xml` file
 - [x] Fix image links. It seems (/images/...) doesn't work. Review all posts from notes
+- [x] Favicon
 
 # Help
 
