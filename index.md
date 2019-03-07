@@ -4,7 +4,7 @@ layout: default
 
 {% for post in site.posts limit:25 %}
 
-### {{ post.date | date_to_string: "ordinal", "ES" }}, [{{ post.title }}]({{ site.baseurl | append:post.url }})
+### {{ post.date }}, [{{ post.title }}]({{ site.baseurl | append:post.url }})
 
 {{ post.excerpt }}
 
