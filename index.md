@@ -3,15 +3,7 @@ layout: default
 ---
 
 {% for post in site.posts limit:25 %}
-
-### {{ post.date | date: "%d-%B-%Y" }} - [{{ post.title }}]({{ site.baseurl | append:post.url }})
-
-{{ post.excerpt }}
-
-<a rel="full-article" href="{{ site.baseurl | append:post.url }}">
-Continuar leyendo →
-</a>
-
+{% include article.html %}
 {% endfor %}
 
 <hr>
