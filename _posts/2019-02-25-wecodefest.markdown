@@ -223,7 +223,7 @@ conocí).
 
 También conocí/me presenté a bastante gente nueva (aunque de algunos ya me
 sonaba la cara): [Azahara], [Cristina], [Nerea], [Juan Manuel], [Salva],
-[Carlos], [Vicenç] y [Daniel] son sólo algunos de ellos.
+[Carlos], [Claudia], [Vicenç] y [Daniel] son sólo algunos de ellos.
 
 Y por último, volver a encontrarme con buenos profesionales y mejores personas:
 [Alberto], [Manuel], [Abel] y [APA] entre otros.
@@ -299,6 +299,7 @@ hicieron posible un evento al que realmente merece la pena asistir.
 [Juan Manuel]: https://twitter.com/juanshac
 [Salva]: https://salvadelapuente.com/
 [Carlos]: https://twitter.com/carlrue
+[Claudia]: https://twitter.com/m4nd3lbr0t
 [Vicenç]: https://twitter.com/vgaltes
 [Daniel]: https://twitter.com/delineas
 [Alberto]: https://twitter.com/jalbertopaz
