@@ -32,3 +32,12 @@ body > nav ul li {
 .rss-logo {
   width: 1.6em;
 }
+
+a[rel="full-article"] {
+  background: #ebebeb;
+  display: inline-block;
+  padding: .4em .8em;
+  margin-right: .5em;
+  text-decoration: none;
+  color: #666;
+}
