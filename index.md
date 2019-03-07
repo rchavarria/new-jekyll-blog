@@ -4,9 +4,7 @@ layout: default
 
 {% for post in site.posts limit:25 %}
 
-### {{ forloop.index }} - [{{ post.title }}]({{ site.baseurl | append:post.url }})
-
-<p>x de x de 2019: {{ post.date | date: "%e de %B de %Y" }}</p>
+### {{ post.date | date: "%d-%B-%Y" }} - [{{ post.title }}]({{ site.baseurl | append:post.url }})
 
 {{ post.excerpt }}
 
