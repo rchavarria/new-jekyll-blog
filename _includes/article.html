@@ -1,7 +1,13 @@
-### {{ post.date | date: "%d-%B-%Y" }} - [{{ post.title }}]({{ site.baseurl | append:post.url }})
+<div class="article-date">
+  {{ post.date | date: "%d-%m-%Y" }}
+</div>
+
+### [{{ post.title }}]({{ site.baseurl | append:post.url }})
 
 {{ post.excerpt }}
 
 <a rel="full-article" href="{{ site.baseurl | append:post.url }}">
   Continuar leyendo →
 </a>
+
+<hr class="article-separator"/>
