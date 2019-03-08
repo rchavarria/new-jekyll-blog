@@ -7,6 +7,8 @@ This project is based on [Primer Jekyll theme]
 # TODOs
 
 - [ ] On the index page, show date instead of just numbers
+- [ ] Archives (copy from old blog)
+- [ ] Blog header must be same width that content
 - [ ] Add books from gmail
 - [ ] Add affiliate links to book reviews
 
