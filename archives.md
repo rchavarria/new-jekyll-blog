@@ -1,6 +1,6 @@
 ---
 layout: default
-title: "Todos los artículos"
+title: "Archivo"
 ---
 
 {% for post in site.posts %}

@@ -9,4 +9,4 @@ layout: default
 <hr>
 
 Ver [todos los posts por categoría]({{ site.baseurl | append:"/all" }}), o ver
-[todo, todo, todito]({{ site.baseurl | append:"/all-posts" }}).
+[todos ordenados por fecha]({{ site.baseurl | append:"/archives" }}).
