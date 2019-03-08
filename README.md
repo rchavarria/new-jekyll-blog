@@ -6,7 +6,6 @@ This project is based on [Primer Jekyll theme]
 
 # TODOs
 
-- [ ] On the index page, show date instead of just numbers
 - [ ] Archives (copy from old blog)
 - [ ] Blog header must be same width that content
 - [ ] Add books from gmail
@@ -23,6 +22,7 @@ This project is based on [Primer Jekyll theme]
 - [x] RSS button, with link to `/feed.xml` file
 - [x] Fix image links. It seems (/images/...) doesn't work. Review all posts from notes
 - [x] Favicon
+- [x] On the index page, show date instead of just numbers
 
 # Help
 
