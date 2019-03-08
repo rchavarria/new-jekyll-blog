@@ -33,6 +33,14 @@ body > nav ul li {
   width: 1.6em;
 }
 
+article {
+  border-bottom: #aaaaaa dot-dot-dash 1px;
+}
+
+.article-date {
+  color: #aaa;
+}
+
 a[rel="full-article"] {
   background: #ebebeb;
   display: inline-block;
@@ -40,12 +48,4 @@ a[rel="full-article"] {
   margin-right: .5em;
   text-decoration: none;
   color: #666;
-}
-
-.article-date {
-  color: rebeccapurple;
-}
-
-.article-separator {
-  width: 90%;
 }
