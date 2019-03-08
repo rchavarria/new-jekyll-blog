@@ -38,8 +38,9 @@ article {
   padding-bottom: 1em;
 }
 
-.article-title {
+article h1 .article-title {
   border: none;
+  margin-top: 0;
 }
 
 .article-date {
