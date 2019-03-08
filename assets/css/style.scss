@@ -35,6 +35,7 @@ body > nav ul li {
 
 article {
   border-bottom: 1px dashed #ddd;
+  padding-top: 1.75em;
   padding-bottom: 1em;
 }
 
@@ -44,7 +45,6 @@ article {
 }
 
 .article-date {
-  margin-top: 2em;
   color: #aaa;
 }
 
@@ -55,4 +55,13 @@ a[rel="full-article"] {
   margin-right: .5em;
   text-decoration: none;
   color: #666;
+}
+
+a[rel="full-article"]:hover {
+  //background: #ebebeb;
+  //display: inline-block;
+  //padding: .4em .8em;
+  //margin-right: .5em;
+  //text-decoration: none;
+  color: #0366d6;
 }
