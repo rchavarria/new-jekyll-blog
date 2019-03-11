@@ -6,17 +6,19 @@ title: "Archivo"
 {% for post in site.posts reverse %}
 
 <article>
-  <div>
+  <header>
     {{ post.date }}
-  </div>
-  <h1>
-    <a href="{{ site.baseurl | append:post.url }}">
-      {{ post.title }}
-    </a>
-  </h1>
-  <div>
+  </header>
+  <content>
+    <h1>
+      <a href="{{ site.baseurl | append:post.url }}">
+        {{ post.title }}
+      </a>
+    </h1>
+  </content>
+  <footer>
     publicado en: {{ post.categories }}
-  </div>
+  </footer>
 </article>
 
 {% endfor %}
