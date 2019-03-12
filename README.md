@@ -9,6 +9,7 @@ This project is based on [Primer Jekyll theme]
 - [ ] Blog header must be same width that content
 - [ ] Add books from gmail
 - [ ] Add affiliate links to book reviews
+- [ ] **PUBLISH**
 - [ ] Categories for posts:
     1. the post url should not include any category, just start with the date and title
     2. how could I create a link to show all posts within a single category, this way, I could
