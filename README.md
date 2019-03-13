@@ -6,7 +6,6 @@ This project is based on [Primer Jekyll theme]
 
 # TODOs
 
-- [ ] Blog header must be same width that content
 - [ ] Add books from gmail
 - [ ] Add affiliate links to book reviews
 - [ ] **PUBLISH**
@@ -28,6 +27,7 @@ This project is based on [Primer Jekyll theme]
 - [x] Favicon
 - [x] On the index page, show date instead of just numbers
 - [x] Archives (copy from old blog)
+- [x] Blog header must be same width that content
 
 # Help
 
