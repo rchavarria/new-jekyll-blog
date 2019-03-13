@@ -18,16 +18,21 @@ Así que aquí está mi Lista de Lectura:
 ## Estoy leyendo
 
 - [Ego is the enemy](https://sivers.org/book/EgoEnemy), de Ryan Holiday, recomendado una y otra vez por [Derek Sivers](https://sivers.org/), por lo que algo tendrá que tener
-- [Down and out in the magic kindom](http://craphound.com/down/download/), de Cory Doctorow. Visto en algún post, y como es un libro no técnico, pues a la lista.
 - [Crafting quality software](https://qafoo.com/book/download.html), de [Qafoo Team Blog](https://qafoo.com/blog%22), visto por twitter y que trata sobre cómo escribir código de calidad en PHP
 - [Expertología](http://www.amazon.es/dp/8492414502), de Andrés Pérez Ortega
 
 ## Tengo pensado leer
 
+- [Friendly command line](https://hellowebbooks.com/learn-command-line/), de Tracy Osborn, libro gratuito, descargable, imprimible y de todo, con unas ilustraciones muy curiosas
 - [Human Vs Computers](https://leanpub.com/humansvscomputers/), de [Gojko Adzic](https://gojko.net/), lo consegúi porque Gojko publicó una encuesta y si la hacías te regalaba el libro. Qué mejor campaña publicitaria que regalar el libro.
+- [Una breve historia de casi todo](https://amzn.to/2HwdLE2), de Bill Bryson, Álvaro García Loaisa dice de él: [Posiblemente el mejor libro de divulgación científica que me he leído](https://twitter.com/aloaisa/status/1020955449905082369/photo/1)
 - [Educación financiera avanzada partiendo de cero](https://www.amazon.es/Educaci%C3%B3n-Financiera-partiendo-gestionar-transformar-ebook/dp/B00COMQOM0/), de Gregorio Hernández, recomendado por un usuario en el Telegram de ZetaMoney. Parece algo básico, pero podría estar bien hacer una lectura rápida. Algo sacaré
+- [Becoming a technical leader](https://amzn.to/2CkVo1m), de Gerald Weinberg, recomendado por Gonzalo @gzpunkt a Raúl Villares por twitter
 - [Refactoring for Software Design Smells](https://www.amazon.co.uk/Refactoring-Software-Design-Smells-Technical/dp/0128013974/), de Girish Suryanarayana, Ganesh Samarthyam y Tushar Sharma, me recuerda mucho a los libros de Sandi Metz (refactorizaiones y demás)
+- [Refactoring JavaScript](https://amzn.to/2HynObF), de Evan Burchard, 500 páginas, un poco gordo, pero puede estar interesante
+- [El inversor inteligente](https://amzn.to/2O27uBg), de Benjamin Graham, recomendado por [Kiko Beats](https://twitter.com/Kikobeats/status/1049041648716587009)
 - [Cómo invertir en bolsa a largo plazo, partiendo de 0](http://www.invertirenbolsa.info/Tienda-de-Invertirenbolsa.info/tienda.html), de Gregorio Hernández. Recomendado por varios ZetaMoneys, uno de ellos, el flipao que está estudiando la bolsa a tope (y que habla de hacer un 12% anual con opciones y futuros), publicó un resumen
+- [The millionaire fastlane](https://amzn.to/2O1uKPP), de M.J. DeMarco, recomendado por John Sonmez en uno de sus vídeos sobre [ingresos pasivos](https://www.youtube.com/watch?v=PBgoiQXZsrg)
 - [Mas cosas sobre la bolsa](http://www.invertirenbolsa.info/Tienda-de-Invertirenbolsa.info/tienda.html), de Gregorio Hernández, supongo que seá la parte 2 del libro 2.
 - [Analisis técnico y velas japonesas....](http://www.invertirenbolsa.info/Tienda-de-Invertirenbolsa.info/tienda.html), de Gregorio Hernández, hmmm, sabidurida
 - [Opciones y futuros](http://www.invertirenbolsa.info/Tienda-de-Invertirenbolsa.info/tienda.html), de Gregorio Hernández, aquí llega la chicha
@@ -126,6 +131,7 @@ Así que aquí está mi Lista de Lectura:
 
 ## He leído
 
+- [Down and out in the magic kindom]({{ site.baseurl }}{% post_url 2018-03-23-down-out-magic-kingdom.markdown %}), de Cory Doctorow ~ *Marzo 2018*
 - [Practical object-oriented design with Ruby (POODR)]({{ site.baseurl }}{% post_url 2018-01-17-practical-object-oriented-design-in-ruby %}), de Sandi Metz, visto en el blog de [Carlos Blé](https://twitter.com/carlosble) ~ *Enero 2018*
 - [Seveneves (7 Evas)](https://github.com/rchavarria/blog-post-incubator/blob/master/published-book-notes/seveneves-neal-stephenson.markdown), de Neal Stephenson ~ *Octubre 2017*
 - [99 bottles of OOP]({{ site.baseurl }}{% post_url 2017-10-19-99-bottles-oop %}), de Sandi Metz y Katrina Owen ~ *Octubre 2017*
