@@ -6,6 +6,7 @@ This project is based on [Primer Jekyll theme]
 
 # TODOs
 
+- [ ] Run blog locally with docker compose
 - [ ] Add affiliate links to book reviews
 - [ ] **PUBLISH**
 - [ ] Add notes from articles, videos, and so on that are for years in gmail
