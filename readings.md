@@ -131,7 +131,7 @@ Así que aquí está mi Lista de Lectura:
 
 ## He leído
 
-- [Down and out in the magic kindom]({{ site.baseurl }}{% post_url 2018-03-23-down-out-magic-kingdom.markdown %}), de Cory Doctorow ~ *Marzo 2018*
+- [Down and out in the magic kindom]({{ site.baseurl }}{% post_url 2018-03-23-down-out-magic-kingdom %}), de Cory Doctorow ~ *Marzo 2018*
 - [Practical object-oriented design with Ruby (POODR)]({{ site.baseurl }}{% post_url 2018-01-17-practical-object-oriented-design-in-ruby %}), de Sandi Metz, visto en el blog de [Carlos Blé](https://twitter.com/carlosble) ~ *Enero 2018*
 - [Seveneves (7 Evas)](https://github.com/rchavarria/blog-post-incubator/blob/master/published-book-notes/seveneves-neal-stephenson.markdown), de Neal Stephenson ~ *Octubre 2017*
 - [99 bottles of OOP]({{ site.baseurl }}{% post_url 2017-10-19-99-bottles-oop %}), de Sandi Metz y Katrina Owen ~ *Octubre 2017*
