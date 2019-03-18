@@ -6,7 +6,6 @@ This project is based on [Primer Jekyll theme]
 
 # TODOs
 
-- [ ] Add books from gmail
 - [ ] Add affiliate links to book reviews
 - [ ] **PUBLISH**
 - [ ] Add notes from articles, videos, and so on that are for years in gmail
@@ -29,6 +28,7 @@ This project is based on [Primer Jekyll theme]
 - [x] On the index page, show date instead of just numbers
 - [x] Archives (copy from old blog)
 - [x] Blog header must be same width that content
+- [x] Add books from gmail
 
 # Help
 
