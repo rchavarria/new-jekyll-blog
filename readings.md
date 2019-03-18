@@ -19,20 +19,26 @@ Así que aquí está mi Lista de Lectura:
 
 - [Ego is the enemy](https://sivers.org/book/EgoEnemy), de Ryan Holiday, recomendado una y otra vez por [Derek Sivers](https://sivers.org/), por lo que algo tendrá que tener
 - [Crafting quality software](https://qafoo.com/book/download.html), de [Qafoo Team Blog](https://qafoo.com/blog%22), visto por twitter y que trata sobre cómo escribir código de calidad en PHP
+- [Human Vs Computers](https://leanpub.com/humansvscomputers/), de [Gojko Adzic](https://gojko.net/), lo consegúi porque Gojko publicó una encuesta y si la hacías te regalaba el libro. Qué mejor campaña publicitaria que regalar el libro.
 - [Expertología](http://www.amazon.es/dp/8492414502), de Andrés Pérez Ortega
 
 ## Tengo pensado leer
 
+- [Planning eXtreme programming](https://amzn.to/2HKycNs), de Kent Beck y Martin Fowler, visto por ahí, y si los autores son estos dos semidioses, no hay razón para no leerlo
 - [Friendly command line](https://hellowebbooks.com/learn-command-line/), de Tracy Osborn, libro gratuito, descargable, imprimible y de todo, con unas ilustraciones muy curiosas
-- [Human Vs Computers](https://leanpub.com/humansvscomputers/), de [Gojko Adzic](https://gojko.net/), lo consegúi porque Gojko publicó una encuesta y si la hacías te regalaba el libro. Qué mejor campaña publicitaria que regalar el libro.
+- [DDD, first 15 years](https://leanpub.com/ddd_first_15_years), de DDD Europe Community, recomendado por [Rafael Luque](https://twitter.com/rafael_luque/status/1092387872404111360), colección gratuita de artículos (viejos y nuevos) sobre DDD
 - [Una breve historia de casi todo](https://amzn.to/2HwdLE2), de Bill Bryson, Álvaro García Loaisa dice de él: [Posiblemente el mejor libro de divulgación científica que me he leído](https://twitter.com/aloaisa/status/1020955449905082369/photo/1)
+- [On writing well](https://amzn.to/2Y63aWj), de William Zinsser, recomendado por [Nacho Coloma](https://twitter.com/nachocoloma/status/1102564787802779648), *ha cambiado la forma en la que escribo, explicando algunas cosas que pasan en una buena revisión*
 - [Educación financiera avanzada partiendo de cero](https://www.amazon.es/Educaci%C3%B3n-Financiera-partiendo-gestionar-transformar-ebook/dp/B00COMQOM0/), de Gregorio Hernández, recomendado por un usuario en el Telegram de ZetaMoney. Parece algo básico, pero podría estar bien hacer una lectura rápida. Algo sacaré
 - [Becoming a technical leader](https://amzn.to/2CkVo1m), de Gerald Weinberg, recomendado por Gonzalo @gzpunkt a Raúl Villares por twitter
 - [Refactoring for Software Design Smells](https://www.amazon.co.uk/Refactoring-Software-Design-Smells-Technical/dp/0128013974/), de Girish Suryanarayana, Ganesh Samarthyam y Tushar Sharma, me recuerda mucho a los libros de Sandi Metz (refactorizaiones y demás)
+- [Grokking Algorithms](https://amzn.to/2Odwplp), de Aditya Bhargava, An illustrated guide for programmers and other curious people
+- [Coding: on software design process](https://amzn.to/2HBRIf4), de Jonathan Locke, recomendado por [Rafael Luque](https://twitter.com/rafael_luque/status/1095355032399216640), que dice que es cortito
 - [Refactoring JavaScript](https://amzn.to/2HynObF), de Evan Burchard, 500 páginas, un poco gordo, pero puede estar interesante
 - [El inversor inteligente](https://amzn.to/2O27uBg), de Benjamin Graham, recomendado por [Kiko Beats](https://twitter.com/Kikobeats/status/1049041648716587009)
 - [Cómo invertir en bolsa a largo plazo, partiendo de 0](http://www.invertirenbolsa.info/Tienda-de-Invertirenbolsa.info/tienda.html), de Gregorio Hernández. Recomendado por varios ZetaMoneys, uno de ellos, el flipao que está estudiando la bolsa a tope (y que habla de hacer un 12% anual con opciones y futuros), publicó un resumen
 - [The millionaire fastlane](https://amzn.to/2O1uKPP), de M.J. DeMarco, recomendado por John Sonmez en uno de sus vídeos sobre [ingresos pasivos](https://www.youtube.com/watch?v=PBgoiQXZsrg)
+- [Design it! From programmer to architect](https://amzn.to/2OaApDa), de Kicahel Keeling, parece que le ha gustado a [Dani Latorre](https://twitter.com/dani_latorre/status/1087088765598875653), aunque dice que le ha parecido algo durillo, pero... aprender a diseñar software? tiene buena pinta
 - [Mas cosas sobre la bolsa](http://www.invertirenbolsa.info/Tienda-de-Invertirenbolsa.info/tienda.html), de Gregorio Hernández, supongo que seá la parte 2 del libro 2.
 - [Analisis técnico y velas japonesas....](http://www.invertirenbolsa.info/Tienda-de-Invertirenbolsa.info/tienda.html), de Gregorio Hernández, hmmm, sabidurida
 - [Opciones y futuros](http://www.invertirenbolsa.info/Tienda-de-Invertirenbolsa.info/tienda.html), de Gregorio Hernández, aquí llega la chicha
