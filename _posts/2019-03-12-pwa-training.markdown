@@ -38,4 +38,21 @@ cachear algunos contenidos, y haciendo de proxy en las comunicaciones
 es una herramienta de google que te dice cómo de buena es tu PWA:
 rendimiento, seguridad,...
 
+## [Your development cycle - Progressive Web App Training](https://www.youtube.com/watch?v=Ay3zKmde3BM&list=PLNYkxOF6rcIB2xHBZ7opgc2Mv009X87Hh&index=3)
+
+Lighthouse es una herramienta que te permite testear tus aplicaciones y comprobar
+aspectos de:
+
+1. Estándares PWA: https, service workers,...
+2. Rendimiento
+3. Buenas prácticas
+4. Accesibilidad
+5. SEO
+
+Para hacer que una app web sea una PWA hay que cumplir una serie de requisitos.
+Para saber cuáles tenemos que cumplir, podemos utilizar Lighthouse. Sus informes
+nos guiarán sobre qué aspectos tenemos que mejorar o implementar.
+
+*Nota*: ññññeee, me da que me están vendiendo Lighthouse
+
 ## Neeeext
