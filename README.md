@@ -31,6 +31,26 @@ This project is based on [Primer Jekyll theme]
 - [x] Blog header must be same width that content
 - [x] Add books from gmail
 
+# Run Jekyll locally with docker
+
+Install ruby bundles:
+
+```bash
+docker run \
+  -v .:/srv/jekyll \
+  -v ./vendor/bundle:/usr/local/bundle \
+  --name local-jekyll \
+  jekyll/jekyll \
+  bundle install
+```
+
+Run with docker compose:
+
+```bash
+cd docker
+docker-compose up &
+```
+
 # Help
 
 - [GitHub Flavored Markdown]
