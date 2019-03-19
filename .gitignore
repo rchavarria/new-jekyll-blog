@@ -1,6 +1,9 @@
 # text editor
 .idea
 
+# gems cache
+vendor/bundle
+
 _site/
 .sass-cache/
 .jekyll-cache/
