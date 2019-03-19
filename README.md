@@ -6,7 +6,6 @@ This project is based on [Primer Jekyll theme]
 
 # TODOs
 
-- [ ] Run blog locally with docker compose
 - [ ] Add affiliate links to book reviews
 - [ ] **PUBLISH**
 - [ ] Add notes from articles, videos, and so on that are for years in gmail
@@ -30,6 +29,7 @@ This project is based on [Primer Jekyll theme]
 - [x] Archives (copy from old blog)
 - [x] Blog header must be same width that content
 - [x] Add books from gmail
+- [x] Run blog locally with docker compose
 
 # Run Jekyll locally with docker
 
