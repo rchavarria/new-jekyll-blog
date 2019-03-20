@@ -14,7 +14,7 @@ sidebar: true
 
 ##### de Neal Stephenson
 
-[![Seveneves](./img/seveneves.jpg)](https://amzn.to/2CuwZGR)
+[![Seveneves]({{ site.baseurl }}/assets/images/2017/seveneves.jpg)](https://amzn.to/2CuwZGR)
 
 ### Por qué lo he leído
 
