@@ -15,7 +15,7 @@ sidebar: true
 
 ##### de Sandi Metz
 
-![POODR]({{ site.baseurl }}/assets/images/2018/poodr.jpg)
+[![POODR]({{ site.baseurl }}/assets/images/2018/poodr.jpg)](https://amzn.to/2CsNkvN)
 
 ### Por qué lo he leído
 
@@ -147,6 +147,8 @@ Para ello, hay que testear cada cosa una sola vez, y en el lugar apropiado.
 ### Recursos relacionados
 
 - El resto de [notas sobre POODR]
+- [Practical Object-Oriented Design in Ruby] en Amazon
 
 [Carlos Blé]: https://twitter.com/carlosble
 [notas sobre POODR]: https://github.com/rchavarria/blog-post-incubator/blob/master/published-book-notes/practical-object-oriented-design-ruby-by-sandi-metz.markdown
+[Practical Object-Oriented Design in Ruby]: https://amzn.to/2CsNkvN
