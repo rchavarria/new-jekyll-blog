@@ -142,7 +142,7 @@ Así que aquí está mi Lista de Lectura:
 - [Seveneves (7 Evas)]({{ site.baseurl }}{% post_url 2017-10-30-seveneves %}), de Neal Stephenson ~ *Octubre 2017*
 - [99 bottles of OOP]({{ site.baseurl }}{% post_url 2017-10-19-99-bottles-oop %}), de Sandi Metz y Katrina Owen ~ *Octubre 2017*
 - [Front-end developer handbook 2017](https://www.gitbook.com/book/frontendmasters/front-end-handbook-2017/), de [Code Lindley](http://codylindley.com/) y esponsorizado por [Frontend Masters](https://frontendmasters.com/) ~ *Verano 2017*
-- [Guía para invertir](https://github.com/rchavarria/blog-post-incubator/blob/master/published-book-notes/guia-para-invertir-de-robert-kiyosaki.markdown), de Robert Kiyosaki ~ *Junio 2017*
+- [Guía para invertir]({{ site.baseurl }}{% post_url 2017-06-27-guia-invertir %}), de Robert Kiyosaki ~ *Junio 2017*
 - [Ready player one]({{ site.baseurl }}{% post_url 2017-03-26-ready-player-one %}), de Ernest Cline, recomendado por Microsiervos varias veces, y por Kevin Kelly en el [podcast de Tim Ferriss](http://fourhourworkweek.com/2016/06/05/kevin-kelly-ai-virtual-reality-and-the-inevitable) ~ *Abril 2017*
 - [The nature of software development]({{ site.baseurl }}{% post_url 2017-03-05-the-nature-of-software-developent %}), de Ron Jeffries, recomendado por [Carlos Buenosvinos](https://twitter.com/buenosvinos/status/721623461702078464/photo/1) (antes en Atrápalo Eng, ahora en Xing,...) ~ *Marzo 2017*
 - [The Phoenix project]({{ site.baseurl }}{% post_url 2017-01-19-the-phoenix-project %}), de Gene Kim, libro similar a
