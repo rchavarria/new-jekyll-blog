@@ -13,7 +13,7 @@ sidebar: true
 
 ##### de Tim Ferriss
 
-[![The 4 hour body]({{ site.baseurl }}/assets/images/2016/4-hour-body-cover.jpeg)](https://amzn.to/2TWgiOD)
+[![The 4 hour body]({{ site.baseurl }}/assets/images/2016/4-hour-body-cover.jpeg)](https://amzn.to/2Cx8DfL)
 
 <!-- more -->
 
@@ -153,4 +153,4 @@ Dieta para perder peso, ejercicio para ganar músculo. Este sería el resumen de
 ## Referencias
 
 - [Notas tomadas](https://github.com/rchavarria/blog-post-incubator/blob/master/published-book-notes/4-hour-body-by-tim-ferriss.markdown)
-- [The 4 hour body](https://amzn.to/2TWgiOD) en Amazon
+- [The 4 hour body](https://amzn.to/2Cx8DfL) en Amazon
