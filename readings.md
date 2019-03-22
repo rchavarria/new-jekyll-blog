@@ -121,7 +121,7 @@ Así que aquí está mi Lista de Lectura:
 - [The twelve factor app](http://12factor.net/), de Adam Wiggins. The twelve-factor app is a methodology for building software-as-a-service apps. ([download de epub](http://12factor.net/12factor.epub))
 - [Teamwork is an individual skill](http://www.amazon.com/Teamwork-Is-Individual-Skill-Responsibility/dp/1576751554), de Christopher M. Avery, Meri Aaron Walker y Erin O'Toole, recomendado por @joserra_diaz y @rubenbpv
 - [El peligro de creer](http://www.amazon.es/gp/product/8415589271/ref=as_li_tf_tl?ie=UTF8&camp=3626&creative=24790&creativeASIN=8401346711&linkCode=as2&tag=microsiervos-21), de Luis Alfonso Gámez, visto en [Microsiervos](http://www.microsiervos.com/archivo/libros/el-peligro-de-creer-un-repaso-esceptico-a-las-pseudociencias-y-similares.html)
-- [The culture game](http://www.amazon.com/The-Culture-Game-Tools-Manager/dp/0984875301/), de DAniel Mezick, recomendado por @joserra_diaz y @rubenbpv
+- [The culture game](http://www.amazon.com/The-Culture-Game-Tools-Manager/dp/0984875301/), de Daniel Mezick, recomendado por @joserra_diaz y @rubenbpv
 - [Focus](http://www.amazon.es/gp/product/8499883052/), de Daniel Goleman
 - [The art of learning](http://www.amazon.com/The-Art-Learning-Journey-Performance/dp/0743277465), de Josh Waitzkin, recomendado por [Tim Ferris](http://fourhourworkweek.com/2014/03/20/the-art-of-learning-joshua-waitzkin/)
 - [Fearless change](http://www.amazon.com/Fearless-Change-Patterns-Introducing-Ideas/dp/0201741571), de Mary Lynn Manns y Linda Rising
@@ -147,7 +147,7 @@ Así que aquí está mi Lista de Lectura:
 - [The nature of software development]({{ site.baseurl }}{% post_url 2017-03-05-the-nature-of-software-developent %}), de Ron Jeffries, recomendado por [Carlos Buenosvinos](https://twitter.com/buenosvinos/status/721623461702078464/photo/1) (antes en Atrápalo Eng, ahora en Xing,...) ~ *Marzo 2017*
 - [The Phoenix project]({{ site.baseurl }}{% post_url 2017-01-19-the-phoenix-project %}), de Gene Kim, libro similar a
 [The goal]({{ site.baseurl }}{% post_url 2013-04-10-la-meta %}) pero orientado a IT, encontrado en el [blog de Eduardo Ferro](http://www.eferro.net/2016/03/some-books-i-recently-read.html) ~ *Enero 2017*
-- [The four hour body](https://github.com/rchavarria/blog-post-incubator/blob/master/published-book-notes/4-hour-body-by-tim-ferriss.markdown), de Tim Ferris ~ *Septiembre 2016*
+- [The four hour body]({{ site.baseurl }}{% post_url 2016-12-04-four-hour-body %}), de Tim Ferris ~ *Septiembre 2016*
 - [Zen y el arte del mantenimiento de motocicletas]({{ site.baseurl }}{% post_url 2016-09-18-zen-arte-mantenimiento-motocicletas %}), de Robert M. Pirsig, recomendado por [@mpjme en FunFunFunction #18](https://www.youtube.com/watch?v=lrf6xuFq1Ms&t=90) ~ *Agosto 2016*
 - [Practical Vim]({{ site.baseurl }}{% post_url 2016-07-17-practical-vim %}), de Drew Neil ~ *Julio 2016*
 - [Code: the hidden language of computer hardware and software]({{ site.baseurl }}{% post_url 2016-04-10-code %}), de Charles Petzold, recomendado por Scott Hanselman y Dave Rael en el [episodio 83 de Developer on Fire podcast](http://developeronfire.com/episode-083-scott-hanselman-learn-balance) ~ *Abril 2016*
