@@ -181,40 +181,113 @@ Pablo Casado (President candidate),
 Ada Colau (Barcelona mayor),
 Manuela Carmena (Madrid mayor)
 
+The speakers are 3 journalists, the main one is a well-known journalist for doing
+great questions in interviews. She has a TV program where some data provided by the
+interviewee is checked on real time.
 
+> Journalists must be where the public is, we must communicate in the same media
+as people communicate to each other (paper, tv, internet, messaging,...)
 
+Newtral creates content that is easy to share, to help spreading the verification
+as fast as the news (fake or not).
 
+Are fake news a issue for democracy?
 
+Checking the facts is much harder than making up fake news. It so hard, and it takes
+so much effort that technology is needed to help journalist to do the job. They 
+mention some machine learning terminology, but not too technical.
 
-
-
-
-CONTINUE HERE
-
-
-
-
-
-
-
-
-
-
-
+The problems with the data the speakers talk, remind me the problems people working
+with *open data* talk. Data is open, but it's in different formats, it's incomplete,
+with no too much coherence, out of date,...
 
 ### [Technology behind movies visual effects](https://t3chfest.uc3m.es/2019/programa/tecnologia-los-vfx-digitales-para-cine/), by [Carolina Jiménez García](https://twitter.com/okinfografia)
 
 - [Talk](https://www.youtube.com/watch?v=D39he1DwmQg), in Spanish
+
+I expected a technological talk, but it was more related about filming techniques.
+Anyway, it was quite visual and interesting.
+
+It started with some history about cameras.
+
+One main trick used for a long time is to use a glass, where half the scene has
+been painted, and film the movie scene through the glass, playing with
+perspective.
+
+Then, there are some process, like Williams process or Dunning process, that lead
+us to the *chroma*.
+
+First, it was used a blue chroma, because blue is the most different color from
+the human skin (making it easier to replace for other things during movie edition).
+Nowadays, in digital filming, a green chroma is used, because digital sensors are
+more sensitive to green than to blue or red.
 
 ### [Guardians of the Front galaxy](https://t3chfest.uc3m.es/2019/programa/guardianes-galaxia-front/), by [Cristina Ponce](https://twitter.com/CristinaGrim) and [Cristina Fernández](https://twitter.com/cristinafsanz)
 
 - [Talk](https://www.youtube.com/watch?v=Z6qM0qsUu50), in Spanish
 - [Slides](https://docs.google.com/presentation/d/1YHJPZjEJbgeoWIvZOwmNyOCGogI60vBiYMTtk0al-z8/edit#slide=id.g35f391192_00), half English, half Spanish
 
+They showed us lots and lots of suggestions for clean code (*guarding* us from 
+bad code). The sad part is that they didn't explain them deeply. At some point,
+they were just saying the name of the concept.
+
+I got some nice ideas:
+
+`.editorconfig`, it's a convention (supported in PhpStorm with a plugin) to 
+configure some parameters in software projects such as: tabs vs spaces, 
+indentation,...
+
+ESLint to check JavaScript style, best with published guides: airbnb, google,...
+
+[StyleLint](https://stylelint.io/), the same but for CSS
+
+[Husky](https://github.com/typicode/husky), git hooks without the need of 
+installing them on `.git/hooks`
+
+Of course, they mention tests, all kind of them: unit, integration, end-to-end,
+coverage,... But, they didn't go deep on any of them.
+
+Team workflow: protect some branches, pull requests.
+
+Automatic deployments. They showed a case with GitHub pages and Netlify. They
+use Circle CI, a tool similar to Jenkins.
+
 ### [Subscribe, like and another way to spread science](https://t3chfest.uc3m.es/2019/programa/suscribete-dale-like-y-descubre-otra-forma-de-comunicar/), by [Rocío Vidal](https://www.youtube.com/channel/UCoXtmmnLCbXDiSo8GxsmOzA), [Santi García Cremades](http://youtube.com/raizdepi), [Carlos DotCSV](https://www.youtube.com/c/dotcsv) and [Javier Santaolalla](https://www.youtube.com/channel/UCns-8DssCBba7M4nu7wk7Aw)
 
 - [Talk](https://www.youtube.com/watch?v=BPUTne4v7OY), in Spanish
 - [Carlos' YouTube channel](https://www.youtube.com/c/dotcsv), about Math, AI and Machine Learning
+
+The speakers are four well-known Spanish youtubers. One of them have a channel
+about AI and machine learning, and another one about math in general. The 
+conversation was nice, because they're used to interact with people. The idea
+was to have a moderator that asked some questions, and each of them give his
+own experience.
+
+Are youtubers free about creating content? They say they're more free than in a
+traditional media, but they say nothing whether they create content guided by
+likes or subscriber numbers.
+
+All of them agree on the fact that they don't want the tool, the mean, YouTube,
+to control what the want to communicate.
+
+Can someone live out of YouTube? They agree on you can, but you never know for
+how long it will be that way. Maybe tomorrow you're out of business.
+
+Is YouTube adult? Other social media are much younger. Other social media are
+evolving to other activities (twitch -> games, instagram -> celebrities,...), but
+YouTube seems to have its place among all social media.
+
+They told too that popular science has a great momentum right now.
+
+They discussed about YouTube algorithm, and it seems to be as well known (or as
+well unknown) as Google search algorithm. The only thing they know is that it
+seems to like videos that keep the audience online, but it doesn't mean the video
+is good. There are popular videos of irrelevant or even malicious things.
+
+They were asked about why science audience seems to be mostly men. They talked
+about the algorithm here too. One cause can be that if YouTube knows you're a man,
+it suggests you science channels. If you're a woman, it suggests you other kind
+of channels.
 
 ### Missed talks
 
