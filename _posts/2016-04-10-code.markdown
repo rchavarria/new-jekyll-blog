@@ -4,7 +4,8 @@ date: 2016-04-10 10:24
 author: Ruben Chavarria
 comments: true
 categories: 
-- book review
+- Reseñas
+- Historia
 published: true
 footer: false
 sidebar: true
@@ -20,7 +21,7 @@ con el software debería leer. El año pasado ya leí [The martian], recomendado
 públicamente también por Scott. ¿Iba a dejar de pasar la oportunidad? Ni
 hablar.
 
-![Code]({{ site.baseurl }}/assets/images/2016/code-charles-petzold.png)
+[![Code]({{ site.baseurl }}/assets/images/2016/code-charles-petzold.png)](https://amzn.to/2U4vEAD)
 
 <!-- more -->
 
@@ -110,4 +111,3 @@ caras del desarrollo software que no tienen por qué estar enfrentadas.
 [Developer on fire #83]: http://developeronfire.com/episode-083-scott-hanselman-learn-balance
 [The martian]: {{ site.baseurl }}{% post_url 2015-09-06-the-martian %}
 [codificación BCD]: https://es.wikipedia.org/wiki/Decimal_codificado_en_binario
-
