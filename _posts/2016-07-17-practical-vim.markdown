@@ -4,9 +4,8 @@ date: 2016-07-17 23:15
 author: Ruben Chavarria
 comments: true
 categories: 
-- personal
-- book reviews
-- vim
+- Reseñas
+- Vim
 published: true
 footer: false
 sidebar: true
@@ -16,7 +15,7 @@ sidebar: true
 
 ### Por qué lo he leído
 
-![Practical Vim](https://raw.githubusercontent.com/rchavarria/blog-post-incubator/master/published-book-notes/img/practical-vim.jpg)
+[![Practical Vim](https://raw.githubusercontent.com/rchavarria/blog-post-incubator/master/published-book-notes/img/practical-vim.jpg)](https://pragprog.com/book/dnvim/practical-vim)
 
 Hace un tiempo decidí que quería [aprender a utilizar Vim]. Entre los muchos
 recursos para aprender se encontraba este libro, pero encontré más prácticos
