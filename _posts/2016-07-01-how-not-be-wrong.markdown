@@ -12,7 +12,7 @@ sidebar: true
 
 ##### de Jordan Ellenberg
 
-[![How not to be wrong](img/how-not-to-be-wrong.jpg)](https://amzn.to/2OrWYmX)
+[![How not to be wrong]({{ site.baseurl }}/assets/images/2016/how-not-to-be-wrong.jpg)](https://amzn.to/2OrWYmX)
 
 ### Por qué lo he leído
 

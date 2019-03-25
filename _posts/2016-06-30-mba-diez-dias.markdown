@@ -13,7 +13,7 @@ sidebar: true
 
 ##### de Steven Silbiger
 
-[![MBA en diez días](img/mba-diez-dias.jpg)](https://amzn.to/2HFAe2s)
+[![MBA en diez días]({{ site.baseurl }}/assets/images/2016/mba-diez-dias.jpg)](https://amzn.to/2HFAe2s)
 
 ### Por qué lo he leído
 
