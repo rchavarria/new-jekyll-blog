@@ -7,7 +7,7 @@ This project is based on [Primer Jekyll theme]
 # TODOs
 
 - [ ] Add affiliate links to book reviews
-      - Voy por "Zen y el arte del mantenimiento de motocicletas"
+      - Voy por "Soft Skills: The software developer’s life manual"
 - [ ] **PUBLISH**
 - [ ] Add notes from articles, videos, and so on that are for years in gmail
 - [ ] Categories for posts:
