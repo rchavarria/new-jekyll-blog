@@ -13,7 +13,7 @@ sidebar: true
 
 ###### de Robert M. Pirsig
 
-![Zen](https://raw.githubusercontent.com/rchavarria/blog-post-incubator/master/published-book-notes/img/zen.jpg)
+[![Zen](https://raw.githubusercontent.com/rchavarria/blog-post-incubator/master/published-book-notes/img/zen.jpg)](https://amzn.to/2U7SGXm)
 
 ### Por qué lo he leído
 
@@ -91,9 +91,8 @@ Varios pasos a la hora de hacer un análisis lógico:
 - [Canal de YouTube FunFunFunction]
 
 [notas sobre Zen y el arte en el mantenimiento de motocicletas]: https://github.com/rchavarria/blog-post-incubator/blob/master/published-book-notes/zen-and-the-art-of-motorcycle-maintenance-by-robert-m-pirsig.markdown
-[Zen y el arte en el mantenimiento de motocicletas]: https://www.amazon.es/Arte-Mantenimiento-Motocicleta-Narrativa-Sexto/dp/8415601956/
+[Zen y el arte en el mantenimiento de motocicletas]: https://amzn.to/2U7SGXm
 [@mpjme]: https://twitter.com/mpjme
 [Mattias P. Johansson]: https://twitter.com/mpjme
 [FunFunFunction]: https://www.youtube.com/watch?v=lrf6xuFq1Ms&t=90
 [Canal de YouTube FunFunFunction]: https://www.youtube.com/channel/UCO1cgjhGzsSYb1rsB4bFe4Q
-
