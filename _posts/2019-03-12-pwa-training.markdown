@@ -182,7 +182,23 @@ navigator.serviceWorker.register('service-worker.js', { scope: '/below/' })
 
 # [Developing PWAs 03.1](https://codelabs.developers.google.com/codelabs/pwa-promises/index.html?index=..%2F..dev-pwa-training#0)
 
-Capítulo sobre promesas y el API `fetch`. Le echaré un vistazo por encima.
+Capítulo sobre [promesas](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Promise).
+Le echaré un vistazo por encima.
+
+`Promise.all` se resuelve si todas las promesas que le pasamos se resuelven. En
+este caso hay que tener cuidado si en alguna de ellas usamos `catch`. `catch`
+será llamado si hay algún error, pero `catch` puede devolver una promesa que
+resuelva satisfactoriamente, por lo que podemos estar *ocultando* algún error
+en `Promise.all` sin querer.
+
+`Promise.race` también es interesante. Este método también acepta un listado
+de promesas. El resultado es el mismo resultado de la primera de ellas que
+finalize, tanto si resuelve como si es rechazada.
+
+# [Developing PWAs 03.2](https://codelabs.developers.google.com/codelabs/pwa-fetch/index.html?index=..%2F..dev-pwa-training#0)
+
+El API `fetch`, cómo hacer distintas peticiones con `fetch` y usos y limitaciones
+de CORS.
 
 ## References
 
