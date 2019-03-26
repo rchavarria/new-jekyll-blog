@@ -13,7 +13,7 @@ sidebar: true
 
 ##### de Roy Osherove
 
-![Notes to a software team leader](https://s3.amazonaws.com/titlepages.leanpub.com/teamleader/large?1438389048)
+[![Notes to a software team leader](https://s3.amazonaws.com/titlepages.leanpub.com/teamleader/large?1438389048)][1]
 
 ## Por qué lo he leído
 
@@ -119,4 +119,3 @@ período de tiempo semanal para aprender nuevas habilidades o tecnologías.
 
 [1]: https://leanpub.com/teamleader
 [2]: https://github.com/rchavarria/blog-post-incubator/blob/master/published-book-notes/notes-software-team-leader-by-roy-osherove.markdown
-
