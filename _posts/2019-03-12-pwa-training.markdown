@@ -255,6 +255,23 @@ El problema de estas respuestas es que no podremos acceder a ellas con
 JavaScript (no podremos chequear código respuesta HTTP ni leerla como JSON, blob
 o texto), aunque sí podrán ser consumidas por otras APIs o en los Service Workers.
 
+
+
+
+
+
+
+
+
+voy por 03.2,  paso 8 (optional CORS), título "Modify request headers"
+
+
+
+
+
+
+
+
 ## References
 
 - [Lighthouse]
