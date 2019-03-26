@@ -255,22 +255,19 @@ El problema de estas respuestas es que no podremos acceder a ellas con
 JavaScript (no podremos chequear código respuesta HTTP ni leerla como JSON, blob
 o texto), aunque sí podrán ser consumidas por otras APIs o en los Service Workers.
 
+Es posible modificar las cabeceras de las peticiones enviadas por `fetch`:
 
-
-
-
-
-
-
-
-voy por 03.2,  paso 8 (optional CORS), título "Modify request headers"
-
-
-
-
-
-
-
+```javascript
+const messageHeaders = new Headers({
+  'Content-Type': 'application/json',
+  'X-Custom': 'hello world',
+})
+fetch('http://localhost:5000/', {
+  method: 'POST',
+  body: JSON.stringify({ lab: 'fetch', status: 'fun' }),
+  headers: messageHeaders
+})
+```
 
 ## References
 
