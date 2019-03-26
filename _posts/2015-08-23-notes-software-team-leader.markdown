@@ -4,8 +4,8 @@ date: 2015-08-23 18:16
 author: Rubén Chavarría
 comments: true
 categories: 
-- book reviews
-- technical leadership
+- Reseñas
+- Technical Leadership
 published: true
 footer: false
 sidebar: true

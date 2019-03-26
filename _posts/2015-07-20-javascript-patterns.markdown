@@ -4,9 +4,8 @@ date: 2015-07-19 21:10
 author: Rubén Chavarría
 comments: true
 categories: 
-- personal
-- book reviews
-- javascript
+- Reseñas
+- JavaScript
 published: true
 footer: false
 sidebar: true

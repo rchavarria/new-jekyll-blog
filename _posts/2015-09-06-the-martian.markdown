@@ -4,8 +4,8 @@ date: 2015-09-06 16:05
 author: Rubén Chavarría
 comments: true
 categories: 
-- book reviews
-- non-technical books
+- Reseñas
+- Ciencia ficción
 published: true
 footer: false
 sidebar: true
