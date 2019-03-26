@@ -13,7 +13,7 @@ sidebar: true
 
 ##### de Andy Weir
 
-![The martian](https://www.rocketstem.org/wp-content/uploads/2015/10/The-Martian-Movie-Tie-In-edition-jacket_rgb.jpg)
+[![The martian](https://www.rocketstem.org/wp-content/uploads/2015/10/The-Martian-Movie-Tie-In-edition-jacket_rgb.jpg)][2]
 
 ## Por qué lo he leído
 
@@ -78,6 +78,6 @@ no me lo tengo que tomar todo al pie de la letra.
 - [Trailer de The Martian][4]
 
 [1]: http://www.hanselminutes.com/
-[2]: http://www.amazon.es/gp/product/B00OXYQR38/
+[2]: https://amzn.to/2CyGlBt
 [3]: http://www.amazon.com/The-Martian-Novel-Andy-Weir-ebook/dp/B00EMXBDMA
 [4]: https://www.youtube.com/watch?v=ej3ioOneTy8
