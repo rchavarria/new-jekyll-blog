@@ -269,6 +269,11 @@ fetch('http://localhost:5000/', {
 })
 ```
 
+# [Developing PWAs 04.0](https://codelabs.developers.google.com/codelabs/pwa-workbox/index.html?index=..%2F..dev-pwa-training#0)
+
+Este capítulo habla de [Workbox][6], una librería para crear tus propios
+Service Workers.
+
 ## References
 
 - [Lighthouse]
@@ -281,3 +286,4 @@ fetch('http://localhost:5000/', {
 [3]: https://developer.mozilla.org/en-US/docs/Web/API/Response#Methods
 [4]: https://developer.mozilla.org/en-US/docs/Web/HTTP/Access_control_CORS
 [5]: https://stackoverflow.com/questions/39109789/what-limitations-apply-to-opaque-responses
+[6]: https://workboxjs.org/
