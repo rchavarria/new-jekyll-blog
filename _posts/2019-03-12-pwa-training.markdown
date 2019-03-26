@@ -200,9 +200,70 @@ finalize, tanto si resuelve como si es rechazada.
 El API `fetch`, cómo hacer distintas peticiones con `fetch` y usos y limitaciones
 de CORS.
 
+`fetch` devuelve una promesa, pero la promesa se resuelve satisfactoriamente
+incluso si la respuesta es un `404`. Hay que tener cuidado con este detalle.
+Siempre hay que comprobar el código que devuelve la respuesta.
+
+Las respuestas devueltas por `fetch` son [`ReadableStreams`][1], y deben ser
+leídos antes de intentar procesarlas. Podemos leerlas como `JSON` con el
+método `response.json()`. El objeto `Response` tiene otros [métodos][3].
+
+Las imágenes pueden ser leídas como un *blob*, y luego mostradas en un tag
+`img`:
+
+```javascript
+function showImage(responseAsBlob) {
+  const imgElem = document.createElement('img');
+  imgElem.src = URL.createObjectURL(responseAsBlob);
+  // add imgElem to a container to show it
+}
+response.blob()
+  .then(blob => showImage(blob))
+```
+
+También se puede leer texto con `response.text()`. Y añadirlo a elementos HTML
+con `element.textContent = responseAsText`.
+
+También se pueden hacer peticiones con otros *verbos* HTTP, como `HEAD`. Para
+ello, hay que pasar un nuevo parámetro a `fetch`: `fetch(url, { method: 'HEAD' })`.
+
+Para hacer una petición `POST` se haría igual y habría que indicar también el
+campo `body`:
+
+```javascript
+fetch('http://example.com/', {
+    method: 'POST',
+    body: 'name=david&message=hello'
+  })
+```
+
+El cuerpo de la petición puede ser los datos de un formulario, utilizando
+`FormData`:
+
+```javascript
+fetch('http://example.com/', {
+    method: 'POST',
+    body: new FormData(document.getElementById('my-form'))
+  })
+```
+
+Hacer peticiones a otros servidores (o a otros puertos) nos causará algún problema
+con [CORS][4]. Con `fetch` podemos saltarnos las restricciones pasando un nuevo
+campo al parámetro opcional: `fetch(url, { mode: 'no-cors' })`. Al hacer esto,
+por temas de seguridad, la respuesta que obtendremos es una [respuesta opaca][5].
+El problema de estas respuestas es que no podremos acceder a ellas con
+JavaScript (no podremos chequear código respuesta HTTP ni leerla como JSON, blob
+o texto), aunque sí podrán ser consumidas por otras APIs o en los Service Workers.
+
 ## References
 
 - [Lighthouse]
+- [Especificaciones de streams en JavaScript][2]
 
 [Lighthouse]: https://developers.google.com/web/tools/lighthouse/
 [pwa-training-labs]: https://github.com/google-developer-training/pwa-training-labs
+[1]: https://developer.mozilla.org/en-US/docs/Web/API/ReadableStream
+[2]: https://streams.spec.whatwg.org/
+[3]: https://developer.mozilla.org/en-US/docs/Web/API/Response#Methods
+[4]: https://developer.mozilla.org/en-US/docs/Web/HTTP/Access_control_CORS
+[5]: https://stackoverflow.com/questions/39109789/what-limitations-apply-to-opaque-responses
