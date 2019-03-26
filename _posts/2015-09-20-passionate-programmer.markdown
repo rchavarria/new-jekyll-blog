@@ -13,7 +13,7 @@ sidebar: true
 
 ##### de Chad Fowler
 
-![The passionate programmer](http://chadfowler.com/images/books/passionate-programmer.jpg)
+[![The passionate programmer](http://chadfowler.com/images/books/passionate-programmer.jpg)](https://pragprog.com/book/cfcar2/the-passionate-programmer)
 
 ## Por qué lo he leído
 
@@ -207,8 +207,9 @@ art-form, but (unlike art) it provides concrete, measurable value.
 
 ## Recursos relacionados
 
+- [The Passionate Programmer] en The pragmatic bookshelf
 - [Notas tomadas sobre el libro][2]
 
 [1]: https://pragprog.com/book/tpp/the-pragmatic-programmer
 [2]: https://github.com/rchavarria/blog-post-incubator/blob/master/published-book-notes/passionate-programmer-by-chad-fowler.markdown
-
+[The Passionate Programmer]: https://pragprog.com/book/cfcar2/the-passionate-programmer
