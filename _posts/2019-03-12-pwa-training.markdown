@@ -274,6 +274,38 @@ fetch('http://localhost:5000/', {
 Este capítulo habla de [Workbox][6], una librería para crear tus propios
 Service Workers.
 
+Workbox dispone de muchísimas opciones. El inicio parece sencillo, en nuestro
+Service Worker, cargamos Workbox y ahí podemos configurar cachés, rutas,...
+
+Por ejemplo, para las cachés, podemmos indicarle una lista de ficheros a cachear,
+con sus hashes, para que Workbox los actualize cuando es debido.
+
+La forma de funcionar de Workbox, es la de generar cierta informacion de configuración
+en la fase de construcción del proyecto (en el lab usan gulp). Esa configuración
+se usará en tiempo de ejecución para realizar las tareas deseadas.
+
+Además de precachear recursos, el método de Workbox `precacheAndRoute` habilita
+un manejador de caché de tipo *cache-first*, es decir, primero se mira si un
+recurso está en la caché, si está se sirve, si no, se pide al servidor.
+
+Workbox tiene un módulo de *routing*, para añadir rutas a nuestro Service Worker.
+
+Con estas rutas podemos tener distintas caches, con distintas estrategias y 
+distintas políticas de caducidad para cada ruta (tipo de archivo,...). Una ruta
+se puede definir por expresiones regulares.
+
+Merece la atención la documentación de Workbox sobre las [estrategias de cacheo][7].
+En el lab se utilizan por ejemplo la de cache-first, stale-while-revalidate y
+network-first.
+
+Workbox ofrece muchísimas posibilidades, pero parece un poco complicada para
+usarla desde el principio de un proyecto. Pero está claro que ahorra mucho
+trabajo repetitivo y soluciona muchos aspectos del uso de Service Workers.
+
+# [Developing PWAs 04.1](https://codelabs.developers.google.com/codelabs/pwa-gulp/index.html?index=..%2F..dev-pwa-training#0)
+
+Aquí se repasa la configuración de `gulp` del capítulo anterior.
+
 ## References
 
 - [Lighthouse]
@@ -287,3 +319,4 @@ Service Workers.
 [4]: https://developer.mozilla.org/en-US/docs/Web/HTTP/Access_control_CORS
 [5]: https://stackoverflow.com/questions/39109789/what-limitations-apply-to-opaque-responses
 [6]: https://workboxjs.org/
+[7]: https://developers.google.com/web/tools/workbox/modules/workbox-strategies#stale-while-revalidate
