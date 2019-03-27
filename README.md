@@ -7,7 +7,7 @@ This project is based on [Primer Jekyll theme]
 # TODOs
 
 - [ ] Add affiliate links to book reviews
-      - Voy por "Stop stealing dreams""
+      - Voy por "Como ganar amigos e influir sobre las personas""
 - [ ] **PUBLISH**
 - [ ] Add notes from articles, videos, and so on that are for years in gmail
 - [ ] Categories for posts:
