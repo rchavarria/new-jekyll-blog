@@ -306,4 +306,23 @@ happens, you're notified with a link to the task you need to perform. Nice!
 Use [leaflet](https://leafletjs.com/) maps instead of Google Maps. The library
 is open source, and it can show map tiles from different sources.
 
+Este comic de CommitStrip viene que ni pintada para esto:
+
+<blockquote class="twitter-tweet" data-lang="en">
+  <p lang="en" dir="ltr">
+      Over-excited
+    <a href="https://t.co/LQWqzl4ZTW">
+      https://t.co/LQWqzl4ZTW
+    </a>
+    <a href="https://t.co/UKclEfTPmb">
+      pic.twitter.com/UKclEfTPmb
+    </a>
+  </p>
+  &mdash; CommitStrip (@CommitStrip) 
+  <a href="https://twitter.com/CommitStrip/status/1107746878886735877?ref_src=twsrc%5Etfw">
+    March 18, 2019
+  </a>
+</blockquote>
+<script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+
 ## References
