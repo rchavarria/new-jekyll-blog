@@ -166,7 +166,7 @@ Así que aquí está mi Lista de Lectura:
 - [Snow crash](https://amzn.to/2OrQYdW), de Neal Stephenson ~ *Mayo 2014*
 - [El cuadrante del flujo del dinero]({{ site.baseurl }}{% post_url 2014-03-01-cuadrante-flujo-dinero %}), de Robert Kiyosaki ~ *Marzo 2014*
 - [Planifica tu éxito, de aprendiz a empresario]({{ site.baseurl }}{% post_url 2014-02-18-planifica-tu-exito %}), de Roberto Canales (Autentia) ~ *Enero 2014*
-- [Padre rico, padre pobre](http://www.amazon.com/Padre-Rico-Pobre-Spanish-Edition/dp/160396181X), de Robert Kiyosaki ~ *Septiembre 2013*
+- [Padre rico, padre pobre](https://amzn.to/2OtKR9d), de Robert Kiyosaki ~ *Septiembre 2013*
 - [Instant Markdown]({{ site.baseurl }}{% post_url 2013-10-07-instant-markdown %}), de Arturo Herrero ~ *Septiembre 2013*
 - [Como ganar amigos e influir sobre las personas](https://github.com/rchavarria/book-notes/blob/master/published/ganar-amigos-influir-personas-by-dale-carnegie.md),
 de Dale Carnegie ~ *Julio 2013*
