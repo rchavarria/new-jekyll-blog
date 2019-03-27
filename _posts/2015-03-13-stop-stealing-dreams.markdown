@@ -4,9 +4,8 @@ date: 2015-03-13 00:39
 author: Rubén Chavarría
 comments: true
 categories: 
-- personal
-- book reviews
-- education
+- Reseñas
+- Educación
 published: true
 footer: false
 sidebar: true
