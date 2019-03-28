@@ -7,7 +7,7 @@ This project is based on [Primer Jekyll theme]
 # TODOs
 
 - [ ] Add affiliate links to book reviews
-      - Voy por "Como ganar amigos e influir sobre las personas""
+      - Voy por "Agile estimating and planning""
 - [ ] **PUBLISH**
 - [ ] Add notes from articles, videos, and so on that are for years in gmail
 - [ ] Categories for posts:
