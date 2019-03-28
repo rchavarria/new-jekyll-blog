@@ -25,7 +25,7 @@ las ideas que vaya teniendo.
 
 # [Developing PWA 01.0](https://codelabs.developers.google.com/codelabs/pwa-welcome/index.html?index=..%2F..dev-pwa-training#0)
 
-El curso estará basado en el repositorio de GitHub [pwa-training-labs]
+El curso estará basado en el repositorio de GitHub [pwa-training-labs][10]
 
 # [Developing PWA 02.0](https://codelabs.developers.google.com/codelabs/pwa-offline-quickstart/index.html?index=..%2F..dev-pwa-training#0)
 
@@ -304,15 +304,26 @@ trabajo repetitivo y soluciona muchos aspectos del uso de Service Workers.
 
 # [Developing PWAs 04.1](https://codelabs.developers.google.com/codelabs/pwa-gulp/index.html?index=..%2F..dev-pwa-training#0)
 
-Aquí se repasa la configuración de `gulp` del capítulo anterior.
+Aquí se repasa la configuración de `gulp` del capítulo anterior. No sé cómo de
+interesante será, pero no estoy muy interesado en esta herramienta.
+
+El módulo npm `browser-sync` nos puede servir para crear un servidor web muy
+rápidamente.
+
+# [Developing PWAs 04.5](https://codelabs.developers.google.com/codelabs/pwa-caching-service-worker/index.html?index=..%2F..dev-pwa-training#0)
+
+Este capítulo cubre lo básico de cacheo de ficheros con un Service Worker. Las
+tecnologías que se verán son el [API de caché][8] y el [API Service Worker][9].
 
 ## References
 
+- [Código fuente del laboratorio][10]
 - [Lighthouse]
 - [Especificaciones de streams en JavaScript][2]
+- [Cache API][8]
+- [Service Worker API][9]
 
 [Lighthouse]: https://developers.google.com/web/tools/lighthouse/
-[pwa-training-labs]: https://github.com/google-developer-training/pwa-training-labs
 [1]: https://developer.mozilla.org/en-US/docs/Web/API/ReadableStream
 [2]: https://streams.spec.whatwg.org/
 [3]: https://developer.mozilla.org/en-US/docs/Web/API/Response#Methods
@@ -320,3 +331,6 @@ Aquí se repasa la configuración de `gulp` del capítulo anterior.
 [5]: https://stackoverflow.com/questions/39109789/what-limitations-apply-to-opaque-responses
 [6]: https://workboxjs.org/
 [7]: https://developers.google.com/web/tools/workbox/modules/workbox-strategies#stale-while-revalidate
+[8]: https://developer.mozilla.org/en-US/docs/Web/API/Cache
+[9]: https://developer.mozilla.org/en-US/docs/Web/API/Service_Worker_API
+[10]: https://github.com/google-developer-training/pwa-training-labs
