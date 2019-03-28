@@ -168,7 +168,7 @@ Así que aquí está mi Lista de Lectura:
 - [Planifica tu éxito, de aprendiz a empresario]({{ site.baseurl }}{% post_url 2014-02-18-planifica-tu-exito %}), de Roberto Canales (Autentia) ~ *Enero 2014*
 - [Padre rico, padre pobre](https://amzn.to/2OtKR9d), de Robert Kiyosaki ~ *Septiembre 2013*
 - [Instant Markdown]({{ site.baseurl }}{% post_url 2013-10-07-instant-markdown %}), de Arturo Herrero ~ *Septiembre 2013*
-- [Como ganar amigos e influir sobre las personas](https://github.com/rchavarria/book-notes/blob/master/published/ganar-amigos-influir-personas-by-dale-carnegie.md),
+- [Como ganar amigos e influir sobre las personas]({{ site.baseurl }}{% post_url 2013-07-01-como-ganar-amigos %}),
 de Dale Carnegie ~ *Julio 2013*
 - [La meta: un proceso de mejora contínua]({{ site.baseurl }}{% post_url 2013-04-10-la-meta %}), de Eliyahu M. Goldratt ~ *Abril 2013*
 - [Agile estimating and planning]({{ site.baseurl }}{% post_url 2013-02-13-agile-estimating-and-planning %}), de Mike Cohn ~ *Febrero 2013*
