@@ -4,8 +4,7 @@ date: 2013-10-07 09:38
 author: Rubén Chavarría
 comments: true
 categories: 
-- personal
-- book reviews
+- Reseñas
 published: true
 footer: false
 sidebar: true
