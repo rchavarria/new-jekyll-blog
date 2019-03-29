@@ -315,6 +315,109 @@ rápidamente.
 Este capítulo cubre lo básico de cacheo de ficheros con un Service Worker. Las
 tecnologías que se verán son el [API de caché][8] y el [API Service Worker][9].
 
+Parece que se verá lo estudiado en el capítulo sobre Workbox, pero esta vez se
+implementará *manualmente*. Veamos de qué va.
+
+Lo primero que va a cachear el la *shell de la aplicación*, es decir, los recursos
+estáticos mínimos necesarios para que la aplicación arranque. Si no es posible
+cachear estos recursos, el Service Worker no se instalará ni activará.
+
+Para ello, en el evento `install` del Service Worker, *esperamos hasta* que todos
+los recursos estén cacheados `cache.addAll`:
+
+```javascript
+self.addEventListener('install', event => {
+  event.waitUntil(
+    caches.open('cache-name')
+      .then(cache => cache.addAll([ /* ... */ ]))
+  );
+});
+```
+
+Una vez instalado el Service Worker, escucha eventos `fetch`. Implementa la
+estrategia *cache first*, o como lo llama en este capítulo
+[cache respaldada en la red][11] (mira en la cache, si no existe, lo pide a la
+red).
+
+La clave aquí está en [`caches.match`][12], que devuelve una promesa. Si resuelve
+con un objecto respuesta, está en la caché. Si resuelve sin objecto respuesta,
+no se encuentra en la caché. Si falla, estamos offline.
+
+```javascript
+self.addEventListener('fetch', event => {
+  event.respondWith(
+    caches.match(event.request)
+    .then(response => {
+      if (response) {
+        // resource is cached
+      }
+      
+      // resource must be fetched from network
+    })
+    .catch(error => {
+      // we're offline
+    })
+  );
+});
+```
+
+No solamente vas a hacer peticiones a la red, también se cachea la respuesta
+de la red:
+
+```javascript
+fetch(event.request)  // petición a la red
+  .then(response => {
+    return caches.open('cache-name') // abrir la cache
+      .then(cache => {
+        cache.put(event.request.url, response.clone());  // añadir respuesta a cache 
+        return response;
+      });
+  });
+```
+
+**Nota**: al añadir la respuesta a la cache, hay que clonarla porque son *streams*
+y solo pueden ser leídas una sola vez.
+
+¿Qué pasa si la petición a la red falla? ¿Cómo se devuelvería una página de error
+`404` personalizada?
+
+```javascript
+fetch(event.request)
+  .then(response => {
+    if (response.status === 404) {
+      return caches.match('pages/404.html');
+    }
+    return caches.open('cache-name').then(/* ... */)
+  });
+```
+
+Se puede ir teniendo distintas versiones para la cache, o distintas caches para
+distintos motivos: `cache-v1`, `cache-v2`, `img-cache-v1`, `css-cache-v10`,...
+
+Es importante borrar las caches que no vayamos a volver a usar, para ahorrar espacio
+en los dispositivos de los usuarios.
+
+Este borrado se hace en el evento `activate` del Service Worker. Si se hace antes
+de que esté activo, podemos estar borrando caches cuando estamos offline, eliminando
+una de las ventajas de Service Worker.
+
+```javascript
+self.addEventListener('activate', event => {
+  event.waitUntil(
+    caches.keys().then(cacheNames => {
+      const deletions = cacheNames
+        // filtrar las caches a borrar por el nombre, por lo que debemos conocer
+        // los nombres de las caches que habrá y los nombres de las caches que
+        // nos interesa mantener
+        .filter(filterCachesByName)  
+        .map(cacheName => caches.delete(cacheName));
+        
+      return Promise.all(deletions);
+    })
+  );
+});
+```
+
 ## References
 
 - [Código fuente del laboratorio][10]
@@ -322,6 +425,8 @@ tecnologías que se verán son el [API de caché][8] y el [API Service Worker][9
 - [Especificaciones de streams en JavaScript][2]
 - [Cache API][8]
 - [Service Worker API][9]
+- [The offline cookbook][13], de Jake Archibald, donde explica cómo funciona la
+cache y estrategias de cacheo y todo sobre caches
 
 [Lighthouse]: https://developers.google.com/web/tools/lighthouse/
 [1]: https://developer.mozilla.org/en-US/docs/Web/API/ReadableStream
@@ -334,3 +439,6 @@ tecnologías que se verán son el [API de caché][8] y el [API Service Worker][9
 [8]: https://developer.mozilla.org/en-US/docs/Web/API/Cache
 [9]: https://developer.mozilla.org/en-US/docs/Web/API/Service_Worker_API
 [10]: https://github.com/google-developer-training/pwa-training-labs
+[11]: https://developers.google.com/web/fundamentals/instant-and-offline/offline-cookbook/#cache-falling-back-to-network
+[12]: https://developer.mozilla.org/en-US/docs/Web/API/Cache/match
+[13]: https://developers.google.com/web/fundamentals/instant-and-offline/offline-cookbook/
