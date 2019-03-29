@@ -310,7 +310,7 @@ interesante será, pero no estoy muy interesado en esta herramienta.
 El módulo npm `browser-sync` nos puede servir para crear un servidor web muy
 rápidamente.
 
-# [Developing PWAs 04.5](https://codelabs.developers.google.com/codelabs/pwa-caching-service-worker/index.html?index=..%2F..dev-pwa-training#0)
+# [Developing PWAs 05.0](https://codelabs.developers.google.com/codelabs/pwa-caching-service-worker/index.html?index=..%2F..dev-pwa-training#0)
 
 Este capítulo cubre lo básico de cacheo de ficheros con un Service Worker. Las
 tecnologías que se verán son el [API de caché][8] y el [API Service Worker][9].
@@ -417,6 +417,10 @@ self.addEventListener('activate', event => {
   );
 });
 ```
+
+# [Developing PWAs 06.0](https://codelabs.developers.google.com/codelabs/pwa-firestore/index.html?index=..%2F..dev-pwa-training#0)
+
+Capítulo sobre Cloud Firestore de Firebase. Uff, más productos enlatados.
 
 ## References
 
