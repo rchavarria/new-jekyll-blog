@@ -151,6 +151,7 @@ cuyas estimaciones sean iguales o menores que la velocidad del equipo.
 
 ## Otras lecturas y enlaces relacionadas
 
+* [Agile estimating and planning][1] en Amazon
 * [Guía de conceptos ágiles](http://jmbeas.es/guias/)
 * [Jose Ramón Díaz](http://twitter.com/joserra_diaz/), de [Agilar](http://www.agilar.org/),
 habla de [estimaciones ágiles](http://najaraba.blogspot.com.es/2013/02/la-estimacion-agil-de-proyectos-puntos.html)

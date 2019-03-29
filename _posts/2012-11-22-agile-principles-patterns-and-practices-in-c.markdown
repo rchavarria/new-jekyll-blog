@@ -3,10 +3,8 @@ title: "Agile principles, patterns and practices in C#"
 date: 2012-11-22 11:22
 author: Rubén Chavarría
 categories: 
-- book reviews
-- agile
-- enlaces
-- filosofia dev
+- Reseñas
+- Agile
 comments: true
 published: true
 footer: false
@@ -156,6 +154,7 @@ interfaz sin sus implementaciones
 
 ## Otras lecturas y enlaces relacionadas
 
+- [Agile principles, patterns and practices in C#][1] en Amazon
 - [pdf] <a href="http://www.objectmentor.com/resources/articles/TheHumbleDialogBox.pdf">The humble dialog box</a>: 
 cómo separar la lógica de negocio de la interfaz gráfica, de Michael Feathers.
 - <a href="http://www.martinfowler.com/eaaDev/ModelViewPresenter.html">Patrón model-view-presenter</a>: 
