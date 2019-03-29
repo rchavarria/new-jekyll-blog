@@ -15,7 +15,7 @@ sidebar: true
 
 ##### Robert C. Martin
 
-[Agile principles, patterns and practices](http://vig-fp.prenhall.com/bigcovers/0131857258.jpg)
+[![Agile principles, patterns and practices](http://vig-fp.prenhall.com/bigcovers/0131857258.jpg)][1]
 
 ## Por qué lo he leído
 
@@ -167,3 +167,5 @@ que me viene ni al pelo como enlace relacionado con el libro y donde se explican
 los cuatro principios del desarrollo de software ágil
 - Hace ya un tiempo, leí sobre
 [principios y patrones de diseño]({{ site.baseurl }}{% post_url 2010-03-04-principios-y-patrones-de-diseno %}),
+
+[1]: https://amzn.to/2HKRMKr
