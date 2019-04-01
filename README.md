@@ -7,7 +7,7 @@ This project is based on [Primer Jekyll theme]
 # TODOs
 
 - [ ] Add affiliate links to book reviews
-      - Voy por "Lean software development: an agile toolkit""
+      - Voy por "Refactoring: improving the design of existing code"
 - [ ] **PUBLISH**
 - [ ] Add notes from articles, videos, and so on that are for years in gmail
 - [ ] Categories for posts:

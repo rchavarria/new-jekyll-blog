@@ -194,4 +194,3 @@ de Dale Carnegie ~ *Julio 2013*
 - The pragmatic programmer, de Adrew Hunt y David Thomas ~ *Verano 2010*
 - Head first: design patterns, de Kathy Sierra ~ *Verano 2010*
 - Design patterns, de Gang of Four ~ *Verano 2010*
-
