@@ -422,6 +422,35 @@ self.addEventListener('activate', event => {
 
 Capítulo sobre Cloud Firestore de Firebase. Uff, más productos enlatados.
 
+Lo primero que pide es ir a la [consola de Firebase][14] y elegir una base de datos,
+*Firestore beta* (a saber cuantas licencias estoy aceptando sin saberlo).
+
+Para ello, se crea un nuevo proyecto, y se le añade una base de datos. Parece
+que ya no está en beta, y que la opción por defecto es Cloud Firestore.
+
+Hay que añadir unos scripts a `index.html` para poder usarla.
+
+Ahora pide instalar herramientas de Firebase, y hasta aquí he llegado haciendo
+este capítulo. Seguiré leyendo, por si veo algo interesante, pero no tengo
+ganas de instalar herramientas que no voy a usar por ahora.
+
+Comandos que parecen ser usados bastante a menudo:
+
+- `firebase login`
+- `firebase init`: crea un `.json` con la configuración del proyecto
+- `firebase serve`: arranca un servidor local para servir nuestro proyecto
+
+
+
+
+
+Voy por el paso #7 (https://codelabs.developers.google.com/codelabs/pwa-firestore/index.html?index=..%2F..dev-pwa-training#6)
+
+
+
+
+
+
 ## References
 
 - [Código fuente del laboratorio][10]
@@ -446,3 +475,4 @@ cache y estrategias de cacheo y todo sobre caches
 [11]: https://developers.google.com/web/fundamentals/instant-and-offline/offline-cookbook/#cache-falling-back-to-network
 [12]: https://developer.mozilla.org/en-US/docs/Web/API/Cache/match
 [13]: https://developers.google.com/web/fundamentals/instant-and-offline/offline-cookbook/
+[14]: https://console.firebase.google.com/
