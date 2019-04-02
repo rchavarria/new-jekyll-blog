@@ -3,8 +3,8 @@ title: "God and the new physics"
 date: 2011-04-08 04:08
 author: Rubén Chavarría
 categories: 
-- book reviews
-- ciencia
+- Reseñas
+- Ciencia
 comments: true
 published: true
 footer: false
@@ -13,7 +13,7 @@ sidebar: true
 
 ##### Paul Davies
 
-![God and the new physics]({{ site.baseurl }}/assets/images/wordpress/god-and-the-new-physics.jpg)
+[![God and the new physics]({{ site.baseurl }}/assets/images/wordpress/god-and-the-new-physics.jpg)][1]
 
 ## Por qué lo he leído
 
@@ -87,3 +87,5 @@ puede llegar a ser mucho mayor que la edad que tiene actualmente, ¿dónde no ll
 Podría llegar a modificar órbitas, crear lunas, modificar galaxias, crear agujeros negros,... 
 ¿Por qué no iba a ser capaz de crear un nuevo universo? ¿Por qué no? Con suficiente tiempo,... 
 Nadie puede demostrar que vaya a ser así, pero tampoco lo contrario.
+
+[1]: https://amzn.to/2CMt6x2
