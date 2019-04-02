@@ -186,11 +186,11 @@ de Dale Carnegie ~ *Julio 2013*
 - [God and the new physics]({{ site.baseurl }}{% post_url 2011-04-08-god-and-the-new-physics %}), de Paul Davies ~ *Abril 2011*
 - [Dormir sin lágrimas]({{ site.baseurl }}{% post_url 2011-03-29-dormir-sin-lagrimas %}), de Rosa Jové ~ *Marzo 2011*
 - [Apprenticeship patterns]({{ site.baseurl }}{% post_url 2011-03-24-apprenticeship-patterns %}) ~ *Marzo 2011*
-- Peopleware, de Tom DeMarco y Timoth Lister ~ *Febrero 2011*
-- Clean code, de Robert C. Martin ~ *Enero 2011*
-- Implementation patterns, de Kent Beck ~ *Enero 2011*
-- Java concurrency in practice, de Brian Goetz, Time Peierls, Joshua Bloch, Joseph Bowbeer, David Holmes, Doug Lea ~ *Diciembre 2010*
-- Effective java, de Joshua Bloch ~ *Noviembre 2010*
-- The pragmatic programmer, de Adrew Hunt y David Thomas ~ *Verano 2010*
-- Head first: design patterns, de Kathy Sierra ~ *Verano 2010*
-- Design patterns, de Gang of Four ~ *Verano 2010*
+- [Peopleware](https://amzn.to/2TLnSY4), de Tom DeMarco y Timothy Lister ~ *Febrero 2011*
+- [Clean code](https://amzn.to/2UueiNu), de Robert C. Martin ~ *Enero 2011*
+- [Implementation patterns](https://amzn.to/2UuexrS), de Kent Beck ~ *Enero 2011*
+- [Java concurrency in practice](https://amzn.to/2UtM6KI), de Brian Goetz, Time Peierls, Joshua Bloch, Joseph Bowbeer, David Holmes, Doug Lea ~ *Diciembre 2010*
+- [Effective java](https://amzn.to/2D0M2bJ), de Joshua Bloch ~ *Noviembre 2010*
+- [The pragmatic programmer](https://amzn.to/2Verl2O), de Adrew Hunt y David Thomas ~ *Verano 2010*
+- [Head first: design patterns](https://amzn.to/2CSdkkq), de Kathy Sierra ~ *Verano 2010*
+- [Design patterns](https://amzn.to/2FRNpeq), de Gang of Four ~ *Verano 2010*
