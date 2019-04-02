@@ -3,9 +3,8 @@ title: "Apprenticeship patterns: guidance for the aspiring software craftsman"
 date: 2011-03-24 03:24
 author: Rubén Chavarría
 categories: 
-- personal
-- software
-- book reviews
+- Reseñas
+- Carrera profesional
 comments: true
 published: true
 footer: false
@@ -20,7 +19,8 @@ sidebar: true
 
 ## Por qué lo he leído
 
-![Apprenticeship patterns]({{ site.baseurl }}/assets/images/wordpress/apprenticeship_patterns-228x300.jpg)
+[![Apprenticeship patterns]({{ site.baseurl }}/assets/images/wordpress/apprenticeship_patterns-228x300.jpg)][1]
+
 
 La razón es bien sencilla, ni recomendaciones, ni hablando con un amigo, ni nada. 
 Expontáneamente, leyendo el 
@@ -76,3 +76,5 @@ y entre otras, en el libro podrás encontrar:
 - Programa en pareja siempre que puedas (o busca las ocasiones)
 - Practica en code katas y code dojos (o como se conocen por ahí: 
 [katayunos y merendojos](http://katayunos.com/))
+
+[1]: https://amzn.to/2Uk8E0A

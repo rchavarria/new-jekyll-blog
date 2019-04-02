@@ -14,7 +14,7 @@ sidebar: true
 
 ## Por qué lo he leído
 
-[![Dormir sin lagrimas]({{ site.baseurl }}/assets/images/wordpress/dormir-sin-lagrimas.jpg)][1]
+[![Dormir sin lágrimas]({{ site.baseurl }}/assets/images/wordpress/dormir-sin-lagrimas.jpg)][1]
 
 Dentro de muy poquito voy a ser padre primerizo de un niño, y como buen padre (y muy 
 influenciado por la mejor madre) decidí leer algún libro relacionado con los bebés, 
