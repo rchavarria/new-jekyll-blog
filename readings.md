@@ -180,7 +180,7 @@ de Dale Carnegie ~ *Julio 2013*
 - [Programming Pearls]({{ site.baseurl }}{% post_url 2012-05-25-programming-pearls %}), de Jon Bentley ~ *Marzo 2012*
 - [Refactoring: improving the design of existing code]({{ site.baseurl }}{% post_url 2012-01-25-refactoring-improving-the-design-of-existing-code %}), de Martin Fowler ~ *Enero 2012*
 - [The Clean Coder: A Code of Conduct for Professional Programmers]({{ site.baseurl }}{% post_url 2011-10-14-the-clean-coder %}), de Robert C. Martin ~ *Octubre 2011*
-- [Bésame mucho](http://www.casadellibro.com/libro-besame-mucho-como-criar-a-tus-hijos-con-amor-lujo/1159119/2900001206153), de Carlos gonzalez ~ *Agosto 2011*
+- [Bésame mucho](https://amzn.to/2FTBvRi), de Carlos gonzalez ~ *Agosto 2011*
 - [Linchpin]({{ site.baseurl }}{% post_url 2011-09-01-linchpin %}), de Seth Godin ~ *Agosto 2011*
 - [Nikola Tesla (biografía)]({{ site.baseurl }}{% post_url 2011-08-03-nikola-tesla-el-genio-al-que-le-robaron-la-luz %}), de Margaret Cheney ~ *Mayo 2011*
 - [God and the new physics]({{ site.baseurl }}{% post_url 2011-04-08-god-and-the-new-physics %}), de Paul Davies ~ *Abril 2011*

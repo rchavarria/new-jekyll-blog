@@ -130,4 +130,4 @@ rutina, deja de ser una sobrecarga y comienza a ser algo esencia
 - [Refactoring: improving the design of existing code][1], segunda edición en
 Amazon
 
-[1]; https://amzn.to/2CO5Fna
+[1]: https://amzn.to/2CO5Fna

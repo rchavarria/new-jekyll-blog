@@ -3,8 +3,7 @@ title: "Linchpin"
 date: 2011-09-01 09:01
 author: Rubén Chavarría
 categories: 
-- personal
-- book reviews
+- Reseñas
 comments: true
 published: true
 footer: false
@@ -15,7 +14,7 @@ sidebar: true
 
 ## Por qué lo he leído
 
-![Linchpin](http://ecx.images-amazon.com/images/I/51OjKKuo-fL._BO2,204,203,200_PIsitb-sticker-arrow-click,TopRight,35,-76_AA300_SH20_OU01_.jpg)
+[![Linchpin](https://images-na.ssl-images-amazon.com/images/I/51fGhgWMZKL._SX317_BO1,204,203,200_.jpg)][1]
 
 Suelo leer a Alberto Peña ["plagelao"](http://blog.plagelao.com/), y en su viejo blog 
 leí su post sobre 
@@ -108,3 +107,5 @@ indispensable a largo plazo
 
 > Los verdaderos regalos, los generosos no demandan reciprocidad, y el mejor 
 regalo es un regalo de tu arte
+
+[1]: https://amzn.to/2JUWqaC
