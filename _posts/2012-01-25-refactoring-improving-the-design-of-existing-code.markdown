@@ -3,9 +3,8 @@ title: "Refactoring: improving the design of existing code"
 date: 2012-01-25 01:25
 author: Rubén Chavarría
 categories: 
-- book reviews
-- software
-- internet
+- Reseñas
+- Diseño
 comments: true
 published: true
 footer: false
@@ -16,7 +15,7 @@ sidebar: true
 
 ## Por qué lo he leído
 
-![Refactoring: improving the design of existing code](http://martinfowler.com/refactoringBook.jpg)
+[![Refactoring: improving the design of existing code](http://martinfowler.com/refactoringBook.jpg)][1]
 
 El título me pareció sugerente. Me gusta que el código que utilizo, el código 
 que escribo o el código que leo, tenga muy buena apariencia, sea legible, 
@@ -125,3 +124,10 @@ explícita lo asumido creando una sencia assert
 
 > Mi experiencia me dice que conforme refactorizar se va convirtiendo en una 
 rutina, deja de ser una sobrecarga y comienza a ser algo esencia
+
+## Referencias
+
+- [Refactoring: improving the design of existing code][1], segunda edición en
+Amazon
+
+[1]; https://amzn.to/2CO5Fna
