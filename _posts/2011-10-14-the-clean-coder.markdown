@@ -3,7 +3,8 @@ title: "The clean coder: a code of conduct for professional programmers"
 date: 2011-10-14 10:14
 author: Rubén Chavarría
 categories: 
-- book reviews
+- Reseñas
+- Diseño
 comments: true
 published: true
 footer: false
@@ -14,7 +15,7 @@ sidebar: true
 
 ## Por qué lo he leído
 
-![The Clean Coder](http://photo.goodreads.com/books/1295654320l/10284614.jpg)
+[![The Clean Coder](http://photo.goodreads.com/books/1295654320l/10284614.jpg)][1]
 
 Me decidí a leer este libro porque leyendo varios blogs en español encontré más 
 de una referencia, por lo que parecía un buen libro para leer. Además, conseguí 
@@ -186,3 +187,5 @@ software, deberás aprender a hablar con la gente
 > Lleva tiempo que un equipo funcione, por eso, las empresas profesionales, 
 organizan proyectos alrededor de equipos que funcionan, nunca forman equipos 
 alrededor de proyectos nuevos
+
+[1]: https://amzn.to/2FTB2i0
