@@ -4,11 +4,12 @@ title: "Never binge again"
 date: 2019-03-07 19:39
 author: Ruben Chavarria
 categories:
-- Libros
-- Personal
+- Reseñas
 ---
 
 ##### de Glenn Livingston
+
+[![Never binge again](https://images-eu.ssl-images-amazon.com/images/I/51X2%2BpB1gHL.jpg)][1]
 
 ### Por qué lo he leído
 
@@ -430,3 +431,9 @@ Si te levanas cada vez que fallas, sólo puedes ir mejorando.
 No hay ninguna forma de fallar, sólo puedes pegar tropezones.
 
 ### Capítulo 23 - siguiente paso a tomar
+
+## Recursos
+
+- [Never binge again][1] en Amazon
+
+[1]: https://amzn.to/2CObu40
