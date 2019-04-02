@@ -25,6 +25,7 @@ Así que aquí está mi Lista de Lectura:
 ## Tengo pensado leer
 
 - [Planning eXtreme programming](https://amzn.to/2HKycNs), de Kent Beck y Martin Fowler, visto por ahí, y si los autores son estos dos semidioses, no hay razón para no leerlo
+- [Your money or your life](https://amzn.to/2KdrJxN), de Robin/Dominguez, recomendado por J.B.Rainsberger: *cambió cómo entiendo el propósito del dinero y el trabajo*
 - [Friendly command line](https://hellowebbooks.com/learn-command-line/), de Tracy Osborn, libro gratuito, descargable, imprimible y de todo, con unas ilustraciones muy curiosas
 - [DDD, first 15 years](https://leanpub.com/ddd_first_15_years), de DDD Europe Community, recomendado por [Rafael Luque](https://twitter.com/rafael_luque/status/1092387872404111360), colección gratuita de artículos (viejos y nuevos) sobre DDD
 - [Una breve historia de casi todo](https://amzn.to/2HwdLE2), de Bill Bryson, Álvaro García Loaisa dice de él: [Posiblemente el mejor libro de divulgación científica que me he leído](https://twitter.com/aloaisa/status/1020955449905082369/photo/1)
@@ -58,6 +59,8 @@ Así que aquí está mi Lista de Lectura:
 - [A random walk down Wall Street](https://www.amazon.es/Random-Walk-Down-Wall-Street/dp/0393352242), de Burton G. Malkiel. Libro recomendado sobre invertir en bolsa, muy recomendado por la gente de ZetMoney
 - [The grumpy programmer's PHPUnit cookbook](https://leanpub.com/grumpy-phpunit), de Chris Hartjes, amigo de J.B.Rainsberger
 - [Mientras escribo](http://www.amazon.es/Mientras-escribo-BEST-SELLER-Stephen/dp/849759732X/), de Stephen King (traducción de *On writing*), recomendado por [Kathleen Dollard](https://twitter.com/KathleenDollard/) en el podcast [Developer on Fire #65](http://developeronfire.com/Podcast/Episodes/kathleen-dollard-relentless-dedication)
+- [Comunicación no violenta](https://amzn.to/2HSYE8B), de Rosenberg, recomendado por J.B.Rainsberger: *cambió cómo interpreto las motivaciones en el comportamiento de la gente*
+- [Influence](https://amzn.to/2HQHKaE), de Cialdini, recomendado por J.B.Rainsberger: *cambió cómo entiendo las intenciones en el comportamiento de la gente*
 - [The coding dojo handbook](https://leanpub.com/codingdojohandbook), de Emiliy Bache
 - [Team geek: a developer's guide to work well with others](http://www.amazon.com/dp/1449302440/), de Brian W. Fitzpatrick y Ben Collins-Sussman
 - Quiet: The Power of Introverts in a World That Can't Stop Talking, de Susan Cain, recomendado por Sarah Dutkiewicz ([@sadukie](https://twitter.com/sadukie)) en el podcast [Developer on Fire #203](http://developeronfire.com/podcast/episode-203-sarah-dutkiewicz-master-and-apprentice)
