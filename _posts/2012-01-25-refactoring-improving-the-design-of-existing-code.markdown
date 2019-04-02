@@ -15,7 +15,7 @@ sidebar: true
 
 ## Por qué lo he leído
 
-[![Refactoring: improving the design of existing code](http://martinfowler.com/refactoringBook.jpg)][1]
+[![Refactoring: improving the design of existing code](https://images-eu.ssl-images-amazon.com/images/I/41odjJlPgHL.jpg)][1]
 
 El título me pareció sugerente. Me gusta que el código que utilizo, el código 
 que escribo o el código que leo, tenga muy buena apariencia, sea legible, 
