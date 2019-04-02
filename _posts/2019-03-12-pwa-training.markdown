@@ -440,16 +440,25 @@ Comandos que parecen ser usados bastante a menudo:
 - `firebase init`: crea un `.json` con la configuración del proyecto
 - `firebase serve`: arranca un servidor local para servir nuestro proyecto
 
+El [modelo de datos de Firestore][15] está basado en documentos, los cuales están
+organizados en colecciones y subcolecciones.
 
+Para leer datos, hay dos posibilidades: la típica, haciendo una query, o por
+snapshots. Ésta última es bastante interesante. Se construye una query, y se
+*suscribe* a un evento llamado *snapshot*. Firestore notificará a la query, en
+tiempo real, cambios que se produzcan en la base de datos: añadir, borrar,...
+Luego, habrá que realizar lo que sea con esos cambios: añadir al DOM, borrar
+del DOM,...
 
+Cloud Firestore permite persistir datos offline. Lo que hace es guardar una
+copia de forma local y los cambios que se realizan en ellos. Cuando la aplicación
+vuelve a estar online, los cambios se sincronizan con el servicio de Google.
 
+Como último recurso, un [codelab sobre Cloud Firestore][16]
 
-Voy por el paso #7 (https://codelabs.developers.google.com/codelabs/pwa-firestore/index.html?index=..%2F..dev-pwa-training#6)
+# [Developing PWAs 07.0](https://codelabs.developers.google.com/codelabs/pwa-integrating-analytics/index.html?index=..%2F..dev-pwa-training#0)
 
-
-
-
-
+Aquí se verá cómo integrar Google Analytics en nuestra aplicación.
 
 ## References
 
@@ -476,3 +485,5 @@ cache y estrategias de cacheo y todo sobre caches
 [12]: https://developer.mozilla.org/en-US/docs/Web/API/Cache/match
 [13]: https://developers.google.com/web/fundamentals/instant-and-offline/offline-cookbook/
 [14]: https://console.firebase.google.com/
+[15]: https://firebase.google.com/docs/firestore/data-model
+[16]: https://codelabs.developers.google.com/codelabs/firestore-web/index.html
