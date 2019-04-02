@@ -13,11 +13,11 @@ sidebar: true
 
 ##### de Roberto Canales Mora
 
-![Planifica tu exito: de aprendiz a empresario](http://ecx.images-amazon.com/images/I/810ghYlRMFL._SL1500_.jpg)
+[![Planifica tu exito: de aprendiz a empresario](http://ecx.images-amazon.com/images/I/810ghYlRMFL._SL1500_.jpg)][1]
 
 ## Por qué lo he leído
 
-Tenía pensado leer [Planifica tu éxito] porque estoy muy interesado en mejorar como profesional
+Tenía pensado leer [Planifica tu éxito][1] porque estoy muy interesado en mejorar como profesional
 y en avanzar en mi carrera como tal. Ya simplemente el título te da una idea de progreso y tenía
 curiosidad por conocer un poco más allá de mi perfil profesional actual. Si a esto le añadimos
 que el autor pertenece a una empresa llena de profesionales a los que admiro y que
@@ -108,7 +108,7 @@ introduce el BCID: 659-11704854
 - [Cómo iniciar una conversación y hacer amigos]
 - Vídeo explicativo acerca de [«eficacia vs. eficiencia»]
 
-[Planifica tu éxito]: http://www.amazon.es/Planifica-tu-%C3%A9xito-aprendiz-empresario/dp/841545757X/ref=sr_1_1?s=books&ie=UTF8&qid=1392882947&sr=1-1
+[1]: https://amzn.to/2TGaYdK
 [notas sobre Planifica tu éxito]: https://github.com/rchavarria/blog-post-incubator/blob/master/published-book-notes/planifica-exito-by-roberto-canales.md
 [BookCrossing]: http://bookcrossing.com
 [Adictos al trabajo]: www.adictosaltrabajo.com/book_section.inc.php?book=2

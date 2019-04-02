@@ -4,8 +4,8 @@ date: 2015-05-29 01:04
 author: Rubén Chavarría
 comments: true
 categories: 
-- personal
-- book reviews
+- Reseñas
+- JavaScript
 published: true
 footer: false
 sidebar: true
@@ -85,4 +85,4 @@ que pueden compartir un subconjunto de sus datos
 [Learning JavaScript design patterns]: http://www.addyosmani.com/resources/essentialjsdesignpatterns/book
 [Sintaxis definitiva de módulos]: http://www.2ality.com/2014/09/es6-modules-final.html
 [Notas tomadas]: https://github.com/rchavarria/blog-post-incubator/blob/master/published-book-notes/learning-javascript-design-patterns-by-addy-oshmany.markdown
-[JavaScript patterns]: http://www.amazon.com/JavaScript-Patterns-Stoyan-Stefanov/dp/0596806752
+[JavaScript patterns]: https://amzn.to/2Ose83Z

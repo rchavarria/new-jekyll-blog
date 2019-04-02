@@ -3,8 +3,7 @@ title: "Dormir sin lágrimas"
 date: 2011-03-29 03:29
 author: Rubén Chavarría
 categories: 
-- personal
-- book reviews
+- Reseñas
 comments: true
 published: true
 footer: false
@@ -15,7 +14,7 @@ sidebar: true
 
 ## Por qué lo he leído
 
-![Dormir sin lagrimas]({{ site.baseurl }}/assets/images/wordpress/dormir-sin-lagrimas.jpg)
+[![Dormir sin lágrimas]({{ site.baseurl }}/assets/images/wordpress/dormir-sin-lagrimas.jpg)][1]
 
 Dentro de muy poquito voy a ser padre primerizo de un niño, y como buen padre (y muy 
 influenciado por la mejor madre) decidí leer algún libro relacionado con los bebés, 
@@ -91,3 +90,5 @@ acostumbrando al ritmo de sus padres, ¡<em>siempre</em>!. No es necesario oblig
 al bebé a seguir nuestro ritmo, acabará por adaptarse
 - Defiende aférrimamente el <em>colecho</em>, que el bebé duerma en la misma cama 
 que los padres
+
+[1]: https://amzn.to/2JY7Ryh

@@ -4,9 +4,8 @@ date: 2015-01-02 10:24
 author: Rubén Chavarría
 comments: true
 categories: 
-- personal
-- book reviews
-- extreme programming
+- Reseñas
+- eXtreme Programming
 published: true
 footer: false
 sidebar: true
@@ -14,7 +13,7 @@ sidebar: true
 
 ##### de Kent Beck
 
-![Extreme Programming explained](http://ecx.images-amazon.com/images/I/71kDsLjbnsL.jpg)
+[![Extreme Programming explained](http://ecx.images-amazon.com/images/I/71kDsLjbnsL.jpg)][1]
 
 ## Por qué lo he leído
 
@@ -88,5 +87,8 @@ de la gente
 
 ## Recursos relacionados
 
-- [Extensas notas sobre el libro](https://github.com/rchavarria/book-notes/blob/master/published/extreme-programming-explained-by-kent-beck.md)
-- [Extreme Programming explained, en Amazon](http://www.amazon.es/Extreme-Programming-Explained-Embrace-Embracing/dp/0321278658/ref=sr_1_1?ie=UTF8&qid=1420044502&sr=8-1&keywords=extreme+programming+explained)
+- [Extensas notas sobre el libro]
+- [Extreme Programming explained][1], en Amazon
+
+[Extensas notas sobre el libro]: https://github.com/rchavarria/book-notes/blob/master/published/extreme-programming-explained-by-kent-beck.md)
+[1]: https://amzn.to/2OyUd3z

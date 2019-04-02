@@ -3,8 +3,8 @@ title: "Scrum y XP desde las trincheras"
 date: 2012-07-06 06:06
 author: Rubén Chavarría
 categories: 
-- book reviews
-- agile
+- Reseñas
+- Agile
 comments: true
 published: true
 footer: false
@@ -13,7 +13,7 @@ sidebar: true
 
 ##### Henrik Kniberg
 
-![Scrum y XP desde las trincheras](http://www.infoq.com/resource/minibooks/scrum-xp-from-the-trenches/en/cover/coverlandingpage.JPG)
+[![Scrum y XP desde las trincheras](https://res.infoq.com/minibooks/scrum-xp-from-the-trenches-2/en/cover/Thumb.jpg)][1]
 
 ## Por qué lo he leído
 
@@ -21,7 +21,7 @@ Estaba un poco cansado de leer libros técnicos, y me apetecía leer alguno más
 práctico, como si estuviera leyendo un caso de éxito o algo así. También me 
 apetecía introducirme más de lleno en las metodologías ágiles, y un amigo me 
 comentó que desde que leyó 
-[Scrum y XP desde las trincheras](http://www.infoq.com/minibooks/scrum-xp-from-the-trenches),
+[Scrum y XP desde las trincheras][2],
 su visión del desarrollo del software cambió totalmente.
 
 <!-- more -->
@@ -53,7 +53,7 @@ Sin duda, éste es un libro que no te deberías perder.
 
 Además, está disponible para su descarga gratuita en varios idiomas, entre 
 ellos el español (enlace de descarga de 
-[Scrum y XP desde las trincheras](http://www.infoq.com/minibooks/scrum-xp-from-the-trenches)).
+[Scrum y XP desde las trincheras][2]).
 La verdad es que se agradece que existan versiones en español de libros tan 
 interesantes como éste.
 
@@ -100,7 +100,11 @@ interesantes como éste.
 
 ## Otras lecturas y enlaces relacionadas
 
+- [Scrum y XP desde las trincheras][1] en Amazon
 - [Blog de Henrik Kniberg](http://blog.crisp.se/author/henrikkniberg)
 - [Manifiesto ágil](http://agilemanifesto.org/iso/es) (english: 
 [Agile Manifesto](http://agilemanifesto.org/))
 - [Introducción a la Agilidad y Scrum](http://www.kleer.la/e-books)
+
+[1]: https://amzn.to/2YDuYl4
+[2]: http://www.infoq.com/minibooks/scrum-xp-from-the-trenches-2

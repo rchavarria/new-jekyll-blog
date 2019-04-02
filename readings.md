@@ -25,6 +25,7 @@ Así que aquí está mi Lista de Lectura:
 ## Tengo pensado leer
 
 - [Planning eXtreme programming](https://amzn.to/2HKycNs), de Kent Beck y Martin Fowler, visto por ahí, y si los autores son estos dos semidioses, no hay razón para no leerlo
+- [Your money or your life](https://amzn.to/2KdrJxN), de Robin/Dominguez, recomendado por J.B.Rainsberger: *cambió cómo entiendo el propósito del dinero y el trabajo*
 - [Friendly command line](https://hellowebbooks.com/learn-command-line/), de Tracy Osborn, libro gratuito, descargable, imprimible y de todo, con unas ilustraciones muy curiosas
 - [DDD, first 15 years](https://leanpub.com/ddd_first_15_years), de DDD Europe Community, recomendado por [Rafael Luque](https://twitter.com/rafael_luque/status/1092387872404111360), colección gratuita de artículos (viejos y nuevos) sobre DDD
 - [Una breve historia de casi todo](https://amzn.to/2HwdLE2), de Bill Bryson, Álvaro García Loaisa dice de él: [Posiblemente el mejor libro de divulgación científica que me he leído](https://twitter.com/aloaisa/status/1020955449905082369/photo/1)
@@ -58,6 +59,8 @@ Así que aquí está mi Lista de Lectura:
 - [A random walk down Wall Street](https://www.amazon.es/Random-Walk-Down-Wall-Street/dp/0393352242), de Burton G. Malkiel. Libro recomendado sobre invertir en bolsa, muy recomendado por la gente de ZetMoney
 - [The grumpy programmer's PHPUnit cookbook](https://leanpub.com/grumpy-phpunit), de Chris Hartjes, amigo de J.B.Rainsberger
 - [Mientras escribo](http://www.amazon.es/Mientras-escribo-BEST-SELLER-Stephen/dp/849759732X/), de Stephen King (traducción de *On writing*), recomendado por [Kathleen Dollard](https://twitter.com/KathleenDollard/) en el podcast [Developer on Fire #65](http://developeronfire.com/Podcast/Episodes/kathleen-dollard-relentless-dedication)
+- [Comunicación no violenta](https://amzn.to/2HSYE8B), de Rosenberg, recomendado por J.B.Rainsberger: *cambió cómo interpreto las motivaciones en el comportamiento de la gente*
+- [Influence](https://amzn.to/2HQHKaE), de Cialdini, recomendado por J.B.Rainsberger: *cambió cómo entiendo las intenciones en el comportamiento de la gente*
 - [The coding dojo handbook](https://leanpub.com/codingdojohandbook), de Emiliy Bache
 - [Team geek: a developer's guide to work well with others](http://www.amazon.com/dp/1449302440/), de Brian W. Fitzpatrick y Ben Collins-Sussman
 - Quiet: The Power of Introverts in a World That Can't Stop Talking, de Susan Cain, recomendado por Sarah Dutkiewicz ([@sadukie](https://twitter.com/sadukie)) en el podcast [Developer on Fire #203](http://developeronfire.com/podcast/episode-203-sarah-dutkiewicz-master-and-apprentice)
@@ -73,7 +76,7 @@ Así que aquí está mi Lista de Lectura:
 - [The senior software engineer](https://www.amazon.co.uk/Senior-Software-Engineer-Practices-Effective/dp/0990702804/), de David Bryant Copeland, recomendado por [Raúl Ávila](http://raulavila.com/2017/02/senior-software-engineer-book/)
 - [Test driven development: by example](http://www.amazon.com/Test-Driven-Development-Kent-Beck/dp/0321146530), de Kent Beck
 - [Las reglas no escritas para triunfar en la empresa](http://www.amazon.es/escritas-triunfar-empresa-Inform%C3%A1tica-Profesional/dp/8492650435), de Roberto Canales (disponible en tu drive, conseguido gratuitamente gracias a Autentia)
-- [Galileo's middle finger](https://www.amazon.es/Galileos-Middle-Finger-Alice-Dreger/dp/1594206082?SubscriptionId=AKIAILSHYYTFIVPWUY6Q&tag=duc0d-21&linkCode=xm2&camp=2025&creative=165953&creativeASIN=1594206082), de Alice Dreger, libro que recomendaron a Robert C. Martin y le gustó (https://twitter.com/unclebobmartin/status/759165130349305857)
+- [Galileo's middle finger](https://www.amazon.es/Galileos-Middle-Finger-Alice-Dreger/dp/1594206082?SubscriptionId=AKIAILSHYYTFIVPWUY6Q&tag=duc0d-21&linkCode=xm2&camp=2025&creative=165953&creativeASIN=1594206082), de Alice Dreger, libro que recomendaron a [Robert C. Martin](https://twitter.com/unclebobmartin/status/759165130349305857) y le gustó
 - [Guía de supervivencia: puntos historia](http://www.javiergarzas.com/2015/10/nueva-guia-de-supervivencia-agil-estimacion-con-puntos-historia-si-gratis.html), de Javier Garzás
 - [Pragmatic thinking and learning](https://pragprog.com/book/ahptl/pragmatic-thinking-and-learning), de Andy Hunt, recomendado por [Alvaro García](http://alvarogarcia7.github.io/blog/2015/12/31/books-read-in-2015q4/) en su blog
 - [Object thinking](http://www.amazon.com/dp/0735619654), de David West, recomendado por [Avdi Grimm](http://devblog.avdi.org/), en [Developer on Fire #108](http://developeronfire.com/episode-108-avdi-grimm-your-passion-is-yours-and-yours-alone)
@@ -121,7 +124,7 @@ Así que aquí está mi Lista de Lectura:
 - [The twelve factor app](http://12factor.net/), de Adam Wiggins. The twelve-factor app is a methodology for building software-as-a-service apps. ([download de epub](http://12factor.net/12factor.epub))
 - [Teamwork is an individual skill](http://www.amazon.com/Teamwork-Is-Individual-Skill-Responsibility/dp/1576751554), de Christopher M. Avery, Meri Aaron Walker y Erin O'Toole, recomendado por @joserra_diaz y @rubenbpv
 - [El peligro de creer](http://www.amazon.es/gp/product/8415589271/ref=as_li_tf_tl?ie=UTF8&camp=3626&creative=24790&creativeASIN=8401346711&linkCode=as2&tag=microsiervos-21), de Luis Alfonso Gámez, visto en [Microsiervos](http://www.microsiervos.com/archivo/libros/el-peligro-de-creer-un-repaso-esceptico-a-las-pseudociencias-y-similares.html)
-- [The culture game](http://www.amazon.com/The-Culture-Game-Tools-Manager/dp/0984875301/), de DAniel Mezick, recomendado por @joserra_diaz y @rubenbpv
+- [The culture game](http://www.amazon.com/The-Culture-Game-Tools-Manager/dp/0984875301/), de Daniel Mezick, recomendado por @joserra_diaz y @rubenbpv
 - [Focus](http://www.amazon.es/gp/product/8499883052/), de Daniel Goleman
 - [The art of learning](http://www.amazon.com/The-Art-Learning-Journey-Performance/dp/0743277465), de Josh Waitzkin, recomendado por [Tim Ferris](http://fourhourworkweek.com/2014/03/20/the-art-of-learning-joshua-waitzkin/)
 - [Fearless change](http://www.amazon.com/Fearless-Change-Patterns-Introducing-Ideas/dp/0201741571), de Mary Lynn Manns y Linda Rising
@@ -139,21 +142,21 @@ Así que aquí está mi Lista de Lectura:
 
 - [Down and out in the magic kindom]({{ site.baseurl }}{% post_url 2018-03-23-down-out-magic-kingdom %}), de Cory Doctorow ~ *Marzo 2018*
 - [Practical object-oriented design with Ruby (POODR)]({{ site.baseurl }}{% post_url 2018-01-17-practical-object-oriented-design-in-ruby %}), de Sandi Metz, visto en el blog de [Carlos Blé](https://twitter.com/carlosble) ~ *Enero 2018*
-- [Seveneves (7 Evas)](https://github.com/rchavarria/blog-post-incubator/blob/master/published-book-notes/seveneves-neal-stephenson.markdown), de Neal Stephenson ~ *Octubre 2017*
+- [Seveneves (7 Evas)]({{ site.baseurl }}{% post_url 2017-10-30-seveneves %}), de Neal Stephenson ~ *Octubre 2017*
 - [99 bottles of OOP]({{ site.baseurl }}{% post_url 2017-10-19-99-bottles-oop %}), de Sandi Metz y Katrina Owen ~ *Octubre 2017*
 - [Front-end developer handbook 2017](https://www.gitbook.com/book/frontendmasters/front-end-handbook-2017/), de [Code Lindley](http://codylindley.com/) y esponsorizado por [Frontend Masters](https://frontendmasters.com/) ~ *Verano 2017*
-- [Guía para invertir](https://github.com/rchavarria/blog-post-incubator/blob/master/published-book-notes/guia-para-invertir-de-robert-kiyosaki.markdown), de Robert Kiyosaki ~ *Junio 2017*
+- [Guía para invertir]({{ site.baseurl }}{% post_url 2017-06-27-guia-invertir %}), de Robert Kiyosaki ~ *Junio 2017*
 - [Ready player one]({{ site.baseurl }}{% post_url 2017-03-26-ready-player-one %}), de Ernest Cline, recomendado por Microsiervos varias veces, y por Kevin Kelly en el [podcast de Tim Ferriss](http://fourhourworkweek.com/2016/06/05/kevin-kelly-ai-virtual-reality-and-the-inevitable) ~ *Abril 2017*
 - [The nature of software development]({{ site.baseurl }}{% post_url 2017-03-05-the-nature-of-software-developent %}), de Ron Jeffries, recomendado por [Carlos Buenosvinos](https://twitter.com/buenosvinos/status/721623461702078464/photo/1) (antes en Atrápalo Eng, ahora en Xing,...) ~ *Marzo 2017*
 - [The Phoenix project]({{ site.baseurl }}{% post_url 2017-01-19-the-phoenix-project %}), de Gene Kim, libro similar a
 [The goal]({{ site.baseurl }}{% post_url 2013-04-10-la-meta %}) pero orientado a IT, encontrado en el [blog de Eduardo Ferro](http://www.eferro.net/2016/03/some-books-i-recently-read.html) ~ *Enero 2017*
-- [The four hour body](https://github.com/rchavarria/blog-post-incubator/blob/master/published-book-notes/4-hour-body-by-tim-ferriss.markdown), de Tim Ferris ~ *Septiembre 2016*
+- [The four hour body]({{ site.baseurl }}{% post_url 2016-12-04-four-hour-body %}), de Tim Ferris ~ *Septiembre 2016*
 - [Zen y el arte del mantenimiento de motocicletas]({{ site.baseurl }}{% post_url 2016-09-18-zen-arte-mantenimiento-motocicletas %}), de Robert M. Pirsig, recomendado por [@mpjme en FunFunFunction #18](https://www.youtube.com/watch?v=lrf6xuFq1Ms&t=90) ~ *Agosto 2016*
 - [Practical Vim]({{ site.baseurl }}{% post_url 2016-07-17-practical-vim %}), de Drew Neil ~ *Julio 2016*
 - [Code: the hidden language of computer hardware and software]({{ site.baseurl }}{% post_url 2016-04-10-code %}), de Charles Petzold, recomendado por Scott Hanselman y Dave Rael en el [episodio 83 de Developer on Fire podcast](http://developeronfire.com/episode-083-scott-hanselman-learn-balance) ~ *Abril 2016*
 - [Software craftsmanship]({{ site.baseurl }}{% post_url 2016-03-15-the-software-craftsman %}), de Sandro Mancuso ~ *Marzo 2016*
-- [How not to be wrong: the power of mathematical thinking](https://github.com/rchavarria/blog-post-incubator/blob/master/published-book-notes/how-not-to-be-wrong-by-jordan-ellenberg.markdown), de Jordan Ellenberg ~ *Febrero 2016*
-- [Ten-day MBA](https://github.com/rchavarria/blog-post-incubator/tree/master/published-book-notes), de Steven Silbiger ~ *Enero 2016*
+- [How not to be wrong: the power of mathematical thinking]({{ site.baseurl }}{% post_url 2016-07-01-how-not-be-wrong %}), de Jordan Ellenberg ~ *Febrero 2016*
+- [Ten-day MBA]({{ site.baseurl }}{% post_url 2016-06-30-mba-diez-dias %}), de Steven Silbiger ~ *Enero 2016*
 - [Soft Skills: The software developer's life manual]({{ site.baseurl }}{% post_url 2015-11-08-soft-skills %}), de John Sonmez ~ *Noviembre 2015*
 - [The Passionate Programmer]({{ site.baseurl }}{% post_url 2015-09-20-passionate-programmer %}), de Chad Fowler ~ *Septiembre 2015*
 - [The martian]({{ site.baseurl }}{% post_url 2015-09-06-the-martian %}), de Andy Weir, *Septiembre 2015*
@@ -163,12 +166,12 @@ Así que aquí está mi Lista de Lectura:
 - [Extreme programming explained]({{ site.baseurl }}{% post_url 2015-01-02-extreme-programming-explained %}), de Kent Beck ~ *Enero 2015*
 - [Stop stealing dreams]({{ site.baseurl }}{% post_url 2015-03-13-stop-stealing-dreams %}), de Seth Godin ~ *Octubre 2014*
 - [How to start a conversation and make friends]({{ site.baseurl }}{% post_url 2014-12-05-how-to-start-conversations-and-make-friends %}), de Don Gabor ~ *Julio 2014*
-- [Snow crash](http://www.amazon.com/Snow-Crash-Bantam-Spectra-Book/dp/0553380958), de Neal Stephenson ~ *Mayo 2014*
-- [El cuadrante del flujo del dinero](https://github.com/rchavarria/book-notes/blob/master/published/cuadrante-flujo-dinero-by-robert-kiyosaki.md), de Robert Kiyosaki ~ *Marzo 2014*
+- [Snow crash](https://amzn.to/2OrQYdW), de Neal Stephenson ~ *Mayo 2014*
+- [El cuadrante del flujo del dinero]({{ site.baseurl }}{% post_url 2014-03-01-cuadrante-flujo-dinero %}), de Robert Kiyosaki ~ *Marzo 2014*
 - [Planifica tu éxito, de aprendiz a empresario]({{ site.baseurl }}{% post_url 2014-02-18-planifica-tu-exito %}), de Roberto Canales (Autentia) ~ *Enero 2014*
-- [Padre rico, padre pobre](http://www.amazon.com/Padre-Rico-Pobre-Spanish-Edition/dp/160396181X), de Robert Kiyosaki ~ *Septiembre 2013*
+- [Padre rico, padre pobre](https://amzn.to/2OtKR9d), de Robert Kiyosaki ~ *Septiembre 2013*
 - [Instant Markdown]({{ site.baseurl }}{% post_url 2013-10-07-instant-markdown %}), de Arturo Herrero ~ *Septiembre 2013*
-- [Como ganar amigos e influir sobre las personas](https://github.com/rchavarria/book-notes/blob/master/published/ganar-amigos-influir-personas-by-dale-carnegie.md),
+- [Como ganar amigos e influir sobre las personas]({{ site.baseurl }}{% post_url 2013-07-01-como-ganar-amigos %}),
 de Dale Carnegie ~ *Julio 2013*
 - [La meta: un proceso de mejora contínua]({{ site.baseurl }}{% post_url 2013-04-10-la-meta %}), de Eliyahu M. Goldratt ~ *Abril 2013*
 - [Agile estimating and planning]({{ site.baseurl }}{% post_url 2013-02-13-agile-estimating-and-planning %}), de Mike Cohn ~ *Febrero 2013*
@@ -180,18 +183,17 @@ de Dale Carnegie ~ *Julio 2013*
 - [Programming Pearls]({{ site.baseurl }}{% post_url 2012-05-25-programming-pearls %}), de Jon Bentley ~ *Marzo 2012*
 - [Refactoring: improving the design of existing code]({{ site.baseurl }}{% post_url 2012-01-25-refactoring-improving-the-design-of-existing-code %}), de Martin Fowler ~ *Enero 2012*
 - [The Clean Coder: A Code of Conduct for Professional Programmers]({{ site.baseurl }}{% post_url 2011-10-14-the-clean-coder %}), de Robert C. Martin ~ *Octubre 2011*
-- [Bésame mucho](http://www.casadellibro.com/libro-besame-mucho-como-criar-a-tus-hijos-con-amor-lujo/1159119/2900001206153), de Carlos gonzalez ~ *Agosto 2011*
+- [Bésame mucho](https://amzn.to/2FTBvRi), de Carlos gonzalez ~ *Agosto 2011*
 - [Linchpin]({{ site.baseurl }}{% post_url 2011-09-01-linchpin %}), de Seth Godin ~ *Agosto 2011*
 - [Nikola Tesla (biografía)]({{ site.baseurl }}{% post_url 2011-08-03-nikola-tesla-el-genio-al-que-le-robaron-la-luz %}), de Margaret Cheney ~ *Mayo 2011*
 - [God and the new physics]({{ site.baseurl }}{% post_url 2011-04-08-god-and-the-new-physics %}), de Paul Davies ~ *Abril 2011*
 - [Dormir sin lágrimas]({{ site.baseurl }}{% post_url 2011-03-29-dormir-sin-lagrimas %}), de Rosa Jové ~ *Marzo 2011*
 - [Apprenticeship patterns]({{ site.baseurl }}{% post_url 2011-03-24-apprenticeship-patterns %}) ~ *Marzo 2011*
-- Peopleware, de Tom DeMarco y Timoth Lister ~ *Febrero 2011*
-- Clean code, de Robert C. Martin ~ *Enero 2011*
-- Implementation patterns, de Kent Beck ~ *Enero 2011*
-- Java concurrency in practice, de Brian Goetz, Time Peierls, Joshua Bloch, Joseph Bowbeer, David Holmes, Doug Lea ~ *Diciembre 2010*
-- Effective java, de Joshua Bloch ~ *Noviembre 2010*
-- The pragmatic programmer, de Adrew Hunt y David Thomas ~ *Verano 2010*
-- Head first: design patterns, de Kathy Sierra ~ *Verano 2010*
-- Design patterns, de Gang of Four ~ *Verano 2010*
-
+- [Peopleware](https://amzn.to/2TLnSY4), de Tom DeMarco y Timothy Lister ~ *Febrero 2011*
+- [Clean code](https://amzn.to/2UueiNu), de Robert C. Martin ~ *Enero 2011*
+- [Implementation patterns](https://amzn.to/2UuexrS), de Kent Beck ~ *Enero 2011*
+- [Java concurrency in practice](https://amzn.to/2UtM6KI), de Brian Goetz, Time Peierls, Joshua Bloch, Joseph Bowbeer, David Holmes, Doug Lea ~ *Diciembre 2010*
+- [Effective java](https://amzn.to/2D0M2bJ), de Joshua Bloch ~ *Noviembre 2010*
+- [The pragmatic programmer](https://amzn.to/2Verl2O), de Adrew Hunt y David Thomas ~ *Verano 2010*
+- [Head first: design patterns](https://amzn.to/2CSdkkq), de Kathy Sierra ~ *Verano 2010*
+- [Design patterns](https://amzn.to/2FRNpeq), de Gang of Four ~ *Verano 2010*

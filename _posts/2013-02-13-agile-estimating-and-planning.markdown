@@ -4,9 +4,8 @@ date: 2013-02-13 13:08
 author: Rubén Chavarría
 comments: true
 categories: 
-- personal
-- book reviews
-- agile
+- Reseñas
+- Agile
 published: true
 footer: false
 sidebar: true
@@ -14,7 +13,7 @@ sidebar: true
 
 ##### de Mike Cohn
 
-![Agile estimating and planning](http://www.mcwherter.net/Portals/McWherter/9780131479418.jpg)
+[![Agile estimating and planning](http://www.mcwherter.net/Portals/McWherter/9780131479418.jpg)][1]
 
 ## Por qué lo he leído
 
@@ -152,7 +151,10 @@ cuyas estimaciones sean iguales o menores que la velocidad del equipo.
 
 ## Otras lecturas y enlaces relacionadas
 
+* [Agile estimating and planning][1] en Amazon
 * [Guía de conceptos ágiles](http://jmbeas.es/guias/)
 * [Jose Ramón Díaz](http://twitter.com/joserra_diaz/), de [Agilar](http://www.agilar.org/),
 habla de [estimaciones ágiles](http://najaraba.blogspot.com.es/2013/02/la-estimacion-agil-de-proyectos-puntos.html)
 en su blog.
+
+[1]: https://amzn.to/2WtEVQ8

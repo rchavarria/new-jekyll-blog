@@ -3,9 +3,8 @@ title: "Programming pearls"
 date: 2012-05-25 05:25
 author: Rubén Chavarría
 categories: 
-- book reviews
-- software
-- clasicos
+- Reseñas
+- Clásicos
 comments: true
 published: true
 footer: false
@@ -16,13 +15,12 @@ sidebar: true
 
 ## Por qué lo he leído
 
-![Programming pearls](http://ecx.images-amazon.com/images/I/41ETT7KQRRL._SL500_AA300_.jpg)
+[![Programming pearls](http://ecx.images-amazon.com/images/I/41ETT7KQRRL._SL500_AA300_.jpg)][1]
 
 Cuando leí 
-[Apprenticeship patterns](http://rchavarria.wordpress.com/2011/03/24/apprenticeship-patterns/),
+[Apprenticeship patterns]({{ site.baseurl }}{% post_url 2011-03-24-apprenticeship-patterns %}),
 me gustó mucho su filosofía, sus consejos para ser un mejor profesional en 
-cuanto a desarrollar software se refiere. Unos de los consejos es: 
-[estudia a los clásicos](http://ofps.oreilly.com/titles/9780596518387/construct_your_curriculum.html#study_the_classics).
+cuanto a desarrollar software se refiere. Unos de los consejos es: estudia a los clásicos.
 Así que cuando supe de la existencia de este libro, me propuse leerlo, porque 
 me dió la impresión de que era uno de *los clásicos*.
 
@@ -84,3 +82,5 @@ vencerás, escaneado, acumular resultados, conocer el límite inferior
 
 > El principio más importante sobre optimización es que no debería hacerse muy 
 a menudo
+
+[1]: https://amzn.to/2JV1HPB

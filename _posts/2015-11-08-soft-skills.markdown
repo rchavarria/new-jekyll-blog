@@ -1,11 +1,10 @@
 ---
-title: "Soft skills"
+title: "Soft skills: the software developer's life manual"
 date: 2015-11-08 18:36
 author: Rubén Chavarría
 comments: true
 categories: 
-- personal
-- book reviews
+- Reseñas
 published: true
 footer: false
 sidebar: true
@@ -13,7 +12,7 @@ sidebar: true
 
 ###### de John Sonmez
 
-![Soft skills]({{ site.baseurl }}/assets/images/2015/soft-skills.jpg)
+[![Soft skills]({{ site.baseurl }}/assets/images/2015/soft-skills.jpg)](https://amzn.to/2OviGXq)
 
 ### Por qué lo he leído
 
@@ -205,8 +204,10 @@ período de tiempo. Por ejemplo: salir a correr 3 veces por semana, o hacer
 
 ### Recursos relacionados
 
+- [Soft skills: the software developer's life manual] en Amazon
 - [Notas tomadas sobre Soft skills]
 - Blog [Dev's kitchen]
 
+[Soft skills: the software developer's life manual]: https://amzn.to/2OviGXq
 [Notas tomadas sobre Soft skills]: https://github.com/rchavarria/blog-post-incubator/blob/master/published-book-notes/soft-skills-by-john-sonmez.markdown
 [Dev's kitchen]: http://ocana.github.io/

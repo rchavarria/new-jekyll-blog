@@ -4,9 +4,8 @@ date: 2015-03-13 00:39
 author: Rubén Chavarría
 comments: true
 categories: 
-- personal
-- book reviews
-- education
+- Reseñas
+- Educación
 published: true
 footer: false
 sidebar: true
@@ -16,7 +15,7 @@ sidebar: true
 
 ## Por qué lo he leído
 
-![Stop stealing dreams](http://s1.hubimg.com/u/11789820_f260.jpg)
+[![Stop stealing dreams](http://s1.hubimg.com/u/11789820_f260.jpg)][1]
 
 Decidí leerlo básicamente porque tengo un hijo. Empezó el *colegio de mayores*
 el pasado mes de septiembre, y desde un tiempo atrás ya me empezó a preocupar
@@ -114,13 +113,14 @@ pérdida de tiempo, pero no llegué a ver el problema expuesto por Seth.
 
 ## Recursos relacionados
 
+- [Stop stealing dreams][1], en el blog de Seth Godin
 - [Notas extendidas sobre el libro]
 - [Khan Academy]
 - [Stanford University online]
 - [MIT open courses]
 
-[Notas extendidas sobre el libro]: https://github.com/rchavarria/book-notes/tree/master/published/stop-stealing-dreams-by-seth-godin.md
+[1]: https://seths.blog/2014/09/the-shameful-fraud-of-sorting-for-youth-meritocracy/
+[Notas extendidas sobre el libro]: https://github.com/rchavarria/blog-post-incubator/blob/master/published-book-notes/stop-stealing-dreams-by-seth-godin.md
 [Khan Academy]: https://www.khanacademy.org
 [Stanford University online]: http://online.stanford.edu
 [MIT open courses]: http://ocw.mit.edu/index.htm
-
