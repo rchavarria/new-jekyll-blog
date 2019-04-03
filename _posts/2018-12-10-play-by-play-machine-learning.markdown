@@ -1,5 +1,8 @@
 ---
+layout: post
 title: "Play by play: Machine learning exposed"
+date: 2018-12-10 00:00
+author: Ruben Chavarria
 categories:
 - Cursos
 - Pluralsight

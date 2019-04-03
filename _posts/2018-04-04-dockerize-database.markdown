@@ -1,5 +1,8 @@
 ---
+layout: post
 title: "Dockerizar una base de datos"
+date: 2018-04-04 00:00
+author: Ruben Chavarria
 categories:
 - Proyectos
 - Docker

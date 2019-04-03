@@ -1,5 +1,8 @@
 ---
+layout: post
 title: "Material extra de Learning how to learn"
+date: 2018-11-22 00:00
+author: Ruben Chavarria
 categories:
 - Cursos
 ---

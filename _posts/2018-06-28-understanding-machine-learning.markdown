@@ -1,5 +1,8 @@
 ---
+layout: post
 title: "Curso: Understanding Machine Learning"
+date: 2018-06-28 00:00
+author: Ruben Chavarria
 categories:
 - Cursos
 - Aprendizaje

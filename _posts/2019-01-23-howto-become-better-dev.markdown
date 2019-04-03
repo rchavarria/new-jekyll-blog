@@ -1,5 +1,8 @@
 ---
+layout: post
 title: "How to become a better software developer"
+date: 2019-01-23 00:00
+author: Ruben Chavarria
 categories:
 - Artículos
 ---

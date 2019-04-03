@@ -1,5 +1,8 @@
 ---
+layout: post
 title: "Implementar un API REST sobre ReactPHP"
+date: 2019-02-11 00:00
+author: Ruben Chavarria
 categories:
 - REST
 - Integraciones

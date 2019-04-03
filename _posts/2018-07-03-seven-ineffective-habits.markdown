@@ -1,5 +1,8 @@
 ---
+layout: post
 title: "Seven Ineffective Coding Habits of Many Programmers"
+date: 2018-07-03 00:00
+author: Ruben Chavarria
 categories:
 - Charlas
 - Buenas prácticas

@@ -1,5 +1,8 @@
 ---
+layout: post
 title: "Leer correos de GMail desde una aplicación Node.js"
+date: 2018-03-18 00:00
+author: Ruben Chavarria
 categories:
 - Proyectos
 - Node.js
