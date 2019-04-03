@@ -6,8 +6,6 @@ This project is based on [Primer Jekyll theme]
 
 # TODOs
 
-- [ ] Add affiliate links to book reviews
-      - Voy por "Refactoring: improving the design of existing code"
 - [ ] **PUBLISH**
 - [ ] Add notes from articles, videos, and so on that are for years in gmail
 - [ ] Categories for posts:
@@ -31,6 +29,7 @@ This project is based on [Primer Jekyll theme]
 - [x] Blog header must be same width that content
 - [x] Add books from gmail
 - [x] Run blog locally with docker compose
+- [x] Add affiliate links to book reviews
 
 # Run Jekyll locally with docker
 
