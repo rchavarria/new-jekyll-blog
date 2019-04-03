@@ -6,6 +6,7 @@ This project is based on [Primer Jekyll theme]
 
 # TODOs
 
+- [ ] Merge PWA course
 - [ ] **PUBLISH**
 - [ ] Add notes from articles, videos, and so on that are for years in gmail
 - [ ] Categories for posts:
