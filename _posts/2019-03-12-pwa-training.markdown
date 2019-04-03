@@ -460,6 +460,38 @@ Como último recurso, un [codelab sobre Cloud Firestore][16]
 
 Aquí se verá cómo integrar Google Analytics en nuestra aplicación.
 
+Lo primero que se necesita es una cuenta de Google Analytics. Y después un
+*track ID*.
+
+Se pueden añadir/enviar eventos sucedidos en nuestra aplicación a través del
+[API `gtag`][17] de Google. Por ejemplo, añadir un evento de *favoritos* al
+ejecutar la siguiente función:
+
+```javascript
+const favorite = () => {
+  gtag('event', 'favorite', {
+    'event_category': 'photos',
+    'event_label': 'cats'
+  });
+};
+```
+
+A través de eventos, podremos registrar en Analytics cuantos usuarios se suscriben
+a recibir notificaciones push, o qué errores ocurren en la aplicación.
+
+Es posible utilizar Google Analytics desde un Service Worker, pero no es fácil
+porque la librería `gtag` requiere acceso al objeto `window`, pero los
+Service Worker no tienen acceso a él. Google ha creado una librería para
+ayudarnos con esto: [Measurement Protocol API][18].
+
+Finalmente, para utilizar Google Analytics en modo offline, también se necesita
+algo de ayuda. Workbox[6] está para ello. Tiene un módulo específico para
+Analytics. Pero este lab tampoco explica mucho sobre ello.
+
+# [Developing PWAs 08.0](https://codelabs.developers.google.com/codelabs/pwa-integrating-push/index.html?index=..%2F..dev-pwa-training#0)
+
+En este lab se verá cómo usar el [API de notificaciones push][19].
+
 ## References
 
 - [Código fuente del laboratorio][10]
@@ -469,6 +501,8 @@ Aquí se verá cómo integrar Google Analytics en nuestra aplicación.
 - [Service Worker API][9]
 - [The offline cookbook][13], de Jake Archibald, donde explica cómo funciona la
 cache y estrategias de cacheo y todo sobre caches
+- [Workbox][6], muy buena librería sobre Service Worker que se ha utilizado en
+varios de estos labs
 
 [Lighthouse]: https://developers.google.com/web/tools/lighthouse/
 [1]: https://developer.mozilla.org/en-US/docs/Web/API/ReadableStream
@@ -487,3 +521,6 @@ cache y estrategias de cacheo y todo sobre caches
 [14]: https://console.firebase.google.com/
 [15]: https://firebase.google.com/docs/firestore/data-model
 [16]: https://codelabs.developers.google.com/codelabs/firestore-web/index.html
+[17]: https://developers.google.com/gtagjs/reference/api
+[18]: https://developers.google.com/analytics/devguides/collection/protocol/v1/
+[19]: https://developer.mozilla.org/en-US/docs/Web/API/Push_API
