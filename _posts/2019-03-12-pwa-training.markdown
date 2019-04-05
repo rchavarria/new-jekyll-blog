@@ -492,6 +492,38 @@ Analytics. Pero este lab tampoco explica mucho sobre ello.
 
 En este lab se verá cómo usar el [API de notificaciones push][19].
 
+Lo primero que hay que hacer es pedir permiso al usuario. Ah, esos bonitos
+popups del navegador pidiendo permisos para todo:
+
+```javascript
+Notification.requestPermission(status => {
+  console.log('Notification permission status:', status);
+});
+```
+
+Para mostrar una notificación, se hace a través del registro del Service Worker:
+
+```javascript
+navigator.serviceWorker.getRegistration().then(reg => {
+  const options = {}; // set as many options as you want
+  reg.showNotification('Hello world!', options);
+});
+```
+
+En las opciones, se puede añadir un icono, el cuerpo del mensaje, efectos de
+animación,... Incluso algunas *acciones*.
+
+Estas acciones son como botones adicionales que suelen aparecer cuando el usuario
+pasa el ratón por encima de la notificación.
+
+
+
+
+Voy por "Handle the notificationclose event"
+
+
+
+
 ## References
 
 - [Código fuente del laboratorio][10]
