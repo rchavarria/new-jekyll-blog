@@ -516,13 +516,27 @@ animación,... Incluso algunas *acciones*.
 Estas acciones son como botones adicionales que suelen aparecer cuando el usuario
 pasa el ratón por encima de la notificación.
 
+Cuando una notificación se cierra, se lanza un event `notificationclose`, el cual
+se puede estar escuchando en el Service Worker:
 
+```javascript
+self.addEventListener('notificationclose', event => {
+});
+```
 
+Cuando el usuario hace click, el evento es `notificationclick`.
 
-Voy por "Handle the notificationclose event"
+El objeto `event` pasado al listener tiene atributos como `notification` (para
+cerrar la notificación con `notification.close()`) o `action` para acceder a la
+acción clickada por el usuario.
 
+Se suele usar el estándar [VAPID][20] para usar autenticación y autorización en
+las notificaciones push. No es una autenticación tan segura como OAuth, pero
+al menos sirve para conocer el origen de las notificaciones.
 
+# [Developing PWAs 09.0](https://codelabs.developers.google.com/codelabs/pwa-responsive-design/index.html?index=..%2F..dev-pwa-training#0)
 
+Este lab trata sobre responsive design.
 
 ## References
 
@@ -556,3 +570,4 @@ varios de estos labs
 [17]: https://developers.google.com/gtagjs/reference/api
 [18]: https://developers.google.com/analytics/devguides/collection/protocol/v1/
 [19]: https://developer.mozilla.org/en-US/docs/Web/API/Push_API
+[20]: https://blog.mozilla.org/services/2016/04/04/using-vapid-with-webpush/
