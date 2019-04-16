@@ -538,6 +538,26 @@ al menos sirve para conocer el origen de las notificaciones.
 
 Este lab trata sobre responsive design.
 
+En primer lugar, con *media queries*, cambia el aspecto de la página, pasando de
+3 columnas a 1:
+
+```css
+@media screen and (max-width: 48rem) {
+  .container .col { width: 95%; }
+}
+```
+
+[Flexbox][21] es bastante más práctico de usar. Aunque también se puede mezclar
+con las media queries.
+
+Flexbox viene con muchas propiedades y valores que hace que los diseños
+responsive sean mucho más fáciles de hacer, dejando mucho del trabajo duro a los
+pobres navegadores.
+
+# [Developing PWAs 09.1](https://codelabs.developers.google.com/codelabs/pwa-responsive-images/index.html?index=..%2F..dev-pwa-training#0)
+
+Y este trata sobre imágenes *responsivas*.
+
 ## References
 
 - [Código fuente del laboratorio][10]
@@ -571,3 +591,4 @@ varios de estos labs
 [18]: https://developers.google.com/analytics/devguides/collection/protocol/v1/
 [19]: https://developer.mozilla.org/en-US/docs/Web/API/Push_API
 [20]: https://blog.mozilla.org/services/2016/04/04/using-vapid-with-webpush/
+[21]: https://www.w3.org/TR/css-flexbox-1/
