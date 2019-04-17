@@ -558,6 +558,66 @@ pobres navegadores.
 
 Y este trata sobre imágenes *responsivas*.
 
+El atributo `srcset` en las etiquetas `img` es muy útil para cargar ciertas
+imágenes dependiendo del tamaño de la ventana en el dispositivo, la densidad de
+píxeles u otros parámetros. Por ejemplo, para que varíe según la anchura:
+
+```html
+<img id="sfo"
+     src="images/sfo-500_small.jpg"
+     srcset="images/sfo-1600_large.jpg 1600w, images/sfo-500_small.jpg 500w"
+     alt="View from aircraft window near San Francisco airport">
+```
+
+Es bastante común limitar el tamaño de las imágenes a través de CSS. Por ejemplo,
+con `max-width: 50vw` (50% del tamaño del *viewport*). El problema de esto es que
+el navegador renderiza el CSS después de cargar las imágenes, con lo que a la
+hora de cargar la imagen no sabe cuánto espacio va a ocupar. Para ayudarnos con
+esto, con el atributo `sizes` de `img` podemos indicarle al navegador este tamaño
+antes de que cargue la imagen. De esta forma, con un tamaño máximo del 50% (`50vw`),
+no haría falta cargar una imagen que ocupara toda la pantalla.
+
+También se pueden usar media queries para cambiar el ancho de las imágenes:
+
+```css
+@media screen and (max-width: 700px) {
+  img#sfo { max-width: 90vw; }
+}
+```
+
+Lo equivalente en el atributo `sizes`:
+
+```html
+<img id="sfo"
+     srcset="images/sfo-1600_large.jpg 1600w, images/sfo-500_small.jpg 500w"
+     sizes="(max-width: 700px) 90vw, 50vw"
+     ...>
+```
+
+También se pueden definir distintas fuentes con los tags `picture` y `source`:
+
+```html
+<figure>
+    <picture>
+      <source media="(min-width: 750px)"
+              srcset="images/horses-1600_large_2x.jpg 2x,
+                      images/horses-800_large_1x.jpg" />
+      <source media="(min-width: 500px)"
+              srcset="images/horses_medium.jpg" />
+      <img src="images/horses_small.jpg" alt="Horses in Hawaii">
+    </picture>
+    <figcaption>Horses in Hawaii</figcaption>
+</figure>
+```
+
+Al final, la imagen se muestra en el tag `img`, con lo que los navegadores
+antiguos ignorarán `picture` y `source`. Cada tag `source` puede tener una
+media query diferente, lo que la diferencia de `srcset` visto antes.
+
+# [Developing PWAs 10.0](https://codelabs.developers.google.com/codelabs/pwa-indexed-db/index.html?index=..%2F..dev-pwa-training#0)
+
+Hoy toca aprender sobre IndexedDB.
+
 ## References
 
 - [Código fuente del laboratorio][10]
