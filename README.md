@@ -6,7 +6,6 @@ This project is based on [Primer Jekyll theme]
 
 # TODOs
 
-- [ ] Merge PWA course
 - [ ] **PUBLISH**
 - [ ] Add notes from articles, videos, and so on that are for years in gmail
 - [ ] Categories for posts:
@@ -31,6 +30,7 @@ This project is based on [Primer Jekyll theme]
 - [x] Add books from gmail
 - [x] Run blog locally with docker compose
 - [x] Add affiliate links to book reviews
+- [x] Merge PWA course
 
 # Run Jekyll locally with docker
 
