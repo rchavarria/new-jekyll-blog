@@ -618,6 +618,46 @@ media query diferente, lo que la diferencia de `srcset` visto antes.
 
 Hoy toca aprender sobre IndexedDB.
 
+El tutorial usa `idb.js`, una librería donde se accede a IndexedDB del navegador
+a través de un API de promesas. El código de la [librería `idb`][22] está
+disponible en GitHub, el creador es Jake Archibald.
+
+Para crear la primera base de datos:
+
+```javascript
+const dbPromise = idb.open('couches-n-things', 1, (upgradeDb) => {
+  upgradeDb.createObjectStore('products', {keyPath: 'id'});
+});
+```
+
+Donde `dbPromise` resuelve a una conexión a la base de datos.
+
+Todas las operaciones contra la BBDD hay que hacerlas en una transacción. Por
+ejemplo, para añadir productos al almacenamiento de objetos (*object store*)
+`products`:
+
+```javascript
+dbPromise.then((db) => {
+  // create transaction
+  const tx = db.transaction('products', 'readwrite');
+  // get object store
+  const store = tx.objectStore('products');
+  // add item
+  const item = {};
+  return store.add(item); // returns a promise
+})
+.then(() => {
+  // do stuff
+})
+```
+
+Para consultar los datos, debemos crear primero un índice. Luego, podemos buscar
+un ítem pasando un valor igual a alguno que exista en el índice, o podemos crear
+un cursor e iterar por él.
+
+Todo eso es bastante lioso, y el tutorial pasa bastante por encima de todo esto y
+sin un plan específico, por lo que no le presto mucha atención.
+
 ## References
 
 - [Código fuente del laboratorio][10]
@@ -652,3 +692,4 @@ varios de estos labs
 [19]: https://developer.mozilla.org/en-US/docs/Web/API/Push_API
 [20]: https://blog.mozilla.org/services/2016/04/04/using-vapid-with-webpush/
 [21]: https://www.w3.org/TR/css-flexbox-1/
+[22]: https://github.com/jakearchibald/idb
