@@ -4,8 +4,7 @@ date: 2014-12-05 18:11
 author: Rubén Chavarría
 comments: true
 categories: 
-- personal
-- book reviews
+- Reseñas
 published: true
 footer: false
 sidebar: true
@@ -13,7 +12,7 @@ sidebar: true
 
 ##### de Don Gabor
 
-![Portada del libro How to start a conversation]({{ site.baseurl }}/assets/images/2014/how-to-start-conversation.jpg)
+[![Portada del libro How to start a conversation]({{ site.baseurl }}/assets/images/2014/how-to-start-conversation.jpg)][1]
 
 ## Por qué lo he leído
 
@@ -77,7 +76,8 @@ que quiero recordar ya lo he escrito antes, aquí dejo un enlace a
 
 ## Recursos relacionados
 
-- [Comprar el libro en Amazon](http://www.amazon.com/How-Start-Conversation-Make-Friends/dp/1451610998)
+- [How to start a conversation and make friends][1], en Amazon
 - [Mis notas sobre How to start conversations and make friends]
 
+[1]: https://amzn.to/2FCYdNn
 [Mis notas sobre How to start conversations and make friends]: https://github.com/rchavarria/blog-post-incubator/blob/master/published-book-notes/how-start-conversation-make-friends-by-don-gabor.md

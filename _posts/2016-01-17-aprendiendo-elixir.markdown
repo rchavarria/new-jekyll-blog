@@ -121,8 +121,8 @@ suficiente para ir cogiendo ritmo.
 
 ## Asaltos
 
-1. [Primer asalto]({{ site.baseurl }}{% post_url 2016-02-09-elixir-primer-asalto %}): tipos, funciones, pattern matching y módulos
-2. [Segundo asalto]({{ site.baseurl }}{% post_url 2016-03-27-elixir-segundo-asalto %}): listas, diccionarios, structs y sets
+1. [Primer asalto]({{ site.baseurl }}{% post_url 2016-02-14-elixir-primer-asalto %}): tipos, funciones, pattern matching y módulos
+2. [Segundo asalto]({{ site.baseurl }}{% post_url 2016-03-28-elixir-segundo-asalto %}): listas, diccionarios, structs y sets
 3. [Tercer asalto]({{ site.baseurl }}{% post_url 2016-05-01-elixir-tercer-round %}): más colecciones, módulos `Enum`, `Stream` y *comprehensions*
 4. [Cuarto asalto]({{ site.baseurl }}{% post_url 2016-08-10-elixir-cuarto-asalto %}): tipos de datos binarios, cadenas, `String`s y *sigils*
 5. [Quinto asalto]({{ site.baseurl }}{% post_url 2016-09-11-elixir-quinto-asalto %}): estructuras de control: `if`, `unless`, `cond` y `case`

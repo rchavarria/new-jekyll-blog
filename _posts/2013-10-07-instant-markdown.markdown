@@ -4,8 +4,7 @@ date: 2013-10-07 09:38
 author: Rubén Chavarría
 comments: true
 categories: 
-- personal
-- book reviews
+- Reseñas
 published: true
 footer: false
 sidebar: true
@@ -13,7 +12,7 @@ sidebar: true
 
 ##### de Arturo Herrero
 
-![Instant Markdown](http://www.packtpub.com/sites/default/files/9145OT_Instant%20Markdown_cov_0.jpg)
+[![Instant Markdown](http://www.packtpub.com/sites/default/files/9145OT_Instant%20Markdown_cov_0.jpg)][1]
 
 ## Por qué lo he leído
 
@@ -73,3 +72,5 @@ carácteres en la misma línea: `-`, `*`, `_`. Así:
 formatos a partir de Markdown: HTML, docx, odt, ebook, latex y pdf
 - Y si Markdown se queda corto en alǵun momento: 
 [MultiMarkdown](http://fletcherpenney.net/multimarkdown)
+
+[1]: https://amzn.to/2TC7rxk

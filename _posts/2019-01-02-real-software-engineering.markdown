@@ -1,5 +1,8 @@
 ---
+layout: post
 title: "Real Software Engineering"
+date: 2019-01-02 00:00
+author: Ruben Chavarria
 categories:
 - Charlas
 - Ingeniería de Software

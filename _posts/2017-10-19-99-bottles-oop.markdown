@@ -207,9 +207,8 @@ objetos que les llamen deban conocer demasiadas cosas.
 - Las autoras: [Sandi Metz] y [Katrina Owen]
 
 [Notas sobre 99 bottles of OOP]: https://github.com/rchavarria/blog-post-incubator/blob/master/published-book-notes/99-bottles-by-sandi-katrina.notes.markdown
-[Refactoring to patterns]: https://www.amazon.es/Refactoring-Patterns-Addison-Wesley-Signature/dp/0321213351
+[Refactoring to patterns]: https://amzn.to/2Tj23yQ
 [99 bottles of OOP]: https://www.sandimetz.com/99bottles
 [Programming OODR]: http://www.poodr.com/
 [Sandi Metz]: https://www.sandimetz.com/
 [Katrina Owen]: http://www.kytrinyx.com/
-

@@ -1,5 +1,8 @@
 ---
+layout: post
 title: "Refactorizar, ¿por dónde empiezo?"
+date: 2018-11-20 00:00
+author: Ruben Chavarria
 categories:
 - Artículos
 - Refactoring

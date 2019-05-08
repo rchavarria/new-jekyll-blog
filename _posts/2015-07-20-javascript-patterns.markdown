@@ -4,9 +4,8 @@ date: 2015-07-19 21:10
 author: Rubén Chavarría
 comments: true
 categories: 
-- personal
-- book reviews
-- javascript
+- Reseñas
+- JavaScript
 published: true
 footer: false
 sidebar: true
@@ -14,7 +13,7 @@ sidebar: true
 
 ##### de Stoyan Stefanov
 
-![JavaScript patterns](http://akamaicovers.oreilly.com/images/9780596806767/lrg.jpg)
+[![JavaScript patterns](http://akamaicovers.oreilly.com/images/9780596806767/lrg.jpg)](https://amzn.to/2Ose83Z)
 
 ## Por qué lo he leído
 
@@ -84,6 +83,6 @@ HTML.
 - [JavaScript, the good parts], libro de Douglas Crockford
 
 [notas sobre el libro]: https://github.com/rchavarria/blog-post-incubator/blob/master/published-book-notes/javascript-patterns-by-stoyan-stefanov.markdown
-[Learning JavaScript design patterns]: /blog/2015/05/29/learning-javascript-design-patterns/
-[Design patterns]: http://www.amazon.com/Design-Patterns-Elements-Reusable-Object-Oriented-ebook/dp/B000SEIBB8
-[JavaScript, the good parts]: http://www.amazon.com/JavaScript-Good-Parts-Douglas-Crockford/dp/0596517742
+[Learning JavaScript design patterns]: {{ site.baseurl }}{% post_url 2015-05-29-learning-javascript-design-patterns %}
+[Design patterns]: https://amzn.to/2Wq71Mg
+[JavaScript, the good parts]: https://amzn.to/2WqOS0z

@@ -15,7 +15,7 @@ sidebar: true
 
 ##### de Gene Kim
 
-![Phoenix project]({{ site.baseurl }}/assets/images/2017/phoenix-project.png)
+[![Phoenix project]({{ site.baseurl }}/assets/images/2017/phoenix-project.png)](https://amzn.to/2TYkQ78)
 
 ## Por qué lo he leído
 
@@ -96,12 +96,14 @@ sobre nosotros muy a pecho.
 
 ## Recursos relacionados
 
-- [La meta], de Eliyahu M. Goldratt
+- [The Phoenix project] en Amazon
 - [Notas sobre el libro]
+- [La meta], de Eliyahu M. Goldratt
 - Blog de [Eduardo Ferro]
 - [Teoría de las restricciones]
 
-[La meta]: {{ site.baseurl }}{% post_url 2013-04-10-la-meta %}
+[Phoenix project]: https://amzn.to/2TYkQ78
 [Notas sobre el libro]: https://github.com/rchavarria/blog-post-incubator/blob/master/published-book-notes/phoenix-project-by-gene-kim.markdown
+[La meta]: {{ site.baseurl }}{% post_url 2013-04-10-la-meta %}
 [Eduardo Ferro]: http://www.eferro.net/2016/03/some-books-i-recently-read.html
 [Teoría de las restricciones]: https://es.wikipedia.org/wiki/Teor%C3%ADa_de_las_limitaciones

@@ -4,8 +4,8 @@ date: 2017-03-26 20:52
 author: Ruben Chavarria
 comments: true
 categories: 
-- book reviews
-- science fiction
+- Reseñas
+- Ciencia ficción
 published: true
 footer: false
 sidebar: true
@@ -15,7 +15,7 @@ sidebar: true
 
 ## Por qué lo he leído
 
-![Ready player one]({{ site.baseurl }}/assets/images/2017/ready-player-one.jpg)
+[![Ready player one]({{ site.baseurl }}/assets/images/2017/ready-player-one.jpg)](https://amzn.to/2JvcmjT)
 
 La primera vez que leí una recomendación sobre el libro fue en [Microsiervos].
 Comentaban que era un libro de ciencia ficción relacionado con los videojuegos
@@ -98,4 +98,4 @@ gracia.
 [IMDB]: http://www.imdb.com/title/tt1677720/?ref_=nv_sr_1
 [Microsiervos]: http://www.microsiervos.com/archivo/libros/ready-player-one.html
 [podcast de Tim Ferris]: http://fourhourworkweek.com/2016/06/05/kevin-kelly-ai-virtual-reality-and-the-inevitable
-[Ready player one]: http://www.amazon.es/gp/product/B00UVAREXK/
+[Ready player one]: https://amzn.to/2JvcmjT

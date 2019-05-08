@@ -1,5 +1,8 @@
 ---
+layout: post
 title: "Curso: How to Think About Machine Learning Algorithms"
+date: 2018-07-25 00:00
+author: Ruben Chavarria
 categories:
 - Cursos
 - Aprendizaje

@@ -3,18 +3,17 @@ title: "Lean software development"
 date: 2012-10-10 10:10
 author: Rubén Chavarría
 categories: 
-- personal
-- agile
-- book reviews
+- Reseñas
+- Agile
 comments: true
 published: true
 footer: false
 sidebar: true
 ---
 
-##### Mary Poppendieck, Tom Poppendiek:</h5>
+##### Mary Poppendieck, Tom Poppendiek
 
-![Lean software development](http://www.poppendieck.com/images/Agiletoolkit.jpg)
+[![Lean software development](http://www.poppendieck.com/images/Agiletoolkit.jpg)][1]
 
 ## Por qué lo he leído 
 
@@ -67,7 +66,7 @@ del software.
 
 ## Otras lecturas y enlaces relacionadas
 
-- [Lean software development](http://www.amazon.com/Lean-Software-Development-Agile-Toolkit/dp/0321150783),
+- [Lean software development][1],
 en Amazon
 - [Lean software development](http://es.wikipedia.org/wiki/Lean_software_development),
 en la Wikipedia (español)
@@ -200,3 +199,5 @@ resultado de pésima calidad
 > Un contrato de precio flexible está diseñado para lidiar con la incertidumbre 
 y complejidad, pero esto no elimina el riesgo, sino que lo traslada del vendedor 
 al cliente
+
+[1]: https://amzn.to/2WBaJTl

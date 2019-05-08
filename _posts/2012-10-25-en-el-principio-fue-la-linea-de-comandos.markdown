@@ -3,9 +3,8 @@ title: "En el principio... fue la línea de comandos"
 date: 2012-10-25 10:25
 author: Rubén Chavarría
 categories: 
-- personal
-- book reviews
-- clasicos
+- Reseñas
+- Ciencia ficción
 comments: true
 published: true
 footer: false
@@ -14,7 +13,7 @@ sidebar: true
 
 ##### Neal Stephenson
 
-![En el principo fue la linea de comandos](http://curiosoperoinutil.com/wp-content/uploads/2006/12/Neal-Stephenson-En-el-principio-era-la-linea-de-comandos.jpg)
+[![En el principo fue la linea de comandos](http://curiosoperoinutil.com/wp-content/uploads/2006/12/Neal-Stephenson-En-el-principio-era-la-linea-de-comandos.jpg)][1]
 
 ## Por qué lo he leído
 
@@ -122,8 +121,11 @@ que cada vez que tu meñique pulsa ENTER, lo estás intentando
 
 ## Otras lecturas y enlaces relacionadas
 
+- [In the beginning... was the command line][1], en Amazon
 - Página de 
 [descarga del libro](http://biblioweb.sindominio.net/telematica/command_es)
 - [Entrada del libro en la Wikipedia](http://es.wikipedia.org/wiki/En_el_principio_fue_la_l%C3%ADnea_de_comandos)
 - Otro libro bastante conocido de Neal Stephenson es 
 [Criptonomicón](http://es.wikipedia.org/wiki/Criptonomic%C3%B3n)
+
+[1]: https://amzn.to/2CJ4B3Q

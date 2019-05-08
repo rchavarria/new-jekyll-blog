@@ -4,10 +4,8 @@ date: 2013-04-10 10:06
 author: Rubén Chavarría
 comments: true
 categories: 
-- personal
-- book reviews
-- agile
-- lean
+- Reseñas
+- Agile
 published: true
 footer: false
 sidebar: true
@@ -15,7 +13,7 @@ sidebar: true
 
 ##### de Eliyahu Goldratt
 
-![La meta](http://ecx.images-amazon.com/images/I/51E50P52AXL._SY300_.jpg)
+[![La meta](http://ecx.images-amazon.com/images/I/51E50P52AXL._SY300_.jpg)][1]
 
 ## Por qué lo he leído
 
@@ -108,6 +106,9 @@ es productivo, todo aquello que no la lleve es imprductivo.
 
 ## Otras lecturas y enlaces relacionadas
 
-- [Lean software development](/blog/2012/10/10/lean-software-development/), de Mary y Tom Poppendiek.
-- [Roberto Hens](https://plus.google.com/105077077543737057709) también lo ha leído, y esto es lo que le parece: 
+- [La meta][1] en Amazon
+- [Lean software development]({{ site.baseurl }}{% post_url 2012-10-10-lean-software-development %}), de Mary y Tom Poppendiek.
+- [Roberto Hens](https://plus.google.com/105077077543737057709) también lo ha leído, y esto es lo que le parece 
 - [Kanban, el origen](http://robertohens.blogspot.com.es/2013/04/Kanban-el-Origen-The-Goal.html).
+
+[1]: https://amzn.to/2YtgwMl

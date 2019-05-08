@@ -1,5 +1,8 @@
 ---
+layout: post
 title: "La pirámide de tests en la práctica"
+date: 2018-12-04 00:00
+author: Ruben Chavarria
 categories:
 - Artículos
 - Testing

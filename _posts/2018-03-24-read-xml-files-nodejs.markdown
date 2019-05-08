@@ -1,5 +1,8 @@
 ---
+layout: post
 title: "Parsear ficheros XML con Node.js"
+date: 2018-03-24 00:00
+author: Ruben Chavarria
 categories:
 - Proyectos
 - Node.js

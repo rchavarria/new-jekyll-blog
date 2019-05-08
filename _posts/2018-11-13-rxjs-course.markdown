@@ -1,5 +1,8 @@
 ---
+layout: post
 title: "Curso sobre RxJS"
+date: 2018-11-13 00:00
+author: Ruben Chavarria
 categories:
 - Cursos
 - JavaScript

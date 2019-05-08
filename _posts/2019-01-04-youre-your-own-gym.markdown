@@ -1,5 +1,8 @@
 ---
+layout: post
 title: "You are your own gym"
+date: 2019-01-04 00:00
+author: Ruben Chavarria
 categories:
 - Libros
 - Ejercicio físico

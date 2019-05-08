@@ -1,5 +1,5 @@
 ---
-title: "The Software Craftsman"
+title: "The software craftsman"
 date: 2016-03-15 22:08
 author: Ruben Chavarria
 comments: true
@@ -14,7 +14,7 @@ sidebar: true
 
 ###### de Sandro Mancuso
 
-![The Software Craftsman](http://www.informit.com/ShowCover.aspx?isbn=0134052501)
+[![The Software Craftsman](http://www.informit.com/ShowCover.aspx?isbn=0134052501)](https://amzn.to/2HFAXAO)
 
 ### Por qué lo he leído
 
@@ -160,8 +160,8 @@ como para hacerlo mejor?
 ### Recursos relacionados
 
 - [Notas tomadas sobre The Software Craftsman]
+- [The software craftsman](https://amzn.to/2HFAXAO) en Amazon
 - Charla de Sandro Mancuso, [The long road]
 
 [Notas tomadas sobre The Software Craftsman]: https://github.com/rchavarria/blog-post-incubator/blob/master/published-book-notes/the-software-craftsman-by-sandro-mancuso.markdown
 [The long road]: https://vimeo.com/167722761
-

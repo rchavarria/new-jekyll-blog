@@ -1,5 +1,8 @@
 ---
+layout: post
 title: "30 días con RxJS"
+date: 2018-11-21 00:00
+author: Ruben Chavarria
 categories:
 - Aprendizaje
 - Programacion

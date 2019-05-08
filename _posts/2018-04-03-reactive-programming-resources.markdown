@@ -1,5 +1,8 @@
 ---
+layout: post
 title: "Recursos sobre reactividad"
+date: 2018-04-03 00:00
+author: Ruben Chavarria
 categories:
 - Recursos
 - JavaScript

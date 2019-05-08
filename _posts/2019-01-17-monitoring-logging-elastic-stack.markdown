@@ -1,5 +1,8 @@
 ---
+layout: post
 title: "Centralized logging with Elastic stack"
+date: 2019-01-17 00:00
+author: Ruben Chavarria
 categories:
 - Cursos
 ---
@@ -152,7 +155,7 @@ alerta a algún sitio
 
 ## Referencias
 
-- [Elastic guides]: el primer sitio donde buscar por información y tutoriales
+- [Elastic guides], el primer sitio donde buscar por información y tutoriales
 
 [Centralized Logging with the Elastic Stack: Getting Started]: https://app.pluralsight.com/library/courses/centralized-logging-elastic-stack
 [JP Toto]: http://jptoto.jp/

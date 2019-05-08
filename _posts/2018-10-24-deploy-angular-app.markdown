@@ -1,5 +1,8 @@
 ---
+layout: post
 title: "Desplegar una aplicación Angular en producción"
+date: 2018-10-24 00:00
+author: Ruben Chavarria
 categories:
 - Aprendizaje
 - Programación

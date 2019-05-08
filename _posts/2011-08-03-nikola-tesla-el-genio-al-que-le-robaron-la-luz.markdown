@@ -3,8 +3,8 @@ title: "Nikola Tesla: el genio al que le robaron la luz"
 date: 2011-08-03 08:03
 author: Rubén Chavarría
 categories: 
-- personal
-- book reviews
+- Reseñas
+- Biografías
 comments: true
 published: true
 footer: false
@@ -15,7 +15,7 @@ sidebar: true
 
 ## Por qué lo he leído
 
-![Nikola Tesla](http://image.casadellibro.com/l/im/7/9788475068787+.jpg)
+[![Nikola Tesla](https://images-na.ssl-images-amazon.com/images/I/41ChyNshY6L._SX321_BO1,204,203,200_.jpg)][1]
 
 Suelo leer [microsiervos](http://www.microsiervos.com) bastante a menudo, y 
 en ese blog son admiradores de Tesla, así que ya tenía cierta introducción 
@@ -71,3 +71,5 @@ debido a eso era un hombre adelantado a su tiempo, muchas veces incomprendido
 y que tuvo que superar tremendas dificultades. Las más difícil, en mi opinión, 
 es el rechazo al reconocimiento que se merecía, y que lo obtuvo a título póstumo. 
 Muy injusto.
+
+[1]: https://amzn.to/2JWDuIF
